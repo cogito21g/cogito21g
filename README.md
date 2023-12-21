@@ -32,8 +32,8 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
  - [양방향 뇌신경 신호처리 시스템](https://github.com/cogito21g/Circuit) (2018.12 ~ 2019.12)
    - 팀장으로 프로젝트 관리 및 보고서 작성
-   - 측정부 제작 및 제어부 알고리즘(FFT) 구현
-   - 
+   - MOSFET을 이용한 측정부 제작
+   - Cortex-M을 이용한 제어부 알고리즘(FFT) 구현
 
 
 ## Extraccurricular Activities
