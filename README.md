@@ -1,15 +1,15 @@
 # 이동형
 연락: [오픈채팅](https://open.kakao.com/o/scCky8Yf)
-----
+
 
 ## Introduction
----
+
 Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어로 성장하려하고 있습니다.
 영상처리 및 딥러닝 분야에 대해서 학습 중입니다.
 
 
 ## Education
----
+
 - Seoul National University of Science & Technology (2013.03 ~ 2022.02)
   - Major: Electrical and Information Engineering 
   - GPA: 3.63/4.50
@@ -18,7 +18,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 
 ## Work Experience
----
+
 #### 학원 강사 (2021.03 ~ 2021.08)
 - Scratch 및 Arduino 교육
 - 중등부 수학 및 과학 교육
@@ -29,7 +29,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 
 ## Project
----
+
  - [양방향 뇌신경 신호처리 시스템](https://github.com/cogito21g/Circuit) (2018.12 ~ 2019.12)
    - 팀장으로 프로젝트 관리 및 보고서 작성
    - 측정부 제작 및 제어부 알고리즘(FFT) 구현
@@ -37,7 +37,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 
 ## Extraccurricular Activities
----
+
 - Naver BoostCamp AI Tech 6기 (2022.11 ~ )
   - 
 
@@ -49,12 +49,12 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
   - 데이터 분석에 필요한 python 프레임워크 교육 이수
 
 ## Skills
----
+
 #### Software Skills
 - Language: C language, C++, Python, Javascript
 - Framework: Pytorch, Django, React.js
 - Tool: Visual Studio, VSCode, Git
 
 #### Certificate
----
+
 - SQLD(2022.09.30)
