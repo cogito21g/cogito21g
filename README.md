@@ -39,7 +39,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 ## Extraccurricular Activities
 
 - Naver BoostCamp AI Tech 6기 (2022.11 ~ )
-  - 
+  - progress
 
 - 42Seoul (2022.02 ~ 2023.10)
   - Bash Shell 일부 기능 구현
