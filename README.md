@@ -61,15 +61,9 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 #### Studying
 - [Image Classification](https://github.com/cogito21g/image_classification) (2023.12)
-  - Alexnet, VGG-16
-  - Resnet
-  - Densenet
-  -> mini project: 
+  - Alexnet, VGG-16, Resnet, Densenet
+  - mini project: []() 
 
 - [Object Detection](https://github.com/cogito21g/object_detection) (2024.01 예정)
-  - RCNN, Fast RCNN, Faster RCNN
-  - SSD
-  - FCN
-  - Mask R-CNN
-  - YOLO
-  -> mini project: 
+  - RCNN, Fast RCNN, Faster RCNN, SSD, FCN, Mask RCNN,YOLO
+  - mini project: []()
