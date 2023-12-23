@@ -10,8 +10,8 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 ## Education
 
-- Seoul National University of Science & Technology (2013.03 ~ 2020.02)
-  - Major: Electrical and Information Engineering 
+- 서울과학기술대학교 (2013.03 ~ 2020.02)
+  - 전공 : 전기정보공학과 
   - GPA: 3.63/4.50
   - 학부 연구생: 회생제동 방식의 모터 제어 연구실
   - 졸업 작품: 양방향 뇌신경 신호처리 시스템
