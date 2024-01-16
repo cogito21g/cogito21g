@@ -1,7 +1,6 @@
 # 이동형
 연락: [오픈채팅](https://open.kakao.com/o/scCky8Yf)
 
-
 ## Introduction
 
 Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어로 성장하려하고 있습니다.
