@@ -29,7 +29,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 - 영유아 질식 위험 알림 시스템(Jetson Xavier + TF2.0): 아기의 얼굴 데이터를 활용, FaceNet을 사용
 
 
-#### 전등교체사업 @ 아르바이트(2014.06 ~ 2014.08)
+#### 전등교체사업 @ Part-time Job(2014.06 ~ 2014.08)
 - 건국대학교 LED 전등 교체
 
 
@@ -56,7 +56,7 @@ Institution: NAVER Connect Foundation
   - Semantic Segmentation
 
 
-#### 42Seoul (2022.02 ~ 2023.10)
+#### 42 Seoul (2022.02 ~ 2023.10)
 Institution: Innovation Academy
   - Inmplement Bash Shell
   - Implement ChatRoom using IRC Protocol
