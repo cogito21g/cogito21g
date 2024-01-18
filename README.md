@@ -12,8 +12,8 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 #### Seoul National University of Science and Technology (2013.03 ~ 2020.02)
   - Major : Electrical and Information Engineering 
-  - GPA: 3.63 / 4.50
-  - 학부 연구생: 모터 제어 연구실
+  - GPA: 3.63 / 4.5
+  - 학부 연구생: Motor Control Lab
   - 졸업 작품: 양방향 뇌신경 신호처리 시스템
 
 
