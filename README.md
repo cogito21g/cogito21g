@@ -18,7 +18,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 ## Work Experience
 
-#### SoA Edu @ Instructor (2021.03 ~ 2021.08)
+#### SoA Edu @ Instructor (2021.03 ~ 2021.08)
 - Scratch 및 Arduino 교육
 - 중등부 수학 및 과학 교육
 
@@ -32,7 +32,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 - 건국대학교 LED 전등 교체
 
 
-#### 신양재학원 @ Assistant (2013.06 ~ 2013.08, 2013.12 ~ 2014.02)
+#### 신양재학원 @ Assistant (2013.06 ~ 2013.08, 2013.12 ~ 2014.02)
 - 수학 보충강의(세화여고반, 상산고반)
 - 학생 관리 및 시험 감독
 
