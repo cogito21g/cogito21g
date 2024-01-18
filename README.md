@@ -49,7 +49,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 ## Extraccurricular Activities
 
 #### boostcamp AI Tech 6th (2023.11 ~ )
-교육기관: NAVER Connect Foundation
+Institution: NAVER Connect Foundation
   - Image Classification
   - Object Detection
   - OCR
@@ -57,9 +57,9 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 
 #### 42Seoul (2022.02 ~ 2023.10)
-교육기관: Innovation Academy
-  - Bash Shell 일부 기능 구현
-  - IRC Protocol을 이용한 Chatroom 구현
+Institution: Innovation Academy
+  - Inmplement Bash Shell
+  - Implement ChatRoom using IRC Protocol
 
 
 #### Python 스터디 운영(2022.01 ~2022.05, 2022.07 ~ 2022.11)
@@ -68,8 +68,8 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 - 간단한 업무 자동화 프로젝트
 
 
-#### 광주 인공지능 사관학교(2020.05 ~ 2020.08)
-교육기관: LIKELION
+#### AI School(2020.05 ~ 2020.08)
+Institution: LIKELION
   - 데이터 분석에 필요한 python 프레임워크 교육 이수
 
 
