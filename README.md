@@ -19,9 +19,11 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 ## Work Experience
 
+
 #### SoA Edu @ Instructor (2021.03 ~ 2021.08)
-- Scratch 및 Arduino 교육
-- 중등부 수학 및 과학 교육
+- Lecture of Scratch and Arduino
+- Lecture of Math and Science
+
 
 #### 삼진엘엔디 판교연구소 @ Intern (2019.06 ~ 2019.10)
 - LCD 패널 불량 데이터 제작: 패널에 스크래치가 있는 경우의 데이터가 적어 학습을 위해 여러가지 상황의 불량 데이터 생성 및 촬영
@@ -40,6 +42,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 ## Project
 
+
 #### [양방향 뇌신경 신호처리 시스템](https://github.com/cogito21g/Circuit) (2018.12 ~ 2019.12)
    - Project management and report writing as team leader
    - Fabrication of measuring part using MOSFET
@@ -47,6 +50,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 
 ## Extraccurricular Activities
+
 
 #### boostcamp AI Tech 6th (2023.11 ~ )
 Institution: NAVER Connect Foundation
@@ -86,17 +90,18 @@ Institution: LIKELION
 - 65일간 현지인들과 어울리며 추천 장소 탐방
 
 
-
 ## Skills
+
 
 #### Software Skills
 - Language: C language, C++, Python, Javascript
 - Framework: Pytorch, Django, React.js
 - Tool: Visual Studio, VSCode, Git
 
-#### Certificate
 
+#### Certificate
 - SQLD(2022.09.30)
+
 
 #### Studying
 - [Image Classification](https://github.com/cogito21g/image_classification) (2023.12)
