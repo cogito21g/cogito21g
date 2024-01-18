@@ -73,7 +73,7 @@ Institution: Innovation Academy
 - Python 기본 강의 및 간단한 업무 자동화 프로젝트
 
 
-#### AI School(2020.05 ~ 2020.08)
+#### AI School(2020.05 ~ 2020.08)
 Institution: LIKELION
   - 데이터 분석에 필요한 python 프레임워크 교육 이수
 
@@ -84,7 +84,7 @@ Institution: LIKELION
 - 회생 제동 방식의 모터 연구 작업 보조
 
 
-#### European Backpack Trip(2014.09 ~ 2014.11)
+#### European Backpack Trip(2014.09 ~ 2014.11)
 - 80일간 유럽 전역 여행(영국, 노르웨이, 핀란드, 독일, 헝가리, 이탈리아, 스페인, 프랑스)
 - 15일간 캠핑 위주의 여행(피엔라벤 클래식 코스, 트룰퉁가 등)
 - 65일간 현지인들과 어울리며 추천 장소 탐방
