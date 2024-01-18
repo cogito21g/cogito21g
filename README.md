@@ -54,10 +54,10 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 #### boostcamp AI Tech 6th (2023.11 ~ )
 Institution: NAVER Connect Foundation
-  - Image Classification
-  - Object Detection
-  - OCR
-  - Semantic Segmentation
+  - Image Classification: 마스크 착용 상태, 성별, 나이별 분류
+  - Object Detection: 재활용 쓰레기 탐지 및 분류
+  - OCR: 
+  - Semantic Segmentation: 
 
 
 #### 42 Seoul (2022.02 ~ 2023.10)
@@ -112,11 +112,11 @@ Institution: LIKELION
   - RCNN, Fast RCNN, Faster RCNN, SSD, FCN, Mask RCNN,YOLO
   - project: []()
 
-- [OCR]()
+- [OCR]() (2024.01 예정)
   - 
   - project: []()
 
-- [Semantic Segmentation]()
+- [Semantic Segmentation]() (2024.02 예정)
   - 
   - project: []()
  
