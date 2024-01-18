@@ -1,4 +1,4 @@
-# 이동형
+# DongHyeong Lee
 연락: [오픈채팅](https://open.kakao.com/o/scCky8Yf)
 
 ## Introduction
