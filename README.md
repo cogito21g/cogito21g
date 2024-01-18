@@ -112,11 +112,11 @@ Institution: LIKELION
   - RCNN, Fast RCNN, Faster RCNN, SSD, FCN, Mask RCNN,YOLO
   - project: []()
 
-- [OCR]() (2024.01 예정)
+- [OCR](https://github.com/cogito21g/OCR) (2024.01 예정)
   - 
   - project: []()
 
-- [Semantic Segmentation]() (2024.02 예정)
+- [Semantic Segmentation](https://github.com/cogito21g/semantic_segmentation) (2024.02 예정)
   - 
   - project: []()
  
