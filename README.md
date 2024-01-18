@@ -110,7 +110,7 @@ Institution: LIKELION
 
 
 - [Object Detection](https://github.com/cogito21g/object_detection) (2024.01 예정)
-  - RCNN, Fast RCNN, Faster RCNN, SSD, FCN, Mask RCNN,YOLO
+  - RCNN, Fast RCNN, Faster RCNN, FPN, SSD, FCN, Mask RCNN,YOLO
   - project: []()
 
 - [OCR](https://github.com/cogito21g/OCR) (2024.01 예정)
