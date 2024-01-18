@@ -105,7 +105,7 @@ Institution: LIKELION
 
 #### Studying (2023.12 ~ )
 - [Image Classification](https://github.com/cogito21g/image_classification) (2023.12)
-  - Alexnet, VGG-16, Resnet, Densenet
+  - Le-Net, ImageNet, Alexnet, VGG-16, Resnet, Densenet
   - project: []() 
 
 
