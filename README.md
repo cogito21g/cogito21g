@@ -1,15 +1,16 @@
 # DongHyeong Lee
-연락: [오픈채팅](https://open.kakao.com/o/scCky8Yf)
+Contact: [오픈채팅](https://open.kakao.com/o/scCky8Yf)
 
 ## Introduction
-
+---
 Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어로 성장하려하고 있습니다.
 영상처리 및 딥러닝 분야에 대해서 학습 중입니다.
 
 
 ## Education
+---
 
-- 서울과학기술대학교 (2013.03 ~ 2020.02)
+#### Seoul National University of Science and Technology (2013.03 ~ 2020.02)
   - Major : Electrical and Information Engineering 
   - GPA: 3.63/4.50
   - 학부 연구생: 모터 제어 연구실
@@ -17,6 +18,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 
 ## Work Experience
+---
 
 #### SoA Edu @ Instructor (2021.03 ~ 2021.08)
 - Scratch 및 Arduino 교육
@@ -38,15 +40,15 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 
 ## Project
-
- #### [양방향 뇌신경 신호처리 시스템](https://github.com/cogito21g/Circuit) (2018.12 ~ 2019.12)
+---
+#### [양방향 뇌신경 신호처리 시스템](https://github.com/cogito21g/Circuit) (2018.12 ~ 2019.12)
    - 팀장으로 프로젝트 관리 및 보고서 작성
    - MOSFET을 이용한 측정부 제작
    - Cortex-M을 이용한 제어부 알고리즘(FFT) 구현
 
 
 ## Extraccurricular Activities
-
+---
 #### boostcamp AI Tech 6th (2023.11 ~ )
 교육기관: NAVER Connect Foundation
   - Image Classification
@@ -86,7 +88,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 
 ## Skills
-
+---
 #### Software Skills
 - Language: C language, C++, Python, Javascript
 - Framework: Pytorch, Django, React.js
