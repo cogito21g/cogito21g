@@ -110,15 +110,15 @@ Institution: LIKELION
   - project: []() 
 
 
-- [Object Detection](https://github.com/cogito21g/object_detection) (2024.01 예정)
+- [Object Detection](https://github.com/cogito21g/object_detection) (2024.02 예정)
   - RCNN, Fast RCNN, Faster RCNN, FPN, SSD, FCN, Mask RCNN,YOLO
   - project: []()
 
-- [OCR](https://github.com/cogito21g/OCR) (2024.01 예정)
+- [OCR](https://github.com/cogito21g/OCR) (2024.02 예정)
   - project: []()
 
 
-- [Semantic Segmentation](https://github.com/cogito21g/semantic_segmentation) (2024.02 예정)
+- [Semantic Segmentation](https://github.com/cogito21g/semantic_segmentation) (미정)
   - project: []()
  
   
