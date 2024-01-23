@@ -54,10 +54,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 #### boostcamp AI Tech 6th (2023.11 ~ )
 Institution: NAVER Connect Foundation
-  - Image Classification: 마스크 착용 상태, 성별, 나이별 분류
-  - Object Detection: 재활용 쓰레기 탐지 및 분류
-  - OCR: 
-  - Semantic Segmentation: 
+ - project: []()
 
 
 #### 42 Seoul (2022.02 ~ 2023.10)
