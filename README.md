@@ -102,22 +102,11 @@ Institution: LIKELION
 
 
 #### Studying (2023.12 ~ )
-- [Image Classification](https://github.com/cogito21g/image_classification) (2023.12)
-  - Le-Net, ImageNet, Alexnet, VGG-16, Resnet, Densenet
+- [주제](링크) (날짜)
+  - Detail
   - project: []() 
 
 
-- [Object Detection](https://github.com/cogito21g/object_detection) (2024.02 예정)
-  - RCNN, Fast RCNN, Faster RCNN, FPN, SSD, FCN, Mask RCNN,YOLO
-  - project: []()
-
-- [OCR](https://github.com/cogito21g/OCR) (2024.02 예정)
-  - project: []()
-
-
-- [Semantic Segmentation](https://github.com/cogito21g/semantic_segmentation) (미정)
-  - project: []()
- 
   
 
 
