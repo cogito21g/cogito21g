@@ -35,7 +35,7 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 - 건국대학교 LED 전등 교체
 
 
-#### 신양재학원 @ Assistant (2013.06 ~ 2013.08, 2013.12 ~ 2014.02)
+#### 신양재학원 @ Assistant (2013.06 ~ 2013.08, 2017.12 ~ 2018.02)
 - Supplementary lecture on mathematics(세화여고반, 상산고반)
 - Management Student and Test Proctor
 
