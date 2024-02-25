@@ -1,5 +1,5 @@
 # DongHyeong Lee
-Contact: [오픈채팅](https://open.kakao.com/o/scCky8Yf)
+Contact: [오픈채팅](https://open.kakao.com/o/sJsDav9f)
 
 ## Introduction
 
