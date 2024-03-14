@@ -1,5 +1,3 @@
-![header](./image1.png)
-
 # DongHyeong Lee
 Contact: [오픈채팅](https://open.kakao.com/o/sJsDav9f)
 
@@ -11,7 +9,6 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 ## Education
 
-
 #### Seoul National University of Science and Technology (2013.03 ~ 2020.02)
   - Major : Electrical and Information Engineering 
   - GPA: 3.63 / 4.5
@@ -20,7 +17,6 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 
 ## Work Experience
-
 
 #### SoA Edu @ Instructor (2021.03 ~ 2021.08)
 - Lecture of Scratch and Arduino
@@ -43,7 +39,6 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 
 ## Project
-
 
 #### [양방향 뇌신경 신호처리 시스템](https://github.com/cogito21g/Circuit) (2018.12 ~ 2019.12)
    - Project management and report writing as team leader
@@ -90,7 +85,6 @@ Institution: LIKELION
 
 ##### Military Service (2015.06 ~ 2017.02)
 - 무선통신장비 및 위성통신장비 운영
-- 매일 체력 단련 -> 체력 증진에 도움이 되었지만 과하면 문제가 됨.
 - 공수부대로 낙하산 경험
 - 한미 연합 훈련 참가
 
@@ -103,7 +97,6 @@ Institution: LIKELION
 
 
 ## Skills
-
 
 #### Software Skills
 - Language: C language, C++, Python, Javascript
