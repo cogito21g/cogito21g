@@ -107,8 +107,8 @@ Institution: LIKELION
 
 #### Software Skills
 - Language: C language, C++, Python, Javascript
-- Framework: Pytorch, Django, React.js
-- Tool: Visual Studio, VSCode, Git
+- Framework: Pytorch, Django, FastAPI, React.js, Express.js
+- Tool: Vim, Visual Studio, VSCode, Git
 
 
 #### Certificate
