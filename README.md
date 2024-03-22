@@ -6,6 +6,7 @@
 (Blog) 
 - [Python 개발자](https://dataanalysiswithpython.tistory.com/)
 - [Javascript 개발자](https://psychologyforpeople.tistory.com/)
+- [C++ 개발자](https://cppdeveloper.tistory.com/)
 
 ## Introduction
 
