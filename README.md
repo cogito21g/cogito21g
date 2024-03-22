@@ -4,8 +4,9 @@
 - [오픈채팅](https://open.kakao.com/o/sJsDav9f)
 
 (Blog) 
-- [Python 개발자]https://dataanalysiswithpython.tistory.com/
+- [Python 개발자](https://dataanalysiswithpython.tistory.com/)
 - [Javascript 개발자](https://psychologyforpeople.tistory.com/)
+
 ## Introduction
 
 Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어로 성장하려하고 있습니다.
