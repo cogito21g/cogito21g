@@ -1,4 +1,4 @@
-# DongHyeong Lee [Contact](https://open.kakao.com/o/sJsDav9f)
+# DongHyeong Lee
 
 (Blog) 
 - [Python 개발자](https://dataanalysiswithpython.tistory.com/)
