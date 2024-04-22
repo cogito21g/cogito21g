@@ -110,7 +110,7 @@ Institution: Seoul National University of Science and Technology
 - SQLD(2022.09.30)
 
 #### Studying (2024.04 ~ )
-- [Visualization] (2024.01)
+- [Visualization](#) (2024.01)
   - github: [Visualization Tutorial](https://github.com/cogito21g/visualization_tutorial)
   - detail: matplotlib/pandas/seaborn
  
@@ -129,3 +129,6 @@ Institution: Seoul National University of Science and Technology
   - github: [Web SNS](https://github.com/cogito21g/web_sns)
   - detail: Login/OAuth/Javascript/DOM/Fetch
 
+- [Recommender System](#) (2024.05)
+  - github: [Recommender System Tutorial](https://github.com/cogito21g/recommender_system)
+  - detail: TF-IDF/Content-based Filtering/Collaborative Filtering
