@@ -45,17 +45,24 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 ## Project
 
 #### [양방향 뇌신경 신호처리 시스템](https://github.com/cogito21g/Circuit) (2018.12 ~ 2019.12)
-   - Project management and report writing as team leader
-   - Fabrication of measuring part using MOSFET
-   - Implementation of control algorithm(FFT) using Cortex-M
+  - Project management and report writing as team leader
+  - Fabrication of measuring part using MOSFET
+  - Implementation of control algorithm(FFT) using Cortex-M
 
+### [실시간 무인매장 이상행동 탐지](https://github.com/cogito21g/final_project) (2024.02~2024.03)
+  - Implement web page design with bootstrap
+  - Fix register/login logic
+  - Refactor backend code
+  - Test web logic(QA)
 
 ## Extraccurricular Activities
 
 
 #### boostcamp AI Tech 6th (2023.11 ~ )
 Institution: NAVER Connect Foundation
- - project: []()
+ - Study image classification with pytorch
+ - Study object detection with mmdetection
+ - Study semantic segmentation with mmdetection
 
 
 #### 42 Seoul (2022.02 ~ 2023.10)
@@ -112,13 +119,17 @@ Institution: LIKELION
 - SQLD(2022.09.30)
 
 
-#### Studying (2023.12 ~ )
-- [주제](링크) (날짜)
-  - Detail
-  - project: []() 
+#### Studying (2024.04 ~ )
+- [FastAPI]() (2024.03)
+  - project: [FastAPI Tutorial](https://github.com/cogito21g/fastapi_tutorial)
+  - detail: rendering/sqlalchemy/jinja template/file_upload/socket
 
-
-  
+- [Django]() (2024.04)
+  - project: [Web Blog](https://github.com/cogito21g/web_blog) 
+  - detail: Model/Template/View/URL/Database
+ 
+  - project: [Web SNS](https://github.com/cogito21g/web_sns)
+  - detail: Login/OAuth/Javascript/DOM/Fetch
 
 
 
