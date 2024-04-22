@@ -110,25 +110,25 @@ Institution: Seoul National University of Science and Technology
 - SQLD(2022.09.30)
 
 #### Studying (2024.04 ~ )
-- [Visualization](#) (2024.01)
+- [Visualization] (2024.01)
   - github: [Visualization Tutorial](https://github.com/cogito21g/visualization_tutorial)
   - detail: matplotlib/pandas/seaborn
  
-- [Pytorch](#) (2024.02)
+- [Pytorch] (2024.02)
   - github: [Pytorch Tutorial](https://github.com/cogito21g/torch_tutorial)
   - detail: dataset/preprocessing/create model/optimizer/metric/train/test
 
-- [FastAPI](#) (2024.03)
+- [FastAPI] (2024.03)
   - github: [FastAPI Tutorial](https://github.com/cogito21g/fastapi_tutorial)
   - detail: rendering/sqlalchemy/jinja template/file_upload/socket
 
-- [Django](#) (2024.04)
+- [Django] (2024.04)
   - github: [Web Blog](https://github.com/cogito21g/web_blog) 
   - detail: Model/Template/View/URL/Database
  
   - github: [Web SNS](https://github.com/cogito21g/web_sns)
   - detail: Login/OAuth/Javascript/DOM/Fetch
 
-- [Recommender System](#) (2024.05)
+- [Recommender System] (2024.05)
   - github: [Recommender System Tutorial](https://github.com/cogito21g/recommender_system)
   - detail: TF-IDF/Content-based Filtering/Collaborative Filtering
