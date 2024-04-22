@@ -63,7 +63,7 @@ Institution: NAVER Connect Foundation
  - Study object detection with mmdetection
  - Study semantic segmentation with mmdetection
 
-#### 42 Seoul (2022.02 ~ 2023.10)
+#### 42Seoul (2022.02 ~ 2023.10)
 Institution: Innovation Academy
   - Implementation of Bash Shell
   - Implementation of Ray Tracing
