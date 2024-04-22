@@ -110,6 +110,14 @@ Institution: Seoul National University of Science and Technology
 - SQLD(2022.09.30)
 
 #### Studying (2024.04 ~ )
+- [Visualization] (2024.01)
+  - project: [Visualization Tutorial](https://github.com/cogito21g/visualization_tutorial)
+  - detail: matplotlib/pandas/seaborn
+ 
+- [Pytorch](#) (2024.02)
+  - project: [Pytorch Tutorial](https://github.com/cogito21g/torch_tutorialv)
+  - detail: 
+
 - [FastAPI](#) (2024.03)
   - project: [FastAPI Tutorial](https://github.com/cogito21g/fastapi_tutorial)
   - detail: rendering/sqlalchemy/jinja template/file_upload/socket
