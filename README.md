@@ -79,6 +79,7 @@ Institution: LIKELION
   - 데이터 분석에 필요한 python 프레임워크 교육 이수
 
 #### Motor Control Lab(2018.06 ~ 2018.12)
+Institution: Seoul National University of Science and Technology
 - 학회 참석
 - 매주 세미나(모터 제어 이론) 발표
 - 회생 제동 방식의 모터 연구 작업 보조
