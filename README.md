@@ -108,11 +108,11 @@ Institution: LIKELION
 - SQLD(2022.09.30)
 
 #### Studying (2024.04 ~ )
-- [FastAPI]() (2024.03)
+- [FastAPI](#) (2024.03)
   - project: [FastAPI Tutorial](https://github.com/cogito21g/fastapi_tutorial)
   - detail: rendering/sqlalchemy/jinja template/file_upload/socket
 
-- [Django]() (2024.04)
+- [Django](#) (2024.04)
   - project: [Web Blog](https://github.com/cogito21g/web_blog) 
   - detail: Model/Template/View/URL/Database
  
