@@ -7,8 +7,8 @@
 
 ## Introduction
 
-Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어로 성장하려하고 있습니다.
-영상처리 및 딥러닝 분야에 대해서 학습 중입니다.
+Web 개발과 Computer Vision && Robotics에 관심을 가지고 해당 분야의 엔지니어로 성장하려하고 있습니다.
+웹 개발 및 영상처리, 딥러닝 분야에 대해서 학습 중입니다.
 
 
 ## Education
@@ -44,19 +44,19 @@ Computer Vision과 Robotics에 관심을 가지고 해당 분야의 엔지니어
 
 ## Project
 
-#### [양방향 뇌신경 신호처리 시스템](https://github.com/cogito21g/Circuit) (2018.12 ~ 2019.12)
-  - Project management and report writing as team leader
-  - Fabrication of measuring part using MOSFET
-  - Implementation of control algorithm(FFT) using Cortex-M
-
 ### [실시간 무인매장 이상행동 탐지](https://github.com/cogito21g/final_project) (2024.02~2024.03)
   - Implement web page design with bootstrap
   - Fix register/login logic
   - Refactor backend code
   - Test web logic(QA)
 
-## Extraccurricular Activities
+#### [양방향 뇌신경 신호처리 시스템](https://github.com/cogito21g/Circuit) (2018.12 ~ 2019.12)
+  - Project management and report writing as team leader
+  - Fabrication of measuring part using MOSFET
+  - Implementation of control algorithm(FFT) using Cortex-M
 
+
+## Extraccurricular Activities
 
 #### boostcamp AI Tech 6th (2023.11 ~ )
 Institution: NAVER Connect Foundation
@@ -64,48 +64,40 @@ Institution: NAVER Connect Foundation
  - Study object detection with mmdetection
  - Study semantic segmentation with mmdetection
 
-
 #### 42 Seoul (2022.02 ~ 2023.10)
 Institution: Innovation Academy
   - Implementation of Bash Shell
   - Implementation of Ray Tracing
   - Implementation of ChatRoom using IRC Protocol
 
-
 #### Python Study Group(2022.01 ~2022.05, 2022.07 ~ 2022.11)
 - 모임 운영
 - 6명씩 모임 구성
 - Python 기본 강의 및 간단한 업무 자동화 프로젝트
 
-
 #### AI School(2020.05 ~ 2020.08)
 Institution: LIKELION
   - 데이터 분석에 필요한 python 프레임워크 교육 이수
-
 
 #### Motor Control Lab(2018.06 ~ 2018.12)
 - 학회 참석
 - 매주 세미나(모터 제어 이론) 발표
 - 회생 제동 방식의 모터 연구 작업 보조
 
-
 #### Japan Trip(2018.08 ~ 2018.08)
 - 오사카 여행
 - 친구와 동행하여 관광지 여햄
-
 
 ##### Military Service (2015.06 ~ 2017.02)
 - 무선통신장비 및 위성통신장비 운영
 - 공수부대로 낙하산 경험
 - 한미 연합 훈련 참가
 
-
 #### European Backpack Trip(2014.09 ~ 2014.11)
 - 80일간 유럽 전역 여행(영국, 노르웨이, 핀란드, 독일, 헝가리, 이탈리아, 스페인, 프랑스)
 - 15일간 캠핑 위주의 여행(피엔라벤 클래식 코스, 트룰퉁가 등)
 - 65일간 현지인들과 어울리며 추천 장소 탐방
 - 다양한 이야기를 하며 식견을 넓힐 수 있었음.
-
 
 ## Skills
 
@@ -114,10 +106,8 @@ Institution: LIKELION
 - Framework: Pytorch, Django, FastAPI, React.js, Express.js
 - Tool: Vim, Visual Studio, VSCode, Git
 
-
 #### Certificate
 - SQLD(2022.09.30)
-
 
 #### Studying (2024.04 ~ )
 - [FastAPI]() (2024.03)
@@ -130,7 +120,4 @@ Institution: LIKELION
  
   - project: [Web SNS](https://github.com/cogito21g/web_sns)
   - detail: Login/OAuth/Javascript/DOM/Fetch
-
-
-
 
