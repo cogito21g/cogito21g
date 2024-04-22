@@ -6,8 +6,8 @@
 
 ## Introduction
 
-Web 개발과 Computer Vision && Robotics에 관심을 가지고 해당 분야의 엔지니어로 성장하려하고 있습니다.
-웹 개발 및 영상처리, 딥러닝 분야에 대해서 학습 중입니다.
+<p>Web 개발과 Computer Vision && Robotics에 관심을 가지고 해당 분야의 엔지니어로 성장하려하고 있습니다.</p>
+<p>웹 개발 및 영상처리, 딥러닝 분야에 대해서 학습 중입니다.</p>
 
 
 ## Education
@@ -111,21 +111,21 @@ Institution: Seoul National University of Science and Technology
 
 #### Studying (2024.04 ~ )
 - [Visualization] (2024.01)
-  - project: [Visualization Tutorial](https://github.com/cogito21g/visualization_tutorial)
+  - github: [Visualization Tutorial](https://github.com/cogito21g/visualization_tutorial)
   - detail: matplotlib/pandas/seaborn
  
 - [Pytorch](#) (2024.02)
-  - project: [Pytorch Tutorial](https://github.com/cogito21g/torch_tutorialv)
-  - detail: 
+  - github: [Pytorch Tutorial](https://github.com/cogito21g/torch_tutorial)
+  - detail: dataset/preprocessing/create model/optimizer/metric/train/test
 
 - [FastAPI](#) (2024.03)
-  - project: [FastAPI Tutorial](https://github.com/cogito21g/fastapi_tutorial)
+  - github: [FastAPI Tutorial](https://github.com/cogito21g/fastapi_tutorial)
   - detail: rendering/sqlalchemy/jinja template/file_upload/socket
 
 - [Django](#) (2024.04)
-  - project: [Web Blog](https://github.com/cogito21g/web_blog) 
+  - github: [Web Blog](https://github.com/cogito21g/web_blog) 
   - detail: Model/Template/View/URL/Database
  
-  - project: [Web SNS](https://github.com/cogito21g/web_sns)
+  - github: [Web SNS](https://github.com/cogito21g/web_sns)
   - detail: Login/OAuth/Javascript/DOM/Fetch
 
