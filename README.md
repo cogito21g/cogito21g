@@ -57,7 +57,7 @@
 
 ## Extraccurricular Activities
 
-#### boostcamp AI Tech 6th (2023.11 ~ )
+#### boostcamp AI Tech 6th (2023.11 ~ 2024.04)
 Institution: NAVER Connect Foundation
  - Study image classification with pytorch
  - Study object detection with mmdetection
