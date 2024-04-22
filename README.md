@@ -1,7 +1,8 @@
 # DongHyeong Lee
 
-(Blog) 
-- [Python 개발자](https://dataanalysiswithpython.tistory.com/)
+## Contact
+- Blog: [Python 개발자](https://dataanalysiswithpython.tistory.com/)
+- Chat: [cogito21](https://open.kakao.com/o/sJsDav9f)
 
 ## Introduction
 
