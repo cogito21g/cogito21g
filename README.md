@@ -5,7 +5,7 @@
 
 ## Introduction
 
-<p>Web 개발과 Computer Vision && Robotics에 관심을 가지고 해당 분야의 엔지니어로 성장하려하고 있습니다.</p>
+<p>Web 개발과 Computer Vision && Graphics에 관심을 가지고 해당 분야의 엔지니어로 성장하려하고 있습니다.</p>
 <p>웹 개발 및 영상처리, 딥러닝 분야에 대해서 학습 중입니다.</p>
 
 
