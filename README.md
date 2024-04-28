@@ -53,7 +53,7 @@
 #### 부스트캠프 AI Tech 6기 (2023.11 ~ 2024.04)
 기관: 네이버커넥트 재단
  - Computer Vision 교육 이수
- - 사용 기술: PyTorch, Pandas, Matplotlib, Seaborn, Streamlit, FastAPI
+ - 사용 기술: PyTorch, FastAPI, SQLAlchemy, MYSQL, Amazon S3, Amazon EC2
 
 #### 42Seoul (2022.02 ~ 2023.10)
 기관: 이노베이션 아카데미
