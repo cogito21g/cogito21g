@@ -37,15 +37,16 @@
 ## 프로젝트
 
 #### [실시간 무인매장 이상행동 탐지](https://github.com/cogito21g/final_project) (2024.02~2024.03)
-  - Bootstrap을 이용한 웹 페이지 디자인
-  - 회원가입 및 로그인 로직 수정
-  - 백엔드 코드 리팩토링
-  - 웹 사이트 테스트 및 에러 수정
+- Bootstrap을 이용한 웹 페이지 디자인
+- 회원가입 및 로그인 로직 수정
+- 백엔드 코드 리팩토링
+- 웹 사이트 테스트 및 에러 수정
+- 사용 기술: HTML, CSS, Bootstrap, Javascript, FastAPI, MYSQL
 
 #### [양방향 뇌신경 신호처리 시스템](https://github.com/cogito21g/Circuit) (2018.12 ~ 2019.12)
-  - 팀장으로 프로젝트 관리 및 보고서 작성
-  - MOSFET을 이용한 뇌파 측정부 회로설계
-  - Cortex-M을 이용한 제어부 FFT 알고리즘 구현
+- 팀장으로 프로젝트 관리 및 보고서 작성
+- MOSFET을 이용한 뇌파 측정부 회로설계
+- Cortex-M을 이용한 제어부 FFT 알고리즘 구현
 
 ## 외부활동
 
