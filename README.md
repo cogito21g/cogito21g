@@ -71,7 +71,7 @@
 #### 인공지능사관학교(2020.05 ~ 2020.08)
 기관: 멋쟁이사자처럼
 - 데이터 분석에 필요한 python 프레임워크 교육 이수
-- 사용 기술: Numpy, Pandas, Matplotlib, Seaborn
+- 사용 기술: Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Scikit-learn
 
 #### 모터제어 연구실(2018.06 ~ 2018.12)
 기관: 서울과학기술대학교
@@ -104,7 +104,7 @@
 #### 자격증
 - SQLD(2022.09.30)
 
-#### 스터디 (2024.04 ~ )
+#### 스터디 (2024.01 ~ )
 - [Visualization] (2024.01)
   - github: [Visualization Tutorial](https://github.com/cogito21g/visualization_tutorial)
   - detail: matplotlib/pandas/seaborn
