@@ -3,7 +3,7 @@
 
 ## 소개
 
-<p>Web 개발과 Computer Vision && Graphics에 관심을 가지고 해당 분야의 엔지니어로 성장하려하고 있습니다.</p>
+<p>Web 개발과 Computer Vision에 관심을 가지고 해당 분야의 엔지니어로 성장하려하고 있습니다.</p>
 <p>웹 개발 및 영상처리, 딥러닝 분야에 대해서 학습 중입니다.</p>
 
 
@@ -51,24 +51,26 @@
 
 #### 부스트캠프 AI Tech 6기 (2023.11 ~ 2024.04)
 기관: 네이버커넥트 재단
- - 인공지능 이론 및 python 교육 이수
- - Computer Vision 부분 교육 이수
+ - Computer Vision 교육 이수
+ - 사용 기술: PyTorch, Pandas, Matplotlib, Seaborn, Streamlit, FastAPI
 
 #### 42Seoul (2022.02 ~ 2023.10)
 기관: 이노베이션 아카데미
-  - C 언어 및 C++ 교육 이수
-  - Bash Shell 프로젝트를 통한 Linux API 학습
-  - Ray Tracing 프로젝트를 통한 그래픽 학습
-  - ChatRoom 프로젝트를 토한 IRC 프로토콜 학습
+- Bash Shell 프로젝트를 통한 Linux API 학습
+- Ray Tracing 프로젝트를 통한 그래픽 학습
+- ChatRoom 프로젝트를 토한 IRC 프로토콜 학습
+- 사용 기술: Git, C language, C++, Linux API
 
 #### 파이썬 그룹 스터디(2022.01 ~2022.05, 2022.07 ~ 2022.11)
 - 모임 운영
 - 6명씩 모임 구성
-- Python 기본 강의 및 간단한 업무 자동화 프로젝트
+- Python 기본 강의 및 간단한 업무 자동화(RPA) 프로젝트
+- 사용 기술: Python, PyQT, Selenium, BeautifulSoup 
 
 #### 인공지능사관학교(2020.05 ~ 2020.08)
 기관: 멋쟁이사자처럼
-  - 데이터 분석에 필요한 python 프레임워크 교육 이수
+- 데이터 분석에 필요한 python 프레임워크 교육 이수
+- 사용 기술: Numpy, Pandas, Matplotlib, Seaborn
 
 #### 모터제어 연구실(2018.06 ~ 2018.12)
 기관: 서울과학기술대학교
@@ -94,8 +96,8 @@
 ## 스킬
 
 #### Software Skills
-- Language: C language, C++, Python, Javascript
-- Framework: Pytorch, Django, FastAPI, React.js, Express.js
+- Language: C language, C++, Python, Javascript(+ HTML/CSS)
+- Framework: Tensorflow, Pytorch, Django, FastAPI, React.js, Node.js, Express.js
 - Tool: Vim, Visual Studio, VSCode, Git
 
 #### 자격증
