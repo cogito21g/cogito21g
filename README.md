@@ -124,6 +124,9 @@
   - github: [Web SNS](https://github.com/cogito21g/web_sns)
   - detail: Login/OAuth/Javascript/DOM/Fetch
 
-- [Recommender System] (2024.05)
+- [Computer Vision] (2024.05)
+  - github: [Computer_Vision Tutorial](https://github.com/cogito21g/computer_vision)
+
+- [Recommender System] (...)
   - github: [Recommender System Tutorial](https://github.com/cogito21g/recommender_system)
   - detail: TF-IDF/Content-based Filtering/Collaborative Filtering
