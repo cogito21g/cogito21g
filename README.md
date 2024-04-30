@@ -125,8 +125,13 @@
   - detail: Login/OAuth/Javascript/DOM/Fetch
 
 - [Computer Vision] (2024.05)
-  - github: [Computer_Vision Tutorial](https://github.com/cogito21g/computer_vision)
-
+  - github: [Computer Vision Tutorial](https://github.com/cogito21g/computer_vision)
+  - detail: Image Classification/Object Detection/Semantic Segmentation/Video Detection
+ 
+- [Natural Language Processing] (...)
+  - github: [Natural Language Processing](https://github.com/cogito21g/natural_language_processing)
+  - detail: Word2Vec/Embedding/Transformer/BERT
+  
 - [Recommender System] (...)
   - github: [Recommender System Tutorial](https://github.com/cogito21g/recommender_system)
   - detail: TF-IDF/Content-based Filtering/Collaborative Filtering
