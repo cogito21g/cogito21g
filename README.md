@@ -97,8 +97,8 @@
 ## 스킬
 
 #### Software Skills
-- Language: C language, C++, Python, Javascript(+ HTML/CSS)
-- Framework: Tensorflow, Pytorch, Django, FastAPI, React.js, Node.js, Express.js
+- Language: C language, C++, Java, Python, Javascript(+ HTML/CSS)
+- Framework: OpenCV, Tensorflow, Pytorch, Django, FastAPI, React.js, Node.js, Express.js
 - Tool: Vim, Visual Studio, VSCode, Git
 
 #### 자격증
