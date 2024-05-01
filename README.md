@@ -1,5 +1,6 @@
 # DongHyeong Lee
 - Blog: [Python 개발자](https://dataanalysiswithpython.tistory.com/)
+- Blog: [Javascript 개발자](https://psychologyforpeople.tistory.com/)
 
 ## 소개
 
