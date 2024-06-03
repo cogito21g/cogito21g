@@ -37,6 +37,10 @@
 
 ## 프로젝트
 
+#### [AI 비서 Arte](https://github.com/cogito21g/Arte) (2024.06 ~ )
+- Python과 PyTorch를 활용하여 인공지능 비서 개발
+- 음성 인식, 자연어 처리, 스케줄 관리, 이메일 전송, 음성 가이드
+
 #### [실시간 무인매장 이상행동 탐지](https://github.com/cogito21g/final_project) (2024.02~2024.03)
 - Bootstrap을 이용한 웹 페이지 디자인
 - 회원가입 및 로그인 로직 수정
