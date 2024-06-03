@@ -37,6 +37,12 @@
 
 ## 프로젝트
 
+#### [C++ Web Server](https://github.com/cogito21g/cpp_web_server) (2024.06 ~ )
+- Basic HTTP server functionality
+- Multi-threaded request handling
+- Simple, clear, and extendable codebase
+- 사용 기술: C++, CMake, Boost, OpenSSL
+
 #### [M2 Pro에서 AI Model 학습을 위한 프로젝트 구조 및 동작 모델 구현](https://github.com/cogito21g/pytorch_models) (2024.06 ~ )
 - M2 Pro에서 AI 모델 구현 및 최적화
 - 사용 기술: Python3.10, PyTorch
