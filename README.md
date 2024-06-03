@@ -38,13 +38,13 @@
 ## 프로젝트
 
 #### [M2 Pro에서 AI Model 학습을 위한 프로젝트 구조 및 동작 모델 구현](https://github.com/cogito21g/pytorch_models) (2024.06 ~ )
-- M2 Pro에서 최적화
-- PyTorch에서 AI 모델 구현
-- Python3.10 이상
+- M2 Pro에서 AI 모델 구현 및 최적화
+- 사용 기술: Python3.10, PyTorch
 
 #### [AI 비서 Arte](https://github.com/cogito21g/Arte) (2024.06 ~ )
 - Python과 PyTorch를 활용하여 인공지능 비서 개발
 - 음성 인식, 자연어 처리, 스케줄 관리, 이메일 전송, 음성 가이드
+- 사용 기술: Python3.10, PyTorch
 
 #### [실시간 무인매장 이상행동 탐지](https://github.com/cogito21g/final_project) (2024.02~2024.03)
 - Bootstrap을 이용한 웹 페이지 디자인
