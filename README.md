@@ -1,5 +1,5 @@
 # DongHyeong Lee
-- Blog: [Python 개발자](https://dataanalysiswithpython.tistory.com/)
+- Blog: [Python 개발자](https://dataanalysiswithpython.tistory.com/) / [일상기록장](https://firilabs.tistory.com/)
 - Youtube: [cogito21](https://www.youtube.com/@cogito21)
 
 ## 소개
