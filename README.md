@@ -37,15 +37,10 @@
 
 ## 프로젝트
 
-#### [C++ Web Server](https://github.com/cogito21g/cpp_web_server) (2024.06 ~ )
-- Basic HTTP server functionality
-- Multi-threaded request handling
-- Simple, clear, and extendable codebase
-- 사용 기술: C++, CMake, Boost, OpenSSL
-
-#### [M2 Pro에서 AI Model 학습을 위한 프로젝트 구조 및 동작 모델 구현](https://github.com/cogito21g/pytorch_models) (2024.06 ~ )
-- M2 Pro에서 AI 모델 구현 및 최적화
-- 사용 기술: Python3.10, PyTorch
+#### [ScientiaForum](https://github.com/cogito21g/ScientiaForum) (2024.06 ~ )
+- 학생, 교육자, 그리고 지식을 탐구하고자 하는 모든 사람을 위한 교육 커뮤니티
+- 이 커뮤니티는 사용자들이 교육 관련 정보를 공유하고 토론할 수 있는 공간을 제공
+- 사용 기술: Python, Django, DjangoRestFramework, HTML, CSS, Javascript
 
 #### [AI 비서 Arte](https://github.com/cogito21g/Arte) (2024.06 ~ )
 - Python과 PyTorch를 활용하여 인공지능 비서 개발
