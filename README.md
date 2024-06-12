@@ -37,6 +37,12 @@
 
 ## 프로젝트
 
+### [Python을 활용한 컴퓨터공학 커리큘럼]() (2024.06 ~ )
+- 컴퓨터 공학을 학습하는데 있어 Python을 사용하여 예제 코드 작성
+- 각 과목별 이론과 실습으로 구성
+- 흥미 유발을 위한 실생활 적용 가능한 프로젝트로 구성
+- 사용 기술: Python, Python Packages
+
 #### [ScientiaForum](https://github.com/cogito21g/ScientiaForum) (2024.06 ~ )
 - 학생, 교육자, 그리고 지식을 탐구하고자 하는 모든 사람을 위한 교육 커뮤니티
 - 이 커뮤니티는 사용자들이 교육 관련 정보를 공유하고 토론할 수 있는 공간을 제공
@@ -115,34 +121,3 @@
 #### 자격증
 - SQLD(2022.09.30)
 
-#### 스터디 (2024.01 ~ )
-- [Visualization] (2024.01)
-  - github: [Visualization Tutorial](https://github.com/cogito21g/visualization_tutorial)
-  - detail: matplotlib/pandas/seaborn
- 
-- [Pytorch] (2024.02)
-  - github: [Pytorch Tutorial](https://github.com/cogito21g/torch_tutorial)
-  - detail: dataset/preprocessing/create model/optimizer/metric/train/test
-
-- [FastAPI] (2024.03)
-  - github: [FastAPI Tutorial](https://github.com/cogito21g/fastapi_tutorial)
-  - detail: rendering/sqlalchemy/jinja template/file_upload/socket
-
-- [Django] (2024.04)
-  - github: [Web Blog](https://github.com/cogito21g/web_blog) 
-  - detail: Model/Template/View/URL/Database
- 
-  - github: [Web SNS](https://github.com/cogito21g/web_sns)
-  - detail: Login/OAuth/Javascript/DOM/Fetch
-
-- [Computer Vision] (2024.05)
-  - github: [Computer Vision Tutorial](https://github.com/cogito21g/computer_vision)
-  - detail: Image Classification/Object Detection/Semantic Segmentation/Video Detection
- 
-- [Natural Language Processing] (...)
-  - github: [Natural Language Processing](https://github.com/cogito21g/natural_language_processing)
-  - detail: Word2Vec/Embedding/Transformer/BERT
-  
-- [Recommender System] (...)
-  - github: [Recommender System Tutorial](https://github.com/cogito21g/recommender_system)
-  - detail: TF-IDF/Content-based Filtering/Collaborative Filtering
