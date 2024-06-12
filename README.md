@@ -41,10 +41,11 @@
 - GitHub와 연동하여 HTML, CSS, Javascript 연습 및 웹 사이트 구축
 - Markdown 파일을 이용해 블로그 글 게재
 - 사용 기술: Javascript, GitHub, HTML, CSS, Markdown
+- [Demo](https://cogito21g.github.io/)
 
 #### [Python을 활용한 자동화 프로젝트](https://github.com/cogito21g/python_mini_project) (2024.06 ~ )
 - 실생활에 사용할 자동화 프로젝트 목록
-- 사용 기술: Python, tkinter, PyQt5, gTTs, Pillow,  
+- 사용 기술: Python, tkinter, PyQt5, gTTs, Pillow  
 
 #### [Python을 활용한 컴퓨터공학 커리큘럼]() (2024.06 ~ )
 - 컴퓨터 공학을 학습하는데 있어 Python을 사용하여 예제 코드 작성
