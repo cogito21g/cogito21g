@@ -37,7 +37,7 @@
 
 ## 프로젝트
 
-#### [Javascript와 GitHub를 사용한 웹페이지 개발]() (2024.06)
+#### [Javascript와 GitHub를 사용한 웹페이지 개발](https://github.com/cogito21g/cogito21g.github.io) (2024.06)
 - GitHub와 연동하여 HTML, CSS, Javascript 연습 및 웹 사이트 구축
 - Markdown 파일을 이용해 블로그 글 게재
 - 사용 기술: Javascript, GitHub, HTML, CSS, Markdown
