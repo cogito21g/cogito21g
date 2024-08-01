@@ -42,8 +42,10 @@
 
   <h2>Certificate</h2>
   <div>
-    <p>SQLD(2022.09.30)</p>
+    <h4>Language</h4>
     <p>TOEIC SPEAKING: </p>
+    <h4>Programming</h4>
+    <p>SQLD(2022.09.30)</p>
     <p>정보처리기사: 필기(2024.07.13)</p>
   </div>
 
