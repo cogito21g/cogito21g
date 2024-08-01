@@ -3,7 +3,7 @@
 </header>
 
 <main>
-  <h2> Introduce </h2>
+  <h2>Introduce</h2>
   <p>Welcome to cogito21g!!</p>
   <p>I’m currently interested in <code>System Programming</code>, <code>Data Analysis</code></p>
   <p>2024 Goals: </p>
@@ -16,7 +16,7 @@
   <br />
   
   
-  <h2> Languages and Tools </h2>
+  <h2>Languages and Tools</h2>
   
   <div>
   <img src="https://img.shields.io/badge/C%20language-%23A8B9CC?style=flat-square&logo=C&logoColor=white"/> </t>
@@ -38,6 +38,13 @@
   <img src="https://img.shields.io/badge/Git%20-%20%23F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </div>
+
+  <h2>Certificate</h2>
+  <div>
+    <p>SQLD(2022.09.30)</p>
+    <p>TOEIC SPEAKING: </p>
+    <p>정보처리기사: 필기(2024.07.13)</p>
   </div>
 
 </main>
