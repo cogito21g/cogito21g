@@ -43,10 +43,14 @@
   <h2>Certificate</h2>
   <div>
     <h4>Language</h4>
-    <p>TOEIC SPEAKING: </p>
+      <ul>
+        <li>TOEIC SPEAKING</li>
+      </ul>
     <h4>Programming</h4>
-    <p>SQLD(2022.09.30)</p>
-    <p>정보처리기사: 필기(2024.07.13)</p>
+    <ul>
+      <li>SQLD(2022.09.30)</li>
+      <li>정보처리기사: 필기(2024.07.13)/실기()</li>
+    </ul>
   </div>
 
 </main>
