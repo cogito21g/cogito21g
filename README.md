@@ -44,7 +44,7 @@
   <div>
     <h4>Language</h4>
       <ul>
-        <li>TOEIC SPEAKING</li>
+        <li>TOEIC SPEAKING: IH(2024.07.28)</li>
       </ul>
     <h4>Programming</h4>
     <ul>
