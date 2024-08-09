@@ -7,7 +7,7 @@
     <h2>Introduce</h2>
     <div>
       <p>Welcome to cogito21g!!</p>
-      <p>I’m currently interested in <code>System Programming</code>, <code>Data Analysis</code></p>
+      <p>I’m currently interested in <code>System Programming</code>, <code>Data Analysis</code>, <code>Web Develope</code></p>
       <details>
         <summary>2024 Goals</summary>
         <ul>
