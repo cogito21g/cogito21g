@@ -105,6 +105,15 @@
         <li>빅데이터분석기사: 필기() / 실기()</li>
       </ul>
     </div>
+    <div>
+      <h4>Document</h4>
+      <ul>
+        <li>컴퓨터활용능력 2급: </li>
+        <li>MOS(Word): </li>
+        <li>MOS(PowerPoint): </li>
+        <li>MOS(Excel): </li>
+      </ul>
+    </div>
   </article>
 </main>
 
