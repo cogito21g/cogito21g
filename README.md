@@ -7,9 +7,9 @@
     <h2>Introduce</h2>
     <div>
       <p>Welcome to cogito21g!!</p>
-      <p>I’m currently interested in <code>System Programming</code>, <code>Data Analysis</code>, <code>Web Develope</code></p>
+      <p>I’m currently interested in <code>Web Develope</code></p>, <code>Data Analysis</code>, <code>System Programming</code>
       <details>
-        <summary>2024 Goals: 웹 개발</summary>
+        <summary>2024 Goals: Full-Stack Developer</summary>
         <ul>
           <li>정보처리기사</li>
           <li>TOEIC Speaking(IH)</li>
@@ -18,7 +18,7 @@
         </ul>
       </details>
       <details>
-        <summary>2025 Goals: 데이터 분석</summary>
+        <summary>2025 Goals: Data Analysis</summary>
         <ul>
           <li>ADsP</li>
           <li>빅데이터분석기사</li>
@@ -27,7 +27,7 @@
         </ul>
       </details>
       <details>
-        <summary>2026 Goals: 시스템 프로그래밍</summary>
+        <summary>2026 Goals: System Programming</summary>
         <ul>
           <li>리눅스마스터 2급</li>
           <li>네트워크관리사 2급</li>
