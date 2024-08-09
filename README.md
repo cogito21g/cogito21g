@@ -18,6 +18,14 @@
       </details>
     </div>
   </article>
+
+  <article>
+    <h2>GitHub Stats</h2>
+    <div style="display: flex, height:180px">
+      <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=cogito21g&show_icons=true&theme=transparent" alt="cogito21g's github stats" />
+      <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogito21g&layout=compact&theme=nord&hide_border=true" alt="cogito21g's github stats" />
+    </div>
+  </article>
   
   <article>
     <h2>Languages and Tools</h2> 
@@ -59,14 +67,6 @@
         <li>SQLD(2022.09.30)</li>
         <li>정보처리기사: 필기(2024.07.13) / 실기()</li>
       </ul>
-    </div>
-  </article>
-  
-  <article>
-    <h2>GitHub Stats</h2>
-    <div style="display: flex, height:180px">
-      <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=cogito21g&show_icons=true&theme=transparent" alt="cogito21g's github stats" />
-      <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogito21g&layout=compact&theme=nord&hide_border=true" alt="cogito21g's github stats" />
     </div>
   </article>
 </main>
