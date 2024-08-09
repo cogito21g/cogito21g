@@ -48,6 +48,7 @@
       <img alt="django" src="https://img.shields.io/badge/Django%20-%20%23092E20?style=flat-square&logo=Django&logoColor=white" />
       <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img alt="streamlit" src="https://img.shields.io/badge/streamlit-%23FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <img alt="scikit-learn" src="https://img.shields.io/badge/ScikitLearn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
       <img alt="pytorch" src="https://img.shields.io/badge/PyTorch%20-%20%23EE4C2C?style=flat-square&logo=Pytorch&logoColor=white" />
       <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%20%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
     </div>
@@ -66,7 +67,6 @@
       <img alt="github" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white" />
       <img alt="notion" src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=white" />
       <img alt="markdown" src="https://img.shields.io/badge/markdown-%23000000?style=flat-square&logo=markdown&logoColor=white" />
-
     </div>
   </article>
 
