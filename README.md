@@ -12,8 +12,18 @@
         <summary>2024 Goals</summary>
         <ul>
           <li>정보처리기사</li>
-          <li>TOEIC Speaking(IH) && Writing(AL)</li>
+          <li>TOEIC Speaking(IH)</li>
+          <li>TOEIC Writing(AL)</li>
           <li>PCCP(Python: Lv4)</li>
+        </ul>
+      </details>
+      <details>
+        <summary>2025 Goals</summary>
+        <ul>
+          <li>ADsP</li>
+          <li>빅데이터분석기사</li>
+          <li>IELTS(7.0)</li>
+          <li>PCCP(C++: Lv4)</li>
         </ul>
       </details>
     </div>
@@ -30,25 +40,26 @@
   <article>
     <h2>Languages and Tools</h2> 
     <div>
-      <img src="https://img.shields.io/badge/C%20language-%23A8B9CC?style=flat-square&logo=C&logoColor=white"/> </t>
-      <img src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Django%20-%20%23092E20?style=flat-square&logo=Django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch%20-%20%23EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tensorflow%20-%20%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img alt="c" src="https://img.shields.io/badge/C%20language-%23A8B9CC?style=flat-square&logo=C&logoColor=white"/> </t>
+      <img alt="c++" src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+      <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+      <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white">
+      <img alt="django" src="https://img.shields.io/badge/Django%20-%20%23092E20?style=flat-square&logo=Django&logoColor=white"/>
+      <img alt="pytorch" src="https://img.shields.io/badge/PyTorch%20-%20%23EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+      <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%20%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
     </div>
     <div>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/react%20-%20%2361DAFB?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white"/>
+      <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
+      <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
+      <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+      <img alt="react.js" src="https://img.shields.io/badge/react%20-%20%2361DAFB?style=flat-square&logo=react&logoColor=white"/>
+      <img alt="node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+      <img alt="express.js" src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white"/>
     </div>
     <div>
-      <img src="https://img.shields.io/badge/Git%20-%20%23F05032?style=flat-square&logo=Git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=white"/>
+      <img alt="git" src="https://img.shields.io/badge/Git%20-%20%23F05032?style=flat-square&logo=Git&logoColor=white"/>
+      <img alt="github" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white"/>
+      <img alt="notion" src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=white"/>
     </div>
   </article>
 
