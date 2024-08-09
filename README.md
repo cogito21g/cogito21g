@@ -9,7 +9,7 @@
       <p>Welcome to cogito21g!!</p>
       <p>I’m currently interested in <code>System Programming</code>, <code>Data Analysis</code>, <code>Web Develope</code></p>
       <details>
-        <summary>2024 Goals</summary>
+        <summary>2024 Goals: 웹 개발</summary>
         <ul>
           <li>정보처리기사</li>
           <li>TOEIC Speaking(IH)</li>
@@ -18,12 +18,21 @@
         </ul>
       </details>
       <details>
-        <summary>2025 Goals</summary>
+        <summary>2025 Goals: 데이터 분석</summary>
         <ul>
           <li>ADsP</li>
           <li>빅데이터분석기사</li>
           <li>IELTS(7.0)</li>
           <li>PCCP(C++: Lv4)</li>
+        </ul>
+      </details>
+      <details>
+        <summary>2026 Goals: 시스템 프로그래밍</summary>
+        <ul>
+          <li>리눅스마스터 2급</li>
+          <li>네트워크관리사 2급</li>
+          <li>임베디드기사</li>
+          <li>IELTS(7.0)</li>
         </ul>
       </details>
     </div>
@@ -54,7 +63,7 @@
       <img alt="pytorch" src="https://img.shields.io/badge/PyTorch%20-%20%23EE4C2C?style=flat-square&logo=Pytorch&logoColor=white" />
       <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%20%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
     </div>
-    <div>
+    <div style="border: 1px solid black">
       <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
       <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
