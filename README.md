@@ -66,7 +66,7 @@
       <img alt="git" src="https://img.shields.io/badge/Git%20-%20%23F05032?style=flat-square&logo=Git&logoColor=white" />
       <img alt="github" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white" />
       <img alt="notion" src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=white" />
-      <img alt="markdown" src="https://img.shields.io/badge/markdown-%23000000?style=flat-square&logo=markdown&logoColor=white" />
+      <img alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000?style=flat-square&logo=markdown&logoColor=white" />
     </div>
   </article>
 
