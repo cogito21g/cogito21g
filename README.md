@@ -62,7 +62,7 @@
       <img alt="express.js" src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white" />
     </div>
     <div>
-      <img alt="vim" src="https://img.shields.io/badge/vim-%23019733?style=flat-square&logo=vim&logoColor=white" />
+      <img alt="vim" src="https://img.shields.io/badge/Vim-%23019733?style=flat-square&logo=vim&logoColor=white" />
       <img alt="git" src="https://img.shields.io/badge/Git%20-%20%23F05032?style=flat-square&logo=Git&logoColor=white" />
       <img alt="github" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white" />
       <img alt="notion" src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=white" />
