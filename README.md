@@ -6,12 +6,15 @@
   <h2>Introduce</h2>
   <p>Welcome to cogito21g!!</p>
   <p>I’m currently interested in <code>System Programming</code>, <code>Data Analysis</code></p>
-  <p>2024 Goals</p>
-  <ul>
-    <li>정보처리기사</li>
-    <li>TOEIC Speaking && Writing</li>
-    <li>PCCP(Python: Lv4)</li>
-  </ul>
+  <details>
+    <summary>2024 Goals</summary>
+    <ul>
+      <li>정보처리기사</li>
+      <li>TOEIC Speaking && Writing</li>
+      <li>PCCP(Python: Lv4)</li>
+    </ul>
+  </details>
+
   
   <div style="display: flex, height:180px">
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=cogito21g&show_icons=true&theme=transparent" alt="cogito21g's github stats" />
