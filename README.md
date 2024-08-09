@@ -42,6 +42,8 @@
     <div>
       <img alt="c" src="https://img.shields.io/badge/C%20language-%23A8B9CC?style=flat-square&logo=C&logoColor=white" /> </t>
       <img alt="c++" src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+      <img alt="unreal engine" src="https://img.shields.io/badge/Unreal%20Engine-%230E1128?style=flat-square&logo=unrealengine&logoColor=white">
+      <img alt="unity" src="https://img.shields.io/badge/Unity-%23FFFFFF?style=flat-square&logo=unity&logoColor=black">
     </div>
     <div>
       <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
@@ -60,6 +62,12 @@
       <img alt="react.js" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white" />
       <img alt="node.js" src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img alt="express.js" src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white" />
+    </div>
+    <div>
+      <img alt="arduino" src="https://img.shields.io/badge/Arduino-%2300878F?style=flat-square&logo=arduino&logoColor=white">
+      <img alt="raspberry pi" src="https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=flat-square&logo=raspberrypi&logoColor=white">
+      <img alt="linux" src="https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white">
+      <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white" />
     </div>
     <div>
       <img alt="vim" src="https://img.shields.io/badge/Vim-%23019733?style=flat-square&logo=vim&logoColor=white" />
