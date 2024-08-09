@@ -10,7 +10,7 @@
     <summary>2024 Goals</summary>
     <ul>
       <li>정보처리기사</li>
-      <li>TOEIC Speaking && Writing</li>
+      <li>TOEIC Speaking(IH) && Writing(AL)</li>
       <li>PCCP(Python: Lv4)</li>
     </ul>
   </details>
