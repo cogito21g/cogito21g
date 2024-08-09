@@ -19,6 +19,8 @@
     </div>
   </article>
 
+  <br />
+
   <article>
     <h2>GitHub Stats</h2>
     <div style="display: flex, height:180px">
@@ -54,6 +56,8 @@
     </div>
   </article>
 
+  <br />
+
   <article>
     <h2>Certificate</h2>
     <div>
@@ -72,6 +76,8 @@
     </div>
   </article>
 </main>
+
+<br />
 
 <footer>
   <h2>Connect with me</h2>
