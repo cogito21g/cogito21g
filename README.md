@@ -40,7 +40,7 @@
 
   <article>
     <h2>GitHub Stats</h2>
-    <div style="display: flex, height:180px">
+    <div style="display: flex; height:180px;">
       <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=cogito21g&show_icons=true&theme=transparent" alt="cogito21g's github stats" />
       <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogito21g&layout=compact&theme=nord&hide_border=true" alt="cogito21g's github stats" />
     </div>
@@ -63,7 +63,7 @@
       <img alt="pytorch" src="https://img.shields.io/badge/PyTorch%20-%20%23EE4C2C?style=flat-square&logo=Pytorch&logoColor=white" />
       <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%20%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
     </div>
-    <div style="border: 1px solid black">
+    <div style="border: 1px solid black;">
       <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
       <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
