@@ -18,18 +18,6 @@
       </details>
     </div>
   </article>
-
-  <br />
-
-  <article>
-    <h2>GitHub Stats</h2>
-    <div style="display: flex, height:180px">
-      <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=cogito21g&show_icons=true&theme=transparent" alt="cogito21g's github stats" />
-      <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogito21g&layout=compact&theme=nord&hide_border=true" alt="cogito21g's github stats" />
-    </div>
-  </article>
-  
-  <br />
   
   <article>
     <h2>Languages and Tools</h2> 
@@ -56,8 +44,6 @@
     </div>
   </article>
 
-  <br />
-
   <article>
     <h2>Certificate</h2>
     <div>
@@ -75,9 +61,16 @@
       </ul>
     </div>
   </article>
+  
+  <article>
+    <h2>GitHub Stats</h2>
+    <div style="display: flex, height:180px">
+      <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=cogito21g&show_icons=true&theme=transparent" alt="cogito21g's github stats" />
+      <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogito21g&layout=compact&theme=nord&hide_border=true" alt="cogito21g's github stats" />
+    </div>
+  </article>
 </main>
 
-<br />
 
 <footer>
   <h2>Connect with me</h2>
