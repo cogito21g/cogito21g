@@ -58,7 +58,7 @@
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
       <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white" />
       <img alt="react.js" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white" />
-      <img alt="node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+      <img alt="node.js" src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img alt="express.js" src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white" />
     </div>
     <div>
