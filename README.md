@@ -92,6 +92,7 @@
     <div>
       <h4>Language</h4>
         <ul>
+          <li>TOEIC: </li>
           <li>TOEIC Spearking: IH(2024.07.28)</li>
           <li>TOEIC Writing: </li>
         </ul>
@@ -101,6 +102,7 @@
       <ul>
         <li>SQLD(2022.09.30)</li>
         <li>정보처리기사: 필기(2024.07.13) / 실기()</li>
+        <li>빅데이터분석기사: 필기() / 실기()</li>
       </ul>
     </div>
   </article>
