@@ -6,8 +6,8 @@
   <h2>Introduce</h2>
   <p>Welcome to cogito21g!!</p>
   <p>I’m currently interested in <code>System Programming</code>, <code>Data Analysis</code></p>
+  <p>2024 Goals</p>
   <ul>
-    <p>2024 Goals</p>
     <li>정보처리기사</li>
     <li>TOEIC Speaking && Writing</li>
     <li>PCCP(Python: Lv4)</li>
