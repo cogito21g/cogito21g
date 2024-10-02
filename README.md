@@ -1,6 +1,4 @@
-<header>
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=250&section=header&text=Cogito21&fontSize=90" />
-</header>
+
 
 <main>
   <article>
