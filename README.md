@@ -38,11 +38,6 @@
     </div>
   </article>
 
-  <article>
-    <h2>Education</h2>
-    <p> | 서울과학기술대학교 | 소재지: 서울 | 전공: 전기정보공학 | 
-      <ㅔGPA: 3.63/4.5</p>
-  </article>
 
 ## Education  
 
@@ -50,49 +45,21 @@
 - 전공: 전기정보공학과
 - GPA: 3.63/4.5
 
-<article>
-  <h2></h2>
-</article>
-  
-  <article>
-    <h2>Certificate</h2>
-    <div>
-      <h4>Language</h4>
-        <ul>
-          <li>TOEIC: </li>
-          <li>TOEIC Spearking: <a href="./certificate/language/TOEIC_Speaking_20240728_점수.jpg">IH(2024.07.28)</a></li>
-          <li>TOEIC Writing: </li>
-          <li>IELTS: </li>
-        </ul>
-    </div>
-    <div>
-      <h4>Programming</h4>
-      <ul>
-        <li><a href="./certificate/programming/sqld.png">SQLD(2022.09.30)</a>/SQLP()</li>
-        <li>ADsP()/ADP()</li>
-        <li>정보처리기사: <a href="./certificate/programming/정처기_202403_필기_합격.png">필기(2024.08.07)</a> / 실기()</li>
-        <li>빅데이터분석기사: <a href="./certificate/programming/빅분기_202409_필기_합격.jpg">필기(2024.09.27)</a> / 실기()</li>
-        <li>정보보안기사: 필기() / 실기()</li>
-        <li>PCCP(C++): </li>
-        <li><a href="./certificate/programming/SW코딩자격1급_취득내역서.jpg">SW 코딩자격 1급(2021.06.11)</a></li>
-      </ul>
-    </div>
-    <div>
-      <h4>OA 자격증</h4>
-      <ul>
-        <li>컴퓨터활용능력 2급()</li>
-        <li>ITQ: 파워포인트()/엑셀()/워드()</li>
-        <li>MOS: PowerPoint()/Excel()/Word()</li>
-      </ul>
-    </div>
-    <div>
-      <h4>ETC</h4>
-      <ul>
-        <li>전기기사: 필기()/실기()</li>
-      </ul>
-    </div>
+## 외부활동
 
-  </article>
+
+## 어학자격증
+
+TOEIC Speaking (2024.07.28)
+- IH(140)
+
+## 자격증
+
+SQLD (2022.09.30)
+SW코딩자격 1급(2021.06.11)
+운전면허1종보통 (2013.02.15)
+
+
 
   <article>
       <h2>Languages and Tools</h2> 
