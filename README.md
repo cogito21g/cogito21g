@@ -57,7 +57,6 @@ Cogito21
       <img alt="c" src="https://img.shields.io/badge/C%20language-%23A8B9CC?style=flat-square&logo=C&logoColor=white" /> </t>
       <img alt="c++" src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
       <img alt="linux" src="https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white">
-      <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white" />
     </div>
     <div>
       <h4>Python</h4>
@@ -89,6 +88,14 @@ Cogito21
       <img alt="github" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white" />
       <img alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000?style=flat-square&logo=markdown&logoColor=white" />
       <img alt="notion" src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=white" />
+    </div>
+    <div>
+      <h4>OS</h4>
+      <img alt="macos" src="https://img.shields.io/badge/macos-%236851FF?style=flat-square&logo=macos&logoColor=white" />
+      <img alt="windows" src="https://img.shields.io/badge/windows-%233B66BC?style=flat-square&logo=windows" />
+      <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+      
+      
     </div>
   </article>
 
