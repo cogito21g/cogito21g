@@ -33,7 +33,9 @@ Cogito21
       <details>
         <summary>2026 Goals: Data Analysis && AI(Computer Vision) Developer</summary>
         <ul>
-          <li>TOEIC(950+)/TOEIC Speaking(AL)/TOEIC Writing(AL)</li>
+          <li>TOEIC(950+)</li>
+          <li>TOEIC Speaking(AL)</li>
+          <li>TOEIC Writing(AL)</li>
           <li>PCCP(C++: Lv4)</li>
           <li>SQLP</li>
           <li>ADP</li>
@@ -96,12 +98,12 @@ Cogito21
     <div>
       <h4>Programming</h4>
       <ul>
-        <li>SW 코딩자격 1급(2021.06.11)</li>
+        <li><ins>SW 코딩자격 1급(2021.06.11)</ins></li>
         <li>COS Pro(C++) 1급()</li>
         <li>PCCP(C++) Lv3()
         <li>리눅스마스터 2급: 1차(2023.05.02)/2차()</li>
         <li>네트워크관리사 2급()</li>
-        <li>SQLD(2022.09.30)</li>
+        <li><ins>SQLD(2022.09.30)</ins></li>
         <li>ADsP()</li>
         <li>정보처리기사: 필기(2024.08.07) / 실기()</li>
         <li>빅데이터분석기사: 필기(2024.09.27) / 실기()</li>
