@@ -94,8 +94,6 @@ Cogito21
       <img alt="macos" src="https://img.shields.io/badge/macos-%236851FF?style=flat-square&logo=macos&logoColor=white" />
       <img alt="windows" src="https://img.shields.io/badge/windows-%233B66BC?style=flat-square&logo=windows" />
       <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-      
-      
     </div>
   </article>
 
