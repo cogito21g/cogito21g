@@ -82,7 +82,7 @@ Cogito21
     <div>
       <h4>Tool</h4>
       <img alt="vim" src="https://img.shields.io/badge/Vim-%23019733?style=flat-square&logo=vim&logoColor=white" />
-      <img alt="sublimetext" src="https://img.shields.io/badge/sublime%20text-white?style=flat-square&logo=sublime%20text&logoColor=%23FF9800" />
+      <img alt="sublimetext" src="https://img.shields.io/badge/sublime%20text-%23FF9800?style=flat-square&logo=sublime%20text&logoColor=white" />
       <img alt="vscode" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
       <img alt="visual studio" src="" />
       <img alt="git" src="https://img.shields.io/badge/Git%20-%20%23F05032?style=flat-square&logo=Git&logoColor=white" />
