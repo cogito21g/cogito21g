@@ -16,7 +16,7 @@ Cogito21
           <li>PCCP(Python: Lv3)</li>
           <li>정보처리기사(<del>필기</del>/실기)</li>
           <li>빅데이터분석기사(<del>필기</del>/실기)</li>
-          <li>리눅스마스터 2급</li>
+          <li>리눅스마스터 2급(2차)</li>
           <li>ADsP</li>
         </ul>
       </details>
@@ -99,7 +99,7 @@ Cogito21
         <li><a href="./certificate/programming/SW코딩자격1급_취득내역서.jpg">SW 코딩자격 1급(2021.06.11)</a></li>
         <li>COS Pro(C++) 1급()</li>
         <li>PCCP(C++) Lv3()
-        <li>리눅스마스터 2급()</li>
+        <li>리눅스마스터 2급: 1차()/2차()</li>
         <li>네트워크관리사 2급()</li>
         <li><a href="./certificate/programming/sqld.png">SQLD(2022.09.30)</a></li>
         <li>ADsP()</li>
