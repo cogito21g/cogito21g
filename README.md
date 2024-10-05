@@ -1,7 +1,6 @@
 
 ## Programming Language
-
-1. C Language
+- C Language
 2. C++
 3. C#
 4. Java
