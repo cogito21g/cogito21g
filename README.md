@@ -99,7 +99,7 @@ Cogito21
       <h4>Programming</h4>
       <ul>
         <li><ins>SW 코딩자격 1급(2021.06.11)</ins></li>
-        <li>COS Pro(C++) 1급()</li>
+        <li>COS Pro(C++) 1급()</li>
         <li>PCCP(C++) Lv3()
         <li>리눅스마스터 2급: 1차(2023.05.02)/2차()</li>
         <li>네트워크관리사 2급()</li>
