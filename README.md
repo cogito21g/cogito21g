@@ -40,7 +40,9 @@ Cogito21
           <li>SQLP</li>
           <li>ADP</li>
           <li>컴퓨터활용능력 2급/1급</li>
-          <li>MOS(Word/Excel/PowerPoint/Access)</li>
+          <li>MOS(Word)</li>
+          <li>MOS(Excel)</li>
+          <li>MOS(PowerPoint)</li>
         </ul>
       </details> 
       </div>
@@ -101,14 +103,14 @@ Cogito21
         <li><ins>SW 코딩자격 1급(2021.06.11)</ins></li>
         <li>COS Pro(C++) 1급()</li>
         <li>PCCP(C++) Lv3()
-        <li>리눅스마스터 2급: 1차(2023.05.02)/2차()</li>
+        <li>리눅스마스터 2급: <ins>1차(2023.05.02)</ins> / 2차()</li>
         <li>네트워크관리사 2급()</li>
         <li><ins>SQLD(2022.09.30)</ins></li>
         <li>ADsP()</li>
-        <li>정보처리기사: 필기(2024.08.07) / 실기()</li>
-        <li>빅데이터분석기사: 필기(2024.09.27) / 실기()</li>
+        <li>정보처리기사: <ins>필기(2024.08.07)</ins> / 실기()</li>
+        <li>빅데이터분석기사: <ins>필기(2024.09.27)</ins> / 실기()</li>
         <li>SQLP()</li>
-        <li>ADP: 필기()/실기()</li>
+        <li>ADP: 필기() / 실기()</li>
         <li>정보보안기사: 필기() / 실기()</li>
       </ul>
     </div>
