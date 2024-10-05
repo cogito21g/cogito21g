@@ -53,12 +53,14 @@ Cogito21
   <article>
     <h2>Languages and Tools</h2> 
     <div>
+      <h4>C/C++</h4>
       <img alt="c" src="https://img.shields.io/badge/C%20language-%23A8B9CC?style=flat-square&logo=C&logoColor=white" /> </t>
       <img alt="c++" src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
       <img alt="linux" src="https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white">
       <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white" />
     </div>
     <div>
+      <h4>Python</h4>
       <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
       <img alt="django" src="https://img.shields.io/badge/Django%20-%20%23092E20?style=flat-square&logo=Django&logoColor=white" />
       <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -68,6 +70,7 @@ Cogito21
       <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%20%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
     </div>
     <div>
+      <h4>JavaScript</h4>
       <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
       <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
@@ -77,6 +80,7 @@ Cogito21
       <img alt="express.js" src="https://img.shields.io/badge/Express%20-%20%23000000?style=flat-square&logo=express&logoColor=white" />
     </div>
     <div>
+      <h4>Tool</h4>
       <img alt="vim" src="https://img.shields.io/badge/Vim-%23019733?style=flat-square&logo=vim&logoColor=white" />
       <img alt="git" src="https://img.shields.io/badge/Git%20-%20%23F05032?style=flat-square&logo=Git&logoColor=white" />
       <img alt="github" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white" />
