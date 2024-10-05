@@ -82,12 +82,13 @@ Cogito21
     <div>
       <h4>Tool</h4>
       <img alt="vim" src="https://img.shields.io/badge/Vim-%23019733?style=flat-square&logo=vim&logoColor=white" />
-      <img alt="vim" src="https://img.shields.io/badge/Vim-%23019733?style=flat-square&logo=vim&logoColor=white" />
-      <img alt="vim" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
+      <img alt="sublimetext" src="https://img.shields.io/badge/sublime%20text-white?style=flat-square&logo=sublime%20text&logoColor=%23FF9800" />
+      <img alt="vscode" src="https://img.shields.io/badge/vscode-black?style=flat&logo=vscode&color=%2340AEF0" />
+      <img alt="visual studio" src="" />
       <img alt="git" src="https://img.shields.io/badge/Git%20-%20%23F05032?style=flat-square&logo=Git&logoColor=white" />
       <img alt="github" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white" />
-      <img alt="notion" src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=white" />
       <img alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000?style=flat-square&logo=markdown&logoColor=white" />
+      <img alt="notion" src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=white" />
     </div>
   </article>
 
