@@ -6,7 +6,8 @@ Cogito21
   <article>
     <h2>Introduce</h2>
     <div>
-      <p>Welcome to cogito21!! I graduated Electronic and Information Engineering in 2020 </p>
+      <p>Welcome to cogito21!!</p>
+      <p>I graduated Electronic and Information Engineering in 2020 </p>
       <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis</code> </p>
     </div>
   </article>
