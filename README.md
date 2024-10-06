@@ -73,7 +73,7 @@ Cogito21
   </article>
   
   <article>
-    <h2>Education</h2>
+    <h2>External Education</h2>
     <div>
       <h4>Boostcamp AI Tech</h4>
       <ul>
