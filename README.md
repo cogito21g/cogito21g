@@ -46,7 +46,6 @@ Cogito21
           <li>PCCP(C++: Lv4)</li>
           <li>SQLP</li>
           <li>ADP</li>
-          <li>컴퓨터활용능력 2급/1급</li>
           <li>MOS(Word)</li>
           <li>MOS(Excel)</li>
           <li>MOS(PowerPoint)</li>
