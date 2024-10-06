@@ -8,6 +8,12 @@ Cogito21
     <div>
       <p>Welcome to cogito21!! I graduated Electronic and Information Engineering in 2020 </p>
       <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis</code> </p>
+    </div>
+  </article>
+  
+  <article>
+    <h2>Goals</h2>
+    <div>
       <details>
         <summary>2024 Goals: Full-Stack Developer</summary>
         <ul>
@@ -73,7 +79,7 @@ Cogito21
         <li>기간: 2023.11 - 2024.04</li>
         <li>기관: 네이버커넥트 재단</li>
         <li>분야: Computer Vision</li>
-        <li>프로젝트: 무인매장 이상행동 탐지</li>
+        <li>프로젝트: 무인매장 이상행동 탐지</li>
         <li>Skills: Python, Matplotlib, Pandas, PyTorch, FastAPI</li>
       </ul>
       <h4>42Seoul</h4>
@@ -81,7 +87,7 @@ Cogito21
         <li>기간: 2022.03 - 2023.11</li>
         <li>기관: 이노베이션 아카데미</li>
         <li>C,C++ 과제 기반 컴퓨터공학 이론 및 실습 교육</li>
-        <li>C 라이브러리, C++, 알고리즘, 운영체제, 그래픽스, 네트워크</li>
+        <li>C 라이브러리, C++, 알고리즘, 운영체제, 그래픽스, 네트워크</li>
         <li>Skills: MacOS, C, C++, Vim, Git, Slack, Docker</li>
       </ul>
     </div>
