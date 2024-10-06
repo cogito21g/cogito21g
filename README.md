@@ -48,7 +48,44 @@ Cogito21
       </div>
   </article>
 
-
+  <article>
+    <h2>Education</h2>
+    <div>
+      <h4>서울과학기술대학교</h4>
+      <ul>
+        <li>재학기간: 2013.03 - 2020.02</li>
+        <li>전공: 전기정보공학과</li>
+        <li>GPA: 3.63/4.5</li>
+        <li>졸업작품: 양방향 뇌신경 신호처리 시스템</li>
+      </ul>
+      <h4>광주대동고등학교</h4>
+      <ul>
+        <li>재학기간: 2009.03 - 2012.02</li>
+      </ul>
+    </div>
+  </article>
+  
+  <article>
+    <h2>Education</h2>
+    <div>
+      <h4>Boostcamp AI Tech</h4>
+      <ul>
+        <li>기간: 2023.11 - 2024.04</li>
+        <li>기관: 네이버커넥트 재단</li>
+        <li>분야: Computer Vision</li>
+        <li>프로젝트: 무인매장 이상행동 탐지</li>
+        <li>Skills: Python, Matplotlib, Pandas, PyTorch, FastAPI</li>
+      </ul>
+      <h4>42Seoul</h4>
+      <ul>
+        <li>기간: 2022.03 - 2023.11</li>
+        <li>기관: 이노베이션 아카데미</li>
+        <li>C,C++ 과제 기반 컴퓨터공학 이론 및 실습 교육</li>
+        <li>C 라이브러리, C++, 알고리즘, 운영체제, 그래픽스, 네트워크</li>
+        <li>Skills: MacOS, C, C++, Vim, Git, Slack, Docker</li>
+      </ul>
+    </div>
+  </article>
   
   <article>
     <h2>Languages and Tools</h2> 
