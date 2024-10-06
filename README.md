@@ -103,7 +103,7 @@ Cogito21
       <h4>Language</h4>
         <ul>
           <li>TOEIC: </li>
-          <li>TOEIC Spearking: IH(2024.07.28)</li>
+          <li>TOEIC Spearking: <ins>IH(2024.07.28)</ins></li>
           <li>TOEIC Writing: ()</li>
           <li>OPIc: ()</li>
           <li>IELTS: ()</li>
