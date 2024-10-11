@@ -8,7 +8,7 @@ Cogito21
     <div>
       <p>Welcome to cogito21!!</p>
       <p>I graduated Electronic and Information Engineering in 2020 </p>
-      <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis</code>, <code>Network</code>, <code>AI</code> </p>
+      <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis</code>, <code>Network</code>, <code>AI(Computer Vision)</code> </p>
     </div>
   </article>
   
