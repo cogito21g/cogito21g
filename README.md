@@ -7,11 +7,11 @@ Cogito21
     <li><a href="#intro">Introduce</a></li>
     <li><a href="#goals">Goals</a></li>
     <li><a href="#education">Education</a></li>
-    <li><a href="#ext_edu">External Education</a></li>
+    <li><a href="#external_education">External Education</a></li>
     <li><a href="#projects">Projects</a></li>
     <li><a href="#skill">Skills</a></li>
     <li><a href="#certificate">Certificate</a></li>
-    <li><a href="#life_cyc">Life Cycle</a></li>
+    <li><a href="#life_cycle">Life Cycle</a></li>
     <li><a href="#level_sys">Level</a></li>
   </ul>
 </nav>
