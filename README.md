@@ -94,6 +94,34 @@ Cogito21
       </ul>
     </div>
   </article>
+
+  <article>
+    <h2>Projects</h2>
+    <div>
+      <h4>무인매장 이상행동 탐지(Renew)</h4>
+      <ul>
+        <li>개발기간: 2025.01 - (OO일/)</li>
+        <li>개발분야: Web, AI</li>
+        <li>개발인원: 1인</li>
+        <li>담당 역할: </li>
+        <li>개발환경</li> 
+          <p>언어: HTML5, CSS3, Python3.11</p>
+          <p>프레임워크: PyTorch, FastAPI</p>
+          <p>IDE: VSCode</p>
+          <p>서버: </p>
+          <p>DB: </p>
+          <p></p>
+      </ul>
+      <h4>42Seoul</h4>
+      <ul>
+        <li>기간: 2022.03 - 2023.11</li>
+        <li>기관: 이노베이션 아카데미</li>
+        <li>C,C++ 과제 기반 컴퓨터공학 이론 및 실습 교육</li>
+        <li>C 라이브러리, C++, 알고리즘, 운영체제, 그래픽스, 네트워크</li>
+        <li>Skills: MacOS, C, C++, Vim, Git, Slack, Docker</li>
+      </ul>
+    </div>
+  </article>
   
   <article>
     <h2>Languages and Tools</h2> 
