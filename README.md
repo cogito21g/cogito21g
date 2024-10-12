@@ -9,7 +9,7 @@ Cogito21
     <li><a href="#education">Education</a></li>
     <li><a href="#external_education">External Education</a></li>
     <li><a href="#projects">Projects</a></li>
-    <li><a href="#skill">Skills</a></li>
+    <li><a href="#skills">Skills</a></li>
     <li><a href="#certificate">Certificate</a></li>
     <li><a href="#life cycle">Life Cycle</a></li>
     <li><a href="#level system">Level</a></li>
