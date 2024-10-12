@@ -216,17 +216,11 @@ Cogito21
         </ul>
       </details> 
       <details>
-        <summary>2026 Goals: Data Analysis && AI(Computer Vision) Developer</summary>
+        <summary>2025- : </summary>
         <ul>
-          <li>TOEIC(950+)</li>
-          <li>TOEIC Speaking(AL)</li>
-          <li>TOEIC Writing(AL)</li>
-          <li>PCCP(C++: Lv4)</li>
-          <li>SQLP</li>
-          <li>ADP</li>
-          <li>MOS(Word)</li>
-          <li>MOS(Excel)</li>
-          <li>MOS(PowerPoint)</li>
+          <li></li>
+          <li></li>
+          <li></li>
         </ul>
       </details> 
       </div>
