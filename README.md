@@ -62,7 +62,7 @@ Cogito21
         <summary>Developer: Level 01</summary>
         <ul>
           <li>[ ] PCCP(Python: Lv2)</li>
-          <li>[O] SQLD(SQL 개발자)</li>
+          <li>[X] SQLD(SQL 개발자)</li>
           <li>[ ] ADsP(데이터분석 준전문가)</li>
         </ul>
       </details>
