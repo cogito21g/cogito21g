@@ -56,7 +56,7 @@ Cogito21
         <ul>
           <h4>Main</h4>
           <li>[ ] [Developer] PCCP(C++: Lv4)</li>
-          <li>[ ] [Developer] ADP</li>
+          <li>[ ] [Developer] SQLP</li>
           <li>[ ] [English] TOEIC Speaking(AL)</li>
           <li>[ ] [English] TOEIC Writing(AL)</li>
         </ul>
@@ -67,6 +67,8 @@ Cogito21
           <h4>Main</h4>
           <li>[ ] [Developer] PCCP(C++: Lv5)</li>
           <li>[ ] [Developer] SQLP</li>
+          <li>[ ] [Developer] ADP</li>
+          <li>[ ] [Developer] 정보관리기술사</li>
           <li>[ ] [English] IELTS(7.0+)</li>
           <li>[ ] [Office] MOS(Word)</li>
           <li>[ ] [Office] MOS(Excel)</li>
