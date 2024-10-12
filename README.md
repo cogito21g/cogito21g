@@ -25,25 +25,26 @@ Cogito21
       <details>
         <summary>2024 Goals: Full-Stack Developer</summary>
         <ul>
+          <li>[ ] [Developer] PCCP(Python: Lv2)</li>
           <li>[ ] [Develper] 정보처리기사(필기/실기)</li>
           <li>[X] [English] TOEIC Speaking(IH)</li>
+          <li>[ ] [English] TOEIC Writing(IH)</li>
           <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
           <hr />
           <li>[ ] [Developer] 빅데이터분석기사(필기/실기)</li>
           <li>[ ] [Developer] 리눅스마스터 2급(2차)</li>
           <li>[ ] [Developer] ADsP</li>
-          <li>[ ] [English] TOEIC Writing(IH)</li>
-          <li>[ ] [Developer] PCCP(Python: Lv2)</li>
         </ul>
       </details>
       <details>
         <summary>2025 Goals: Full-Stack Developer</summary>
         <ul>
+          <p>Main</p>
+          <li>[ ] [Developer] PCCP(Python: Lv3)</li>
           <li>[ ] [Developer] 정보보안기사(필기/실기)</li>
           <li>[ ] [English] TOEIC(950+)</li>
           <li>[ ] [Office] ITQ(Word/PowerPoint/Excel) A등급</li>
-          <hr />
-          <li>[ ] [Developer] PCCP(C++: Lv4)</li>
+          <p>Sub</p>
           <li>[ ] [Developer] 네트워크관리사 2급</li>
         </ul>
       </details> 
