@@ -426,7 +426,7 @@ Cogito21
           <li>IDE: VSCode</li>
           <li>배포: GitHub Pages</li>
         </ul>
-        <li>[결과물]: https://cogito21g.github.io/</li>
+        <li>[결과물] https://cogito21g.github.io/</li>
       </ul>
       <h4>(예정: Renew)무인매장 이상행동 탐지</h4>
       <ul>
