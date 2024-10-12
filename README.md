@@ -98,7 +98,7 @@ Cogito21
   <article>
     <h2>Projects</h2>
     <div>
-      <h4>무인매장 이상행동 탐지(Renew)</h4>
+      <h4>(Renew)무인매장 이상행동 탐지</h4>
       <ul>
         <li>개발기간: 2025.01 - (OO일/)</li>
         <li>개발분야: Web, AI</li>
