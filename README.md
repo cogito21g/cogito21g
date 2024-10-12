@@ -98,12 +98,25 @@ Cogito21
   <article>
     <h2>Projects</h2>
     <div>
-      <h4>(Renew)무인매장 이상행동 탐지</h4>
+      <h4>개인 웹 페이지 제작</h4>
       <ul>
-        <li>개발기간: 2025.01 - (OO일/)</li>
+        <li>개발기간: 2025.01 - (OO일)</li>
         <li>개발분야: Web, AI</li>
         <li>개발인원: 1인</li>
         <li>담당 역할: </li>
+        <ul>
+          <li>언어: HTML5, CSS3, Bootstrap, Modern JS(ES6+), Markdown</li>
+          <li>IDE: VSCode</li>
+          <li>배포: GitHub Pages</li>
+        </ul>
+      </ul>
+      <h4>(Renew)무인매장 이상행동 탐지</h4>
+      <ul>
+        <li>목표: 개발프로세스(WBS)를 통한 명확한 구현/코드 리팩토링을 통한 가독성 향상, 모듈화</li>
+        <li>개발기간: 2025.01 - (OO일)</li>
+        <li>개발분야: Web, AI</li>
+        <li>개발인원: 1인</li>
+        <li>담당 역할: ...</li>
         <ul>
           <li>언어: HTML5, CSS3, Python3.11</li>
           <li>프레임워크: PyTorch, FastAPI</li>
