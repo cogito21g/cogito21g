@@ -14,11 +14,11 @@ Cogito21
   
   <article>
     <h2>Goals</h2>
-    <p>Current: Level 00</p>
+    <pre>  Current: Level 00</pre>
     <div>
       <details>
         <summary>2024 Goals: Full-Stack Developer</summary>
-        <p>Level 01: Beginner Course</p>
+        <pre>  Level 01: Beginner Course</pre>
         <ul>
           <li><del>TOEIC Speaking(HL)</del></li>
           <li>TOEIC Writing(HL)</li>
