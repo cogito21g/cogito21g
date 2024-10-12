@@ -464,6 +464,7 @@ Cogito21
           <li>서버: </li>
           <li>DB: </li>
         </ul>
+        <li>[GitHub] https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-06</li>
       </ul>
       <h4>양방향 뇌신경 신호처리 시스템</h4>
       <ul>
