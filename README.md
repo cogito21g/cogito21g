@@ -14,6 +14,48 @@ Cogito21
   
   <article>
     <h2>Goals</h2>
+    <div>
+      <details>
+        <summary>2024 Goals: Full-Stack Developer</summary>
+        <ul>
+          <li><del>TOEIC Speaking(HL)</del></li>
+          <li>TOEIC Writing(HL)</li>
+          <li>PCCP(Python: Lv3)</li>
+          <li>정보처리기사(<del>필기</del>/실기)</li>
+          <li>빅데이터분석기사(<del>필기</del>/실기)</li>
+          <li>리눅스마스터 2급(2차)</li>
+          <li>ADsP</li>
+        </ul>
+      </details>
+      <details>
+        <summary>2025 Goals: Full-Stack Developer</summary>
+        <ul>
+          <li>TOEIC(950+)</li>
+          <li>TOEIC Speaking(AL)</li>
+          <li>TOEIC Writing(AL)</li>
+          <li>PCCP(C++: Lv4)</li>
+          <li>정보보안기사(필기/실기)</li>
+          <li>리눅스마스터 2급</li>
+          <li>네트워크관리사 2급</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>2026 Goals: Data Analysis && AI(Computer Vision) Developer</summary>
+        <ul>
+          <li>IELTS(6.5+)</li>
+          <li>PCCP(C++: Lv4)</li>
+          <li>SQLP</li>
+          <li>ADP</li>
+          <li>MOS(Word)</li>
+          <li>MOS(Excel)</li>
+          <li>MOS(PowerPoint)</li>
+        </ul>
+      </details> 
+      </div>
+  </article>
+  
+  <article>
+    <h2>Level System</h2>
     <pre>Current: Developer(Level 00) / English(Level 00) / Office(Level 00) / Finance (Level 00) </pre>
     <div>
       <details>
