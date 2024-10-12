@@ -14,13 +14,14 @@ Cogito21
   
   <article>
     <h2>Goals</h2>
+    <p>Current: Level 00</p>
     <div>
       <details>
         <summary>2024 Goals: Full-Stack Developer</summary>
-        <p>Level 01: Beginner && Basic Course</p>
+        <p>Level 01: Beginner Course</p>
         <ul>
-          <li>TOEIC Speaking(AL)</li>
-          <li>TOEIC Writing(AL)</li>
+          <li><del>TOEIC Speaking(HL)</del></li>
+          <li>TOEIC Writing(HL)</li>
           <li>PCCP(Python: Lv3)</li>
           <li>정보처리기사(<del>필기</del>/실기)</li>
           <li>빅데이터분석기사(<del>필기</del>/실기)</li>
@@ -30,7 +31,7 @@ Cogito21
       </details>
       <details>
         <summary>2025 Goals: Full-Stack Developer</summary>
-        <p></p>
+        <p>Level 02: Basic Course</p>
         <ul>
           <li>TOEIC(950+)</li>
           <li>TOEIC Speaking(AL)</li>
