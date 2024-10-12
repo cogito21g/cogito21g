@@ -37,11 +37,13 @@ Cogito21
       <details>
         <summary>2025 Goals: Full-Stack Developer</summary>
         <ul>
-          <li>TOEIC(950+)</li>
+          <li>Developer: 정보보안기사(필기/실기)</li>
+          <li>English:TOEIC(950+)</li>
+          <li>Office: ITQ(Word/PowerPoint/Excel) A등급</li>
+          <hr />
           <li>TOEIC Speaking(AL)</li>
           <li>TOEIC Writing(AL)</li>
           <li>PCCP(C++: Lv4)</li>
-          <li>정보보안기사(필기/실기)</li>
           <li>리눅스마스터 2급</li>
           <li>네트워크관리사 2급</li>
         </ul>
