@@ -9,10 +9,10 @@ Cogito21
     <li><a href="#education">Education</a></li>
     <li><a href="#ext_edu">External Education</a></li>
     <li><a href="#projects">Projects</a></li>
-    <li><a href="#skills">Skills</a></li>
+    <li><a href="#skill">Skills</a></li>
     <li><a href="#certificate">Certificate</a></li>
-    <li><a href="#life">Life Cycle</a></li>
-    <li><a href="#level">Level</a></li>
+    <li><a href="#life_cyc">Life Cycle</a></li>
+    <li><a href="#level_sys">Level</a></li>
   </ul>
 </nav>
 
@@ -193,7 +193,7 @@ Cogito21
     </div>
   </article>
   
-  <article id="skills">
+  <article id="skill">
     <h2>Languages and Tools</h2> 
     <div>
       <h4>C/C++</h4>
@@ -290,7 +290,7 @@ Cogito21
     </div>
   </article>
 
-<article id="life">
+<article id="life_cyc">
     <h2>Life Cycle</h2>
     <div>
       <details>
@@ -326,7 +326,7 @@ Cogito21
       </div>
   </article>
 
-  <article id="level">
+  <article id="level_sys">
     <h2>Level System</h2>
     <pre>Current: Developer(Level 00) / English(Level 00) / Office(Level 00) / Finance (Level 00) </pre>
     <div>
