@@ -25,13 +25,15 @@ Cogito21
       <details>
         <summary>2024 Goals: Full-Stack Developer</summary>
         <ul>
-          <li><del>TOEIC Speaking(HL)</del></li>
-          <li>TOEIC Writing(HL)</li>
-          <li>PCCP(Python: Lv3)</li>
-          <li>정보처리기사(필기/실기)</li>
-          <li>빅데이터분석기사(필기/실기)</li>
-          <li>리눅스마스터 2급(2차)</li>
-          <li>ADsP</li>
+          <li>[Develper] 정보처리기사(필기/실기)</li>
+          <li>[English] <del>TOEIC Speaking(IH)</del></li>
+          <li>[Office] ITQ(PowerPoint) A등급</li>
+          <hr />
+          <li>[Developer] 빅데이터분석기사(필기/실기)</li>
+          <li>[Developer] 리눅스마스터 2급(2차)</li>
+          <li>[Developer] ADsP</li>
+          <li>[English] TOEIC Writing(IH)</li>
+          <li>[Developer] PCCP(Python: Lv2)</li>
         </ul>
       </details>
       <details>
