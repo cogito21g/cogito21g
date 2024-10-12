@@ -7,7 +7,7 @@ Cogito21
     <li><a href="#intro">Introduce</a></li>
     <li><a href="#goals">Goals</a></li>
     <li><a href="#education">Education</a></li>
-    <li><a href="#external education">External Education</a></li>
+    <li><a href="#external_education">External Education</a></li>
     <li><a href="#projects">Projects</a></li>
     <li><a href="#skill">Skills</a></li>
     <li><a href="#certificate">Certificate</a></li>
@@ -87,7 +87,7 @@ Cogito21
     </div>
   </article>
   
-  <article id="#external education">
+  <article id="external_education">
     <h2>External Education</h2>
     <div>
       <h4>Boostcamp AI Tech</h4>
@@ -193,7 +193,7 @@ Cogito21
     </div>
   </article>
   
-  <article id="skill">
+  <article id="skills">
     <h2>Languages and Tools</h2> 
     <div>
       <h4>C/C++</h4>
