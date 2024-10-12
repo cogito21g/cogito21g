@@ -87,7 +87,7 @@ Cogito21
     </div>
   </article>
   
-  <article id="ext_edu">
+  <article id="#external education">
     <h2>External Education</h2>
     <div>
       <h4>Boostcamp AI Tech</h4>
