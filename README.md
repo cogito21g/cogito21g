@@ -39,7 +39,7 @@ Cogito21
       <details>
         <summary>2025 Goals: Full-Stack Developer</summary>
         <ul>
-          <p>Main</p>
+          <h4>Main</h4>
           <li>[ ] [Developer] PCCP(Python: Lv3)</li>
           <li>[ ] [Developer] 정보보안기사(필기/실기)</li>
           <li>[ ] [English] TOEIC(950+)</li>
