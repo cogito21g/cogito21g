@@ -284,7 +284,7 @@ Cogito21
         <summary>English: Level 01</summary>
         <ul>
           <li>[ ] TOEIC (650+)</li>
-          <li>[ ] TOEIC Speaking(IH)</li>
+          <li>[X] TOEIC Speaking(IH)</li>
           <li>[ ] TOEIC Writing(IH)</li>
         </ul>
       </details> 
