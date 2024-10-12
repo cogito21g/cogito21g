@@ -290,7 +290,7 @@ Cogito21
     </div>
   </article>
 
-<article id="life_cyc">
+<article id="life_cycle">
     <h2>Life Cycle</h2>
     <div>
       <details>
