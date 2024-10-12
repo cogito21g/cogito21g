@@ -61,43 +61,41 @@ Cogito21
       <details>
         <summary>Developer: Level 01</summary>
         <ul>
-          <li>PCCP(Python: Lv2)</li>
-          <li>[x]SQLD(SQL 개발자)</li>
-          <li>ADsP(데이터분석 준전문가)</li>
+          <li>[ ]PCCP(Python: Lv2)</li>
+          <li>[O]SQLD(SQL 개발자)</li>
+          <li>[ ]ADsP(데이터분석 준전문가)</li>
         </ul>
       </details>
       <details>
         <summary>Developer: Level 02</summary>
         <ul>
-          <li>PCCP(Python: Lv3)</li>
-          <li>리눅스마스터 2급</li>
-          <li>네트워크관리사 2급</li>
+          <li>[ ]PCCP(Python: Lv3)</li>
+          <li>[ ]리눅스마스터 2급</li>
+          <li>[ ]네트워크관리사 2급</li>
         </ul>
       </details> 
       <details>
         <summary>Developer: Level 03</summary>
         <ul>
-          <li>PCCP(C++: Lv3)</li>
-          <li>정보처리기사(<del>필기</del>/실기)</li>
-          <li>빅데이터분석기사(<del>필기</del>/실기)</li>
+          <li>[ ]PCCP(C++: Lv3)</li>
+          <li>[ ]정보처리기사(<del>필기</del>/실기)</li>
+          <li>[ ]빅데이터분석기사(<del>필기</del>/실기)</li>
         </ul>
       </details> 
       <details>
         <summary>Developer: Level 04</summary>
         <ul>
-          <li>PCCP(C++: Lv4)</li>
-          <li>정보보안기사(필기/실기)</li>
-          <li>SQLP</li>
-          <li>ADP</li>
+          <li>[ ]PCCP(C++: Lv4)</li>
+          <li>[ ]정보보안기사(필기/실기)</li>
         </ul>
       </details> 
       </details> 
       <details>
         <summary>Developer: Level 05</summary>
         <ul>
-          <li>PCCP(C++: Lv5)</li>
-          <li>SQLP</li>
-          <li>ADP</li>
+          <li>[ ]PCCP(C++: Lv5)</li>
+          <li>[ ]SQLP</li>
+          <li>[ ]ADP</li>
         </ul>
       </details> 
       </div>
