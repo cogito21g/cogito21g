@@ -2,9 +2,18 @@
 Cogito21
 </header>
 
+<nav>
+  <ul>
+    <li><a href="intro">Introduce</a></li>
+    <li><a href="goals">Goals</a></li>
+    <li><a href="edu">Education</a></li>
+    <li><a href=""></a></li>
+  </ul>
+</nav>
+
 <main>
   <article>
-    <h2>Introduce</h2>
+    <h2 id="intro">Introduce</h2>
     <div>
       <p>Welcome to cogito21!!</p>
       <p>I graduated Electronic and Information Engineering in 2020 </p>
@@ -12,7 +21,7 @@ Cogito21
     </div>
   </article>
   
-  <article>
+  <article id="goals">
     <h2>Goals</h2>
     <div>
       <details>
@@ -56,7 +65,7 @@ Cogito21
   
 
 
-  <article>
+  <article id="edu">
     <h2>Education</h2>
     <div>
       <h4>서울과학기술대학교</h4>
