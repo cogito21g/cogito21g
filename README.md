@@ -3,17 +3,10 @@ Cogito21
 </header>
 
 <nav>
-  <ul>
-    <li><a href="#intro">Introduce</a></li>
-    <li><a href="#goals">Goals</a></li>
-    <li><a href="#education">Education</a></li>
-    <li><a href="#external_education">External Education</a></li>
-    <li><a href="#projects">Projects</a></li>
-    <li><a href="#skills">Skills</a></li>
-    <li><a href="#certificate">Certificate</a></li>
-    <li><a href="#life cycle">Life Cycle</a></li>
-    <li><a href="#level system">Level</a></li>
-  </ul>
+  <p>
+    <a href="#intro">Introduce</a> | <a href="#goals">Goals</a> | <a href="#education">Education</a> | 
+    <a href="#external_education">External Education</a> | <a href="#projects">Projects</a> | <a href="#skills">Skills</a> | <a href="#certificate">Certificate</a> | <a href="#life cycle">Life Cycle</a> | <a href="#level system">Level</a>
+  </p>
 </nav>
 
 <main>
