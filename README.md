@@ -25,12 +25,13 @@ Cogito21
       <details>
         <summary>2024 Goals: Full-Stack Developer</summary>
         <ul>
+          <h4>Main</h4>
           <li>[ ] [Developer] PCCP(Python: Lv2)</li>
           <li>[ ] [Develper] 정보처리기사(필기/실기)</li>
           <li>[X] [English] TOEIC Speaking(IH)</li>
           <li>[ ] [English] TOEIC Writing(IH)</li>
           <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
-          <hr />
+          <h4>Sub</h4>
           <li>[ ] [Developer] 빅데이터분석기사(필기/실기)</li>
           <li>[ ] [Developer] 리눅스마스터 2급(2차)</li>
           <li>[ ] [Developer] ADsP</li>
@@ -39,30 +40,34 @@ Cogito21
       <details>
         <summary>2025 Goals: Full-Stack Developer</summary>
         <ul>
-          <h6>Main</h6>
+          <h4>Main</h4>
           <li>[ ] [Developer] PCCP(Python: Lv3)</li>
           <li>[ ] [Developer] 정보보안기사(필기/실기)</li>
           <li>[ ] [English] TOEIC(950+)</li>
-          <li>[ ] [Office] ITQ(Word/PowerPoint/Excel) A등급</li>
-          <p>Sub</p>
+          <li>[ ] [Office] ITQ(Word) A등급</li>
+          <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
+          <li>[ ] [Office] ITQ(Excel) A등급</li>
+          <h4>Sub</h4>
           <li>[ ] [Developer] 네트워크관리사 2급</li>
         </ul>
       </details> 
       <details>
         <summary>2026 Goals: Data Analysis && AI(Computer Vision) Developer</summary>
         <ul>
+          <h4>Main</h4>
+          <li>[ ] [Developer] PCCP(C++: Lv4)</li>
           <li>[ ] [Developer] ADP</li>
           <li>[ ] [English] TOEIC Speaking(AL)</li>
           <li>[ ] [English] TOEIC Writing(AL)</li>
-          <li>[ ] [Developer] PCCP(C++: Lv4)</li>
         </ul>
       </details> 
       <details>
         <summary>20XX Goals: SW Engineer & SW Architecture</summary>
         <ul>
+          <h4>Main</h4>
+          <li>[ ] [Developer] PCCP(C++: Lv5)</li>
           <li>[ ] [Developer] SQLP</li>
           <li>[ ] [English] IELTS(7.0+)</li>
-          <li>[ ] [Developer] PCCP(C++: Lv4)</li>
           <li>[ ] [Office] MOS(Word)</li>
           <li>[ ] [Office] MOS(Excel)</li>
           <li>[ ] [Office] MOS(PowerPoint)</li>
