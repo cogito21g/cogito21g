@@ -101,90 +101,6 @@ Cogito21
       </ul>
     </div>
   </article>
-
-  <article id="projects">
-    <h2>Projects</h2>
-    <div>
-      <h4>(예정)데이터분석</h4>
-      <ul>
-        <li>목표: 고객 데이터분석을 통한 마케팅 전략/금융 데이터분석을 통한 금융 포트폴리오 제작</li>
-        <li>개발기간: 0000.00 - 0000.00 (OO일)</li>
-        <li>개발분야: 00</li>
-        <li>개발인원: 00인</li>
-        <li>담당 역할: ...</li>
-        <li>개발환경</li>
-        <ul>
-          <li>언어: ...</li>
-          <li>IDE: ...</li>
-          <li>배포: ...</li>
-        </ul>
-      </ul>
-      <h4>(예정)cogito21 Website 제작</h4>
-      <ul>
-        <li>개발기간: 0000.00 - 0000.00 (OO일)</li>
-        <li>개발분야: Web Frontend</li>
-        <li>개발인원: 1인</li>
-        <li>담당 역할: ...</li>
-        <li>개발환경</li>
-        <ul>
-          <li>언어: HTML5, CSS3, Bootstrap, Modern JS(ES6+), Markdown</li>
-          <li>IDE: VSCode</li>
-          <li>배포: GitHub Pages</li>
-        </ul>
-      </ul>
-      <h4>(예정: Renew)무인매장 이상행동 탐지</h4>
-      <ul>
-        <li>목표: 개발프로세스(WBS)를 통한 명확한 구현/코드 리팩토링을 통한 가독성 향상, 모듈화</li>
-        <li>개발기간: 2025.01 - (OO일)</li>
-        <li>개발분야: Web, AI</li>
-        <li>개발인원: 1인</li>
-        <li>담당 역할: ...</li>
-        <li>개발환경</li>
-        <ul>
-          <li>언어: HTML5, CSS3, Python3.11</li>
-          <li>프레임워크: PyTorch, FastAPI</li>
-          <li>IDE: VSCode</li>
-          <li>서버: </li>
-          <li>DB: </li>
-        </ul>
-      </ul>
-      <h4>무인매장 이상행동 탐지</h4>
-      <ul>
-        <li>개발기간: 2024.02 - 2024.04 (60일)</li>
-        <li>개발분야: Web, AI</li>
-        <li>개발인원: 6인</li>
-        <li>담당 역할: </li>
-          <ol type="1">
-            <li>웹 페이지별 초안 제작</li>
-            <li>백엔드 예제 작성 후 설명</li>
-            <li>백엔드 로직 구현(메인페이지/회원가입/로그인, 로그아웃/페이지이동)</li>
-            <li>QA 및 버그수정</li>
-          </ol>
-        <li>개발환경</li>
-        <ul>
-          <li>언어: HTML5, CSS3, Python3.11</li>
-          <li>프레임워크: PyTorch, FastAPI</li>
-          <li>IDE: VSCode</li>
-          <li>서버: </li>
-          <li>DB: </li>
-        </ul>
-      </ul>
-      <h4>양방향 뇌신경 신호처리 시스템</h4>
-      <ul>
-        <li>개발기간: 2018.11 - 2019.12 (1년 2개월)</li>
-        <li>개발분야: 아날로그회로, 디지털회로</li>
-        <li>개발인원: 4인</li>
-        <li>담당 역할: 팀장</li>
-        <ol type="1">
-          <li>일정관리 및 보고서 작성)</li>
-          <li>교수님 면담(피드백)</li>
-          <li>측정부 회로설계 및 구현</li>
-          <li>PT 발표</li>
-        </ol>
-        <li>Skill: 오실로스코프, 필터 회로설계(MOSFET)</li>        
-      </ul>
-    </div>
-  </article>
   
   <article id="skills">
     <h2>Languages and Tools</h2> 
@@ -480,6 +396,91 @@ Cogito21
       </details> 
       </div>
   </article>
+
+  <article id="projects">
+    <h2>Projects</h2>
+    <div>
+      <h4>(예정)데이터분석</h4>
+      <ul>
+        <li>목표: 고객 데이터분석을 통한 마케팅 전략/금융 데이터분석을 통한 금융 포트폴리오 제작</li>
+        <li>개발기간: 0000.00 - 0000.00 (OO일)</li>
+        <li>개발분야: 00</li>
+        <li>개발인원: 00인</li>
+        <li>담당 역할: ...</li>
+        <li>개발환경</li>
+        <ul>
+          <li>언어: ...</li>
+          <li>IDE: ...</li>
+          <li>배포: ...</li>
+        </ul>
+      </ul>
+      <h4>(예정)cogito21 Website 제작</h4>
+      <ul>
+        <li>개발기간: 0000.00 - 0000.00 (OO일)</li>
+        <li>개발분야: Web Frontend</li>
+        <li>개발인원: 1인</li>
+        <li>담당 역할: ...</li>
+        <li>개발환경</li>
+        <ul>
+          <li>언어: HTML5, CSS3, Bootstrap, Modern JS(ES6+), Markdown</li>
+          <li>IDE: VSCode</li>
+          <li>배포: GitHub Pages</li>
+        </ul>
+      </ul>
+      <h4>(예정: Renew)무인매장 이상행동 탐지</h4>
+      <ul>
+        <li>목표: 개발프로세스(WBS)를 통한 명확한 구현/코드 리팩토링을 통한 가독성 향상, 모듈화</li>
+        <li>개발기간: 2025.01 - (OO일)</li>
+        <li>개발분야: Web, AI</li>
+        <li>개발인원: 1인</li>
+        <li>담당 역할: ...</li>
+        <li>개발환경</li>
+        <ul>
+          <li>언어: HTML5, CSS3, Python3.11</li>
+          <li>프레임워크: PyTorch, FastAPI</li>
+          <li>IDE: VSCode</li>
+          <li>서버: </li>
+          <li>DB: </li>
+        </ul>
+      </ul>
+      <h4>무인매장 이상행동 탐지</h4>
+      <ul>
+        <li>개발기간: 2024.02 - 2024.04 (60일)</li>
+        <li>개발분야: Web, AI</li>
+        <li>개발인원: 6인</li>
+        <li>담당 역할: </li>
+          <ol type="1">
+            <li>웹 페이지별 초안 제작</li>
+            <li>백엔드 예제 작성 후 설명</li>
+            <li>백엔드 로직 구현(메인페이지/회원가입/로그인, 로그아웃/페이지이동)</li>
+            <li>QA 및 버그수정</li>
+          </ol>
+        <li>개발환경</li>
+        <ul>
+          <li>언어: HTML5, CSS3, Python3.11</li>
+          <li>프레임워크: PyTorch, FastAPI</li>
+          <li>IDE: VSCode</li>
+          <li>서버: </li>
+          <li>DB: </li>
+        </ul>
+      </ul>
+      <h4>양방향 뇌신경 신호처리 시스템</h4>
+      <ul>
+        <li>개발기간: 2018.11 - 2019.12 (1년 2개월)</li>
+        <li>개발분야: 아날로그회로, 디지털회로</li>
+        <li>개발인원: 4인</li>
+        <li>담당 역할: 팀장</li>
+        <ol type="1">
+          <li>일정관리 및 보고서 작성)</li>
+          <li>교수님 면담(피드백)</li>
+          <li>측정부 회로설계 및 구현</li>
+          <li>PT 발표</li>
+        </ol>
+        <li>Skill: 오실로스코프, 필터 회로설계(MOSFET)</li>        
+      </ul>
+    </div>
+  </article>
+
   
 </main>
 
