@@ -305,7 +305,6 @@ Cogito21
           <li>[ ] TOEIC Writing(AH)</li>
         </ul>
       </details> 
-      </details> 
       <details>
         <summary>English: Level 05</summary>
         <ul>
