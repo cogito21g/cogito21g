@@ -272,6 +272,15 @@ Cogito21
           <li>[ ] 정보관리기술사</li>
         </ul>
       </details> 
+      <hr />
+      <details>
+        <summary>English: Level 01</summary>
+        <ul>
+          <li>[ ] TOEIC (650+)</li>
+          <li>[ ] TOEIC Speaking(IH)</li>
+          <li>[ ] TOEIC Writing(IH)</li>
+        </ul>
+      </details> 
       </div>
   </article>
   
