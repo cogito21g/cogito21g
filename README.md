@@ -25,41 +25,46 @@ Cogito21
       <details>
         <summary>2024 Goals: Full-Stack Developer</summary>
         <ul>
-          <li>[Develper] 정보처리기사(필기/실기)</li>
-          <li>[English] <del>TOEIC Speaking(IH)</del></li>
-          <li>[Office] ITQ(PowerPoint) A등급</li>
+          <li>[ ] [Develper] 정보처리기사(필기/실기)</li>
+          <li>[X] [English] TOEIC Speaking(IH)</li>
+          <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
           <hr />
-          <li>[Developer] 빅데이터분석기사(필기/실기)</li>
-          <li>[Developer] 리눅스마스터 2급(2차)</li>
-          <li>[Developer] ADsP</li>
-          <li>[English] TOEIC Writing(IH)</li>
-          <li>[Developer] PCCP(Python: Lv2)</li>
+          <li>[ ] [Developer] 빅데이터분석기사(필기/실기)</li>
+          <li>[ ] [Developer] 리눅스마스터 2급(2차)</li>
+          <li>[ ] [Developer] ADsP</li>
+          <li>[ ] [English] TOEIC Writing(IH)</li>
+          <li>[ ] [Developer] PCCP(Python: Lv2)</li>
         </ul>
       </details>
       <details>
         <summary>2025 Goals: Full-Stack Developer</summary>
         <ul>
-          <li>Developer: 정보보안기사(필기/실기)</li>
-          <li>English:TOEIC(950+)</li>
-          <li>Office: ITQ(Word/PowerPoint/Excel) A등급</li>
+          <li>[ ] [Developer] 정보보안기사(필기/실기)</li>
+          <li>[ ] [English] TOEIC(950+)</li>
+          <li>[ ] [Office] ITQ(Word/PowerPoint/Excel) A등급</li>
           <hr />
-          <li>TOEIC Speaking(AL)</li>
-          <li>TOEIC Writing(AL)</li>
-          <li>PCCP(C++: Lv4)</li>
-          <li>리눅스마스터 2급</li>
-          <li>네트워크관리사 2급</li>
+          <li>[ ] [Developer] PCCP(C++: Lv4)</li>
+          <li>[ ] [Developer] 네트워크관리사 2급</li>
         </ul>
       </details> 
       <details>
         <summary>2026 Goals: Data Analysis && AI(Computer Vision) Developer</summary>
         <ul>
-          <li>IELTS(6.5+)</li>
-          <li>PCCP(C++: Lv4)</li>
-          <li>SQLP</li>
-          <li>ADP</li>
-          <li>MOS(Word)</li>
-          <li>MOS(Excel)</li>
-          <li>MOS(PowerPoint)</li>
+          <li>[ ] [Developer] ADP</li>
+          <li>[ ] [English] TOEIC Speaking(AL)</li>
+          <li>[ ] [English] TOEIC Writing(AL)</li>
+          <li>[ ] [Developer] PCCP(C++: Lv4)</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>20XX Goals: SW Engineer & SW Architecture</summary>
+        <ul>
+          <li>[ ] [Developer] SQLP</li>
+          <li>[ ] [English] IELTS(7.0+)</li>
+          <li>[ ] [Developer] PCCP(C++: Lv4)</li>
+          <li>[ ] [Office] MOS(Word)</li>
+          <li>[ ] [Office] MOS(Excel)</li>
+          <li>[ ] [Office] MOS(PowerPoint)</li>
         </ul>
       </details> 
       </div>
