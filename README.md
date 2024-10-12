@@ -4,9 +4,9 @@ Cogito21
 
 <nav>
   <ul>
-    <li><a href="intro">Introduce</a></li>
-    <li><a href="goals">Goals</a></li>
-    <li><a href="edu">Education</a></li>
+    <li><a href="#intro">Introduce</a></li>
+    <li><a href="#goals">Goals</a></li>
+    <li><a href="#edu">Education</a></li>
     <li><a href=""></a></li>
   </ul>
 </nav>
