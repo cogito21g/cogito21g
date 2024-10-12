@@ -281,6 +281,81 @@ Cogito21
           <li>[ ] TOEIC Writing(IH)</li>
         </ul>
       </details> 
+      <details>
+        <summary>English: Level 02</summary>
+        <ul>
+          <li>[ ] TOEIC (750+)</li>
+          <li>[ ] TOEIC Speaking(AL)</li>
+          <li>[ ] TOEIC Writing(AL)</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>English: Level 03</summary>
+        <ul>
+          <li>[ ] TOEIC (850+)</li>
+          <li>[ ] TOEIC Speaking(AM)</li>
+          <li>[ ] TOEIC Writing(AM)</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>English: Level 04</summary>
+        <ul>
+          <li>[ ] TOEIC (900+)</li>
+          <li>[ ] TOEIC Speaking(AH)</li>
+          <li>[ ] TOEIC Writing(AH)</li>
+        </ul>
+      </details> 
+      </details> 
+      <details>
+        <summary>English: Level 05</summary>
+        <ul>
+          <li>[ ] IELTS (7.0+)</li>
+        </ul>
+      </details>
+      <br />
+      <details>
+        <summary>Office: Level 01</summary>
+        <ul>
+          <li>[ ] ITQ(Word) B등급</li>
+          <li>[ ] ITQ(PowerPoint) B등급</li>
+          <li>[ ] ITQ(Excel) B등급</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>Office: Level 02</summary>
+        <ul>
+          <li>[ ] ITQ(Word) A등급 / MOS(Word)</li>
+          <li>[ ] ITQ(PowerPoint) A등급 / MOS(PowerPoint)</li>
+          <li>[ ] ITQ(Excel) A등급 / MOS(Excel)</li>
+          <li>[ ] GTQ 2급</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>Office: Level 03</summary>
+        <ul>
+          <li>[ ] 컴퓨터활용능력 1급</li>
+          <li>[ ] GTQ 1급</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>Office: Level 04</summary>
+        <ul>
+          <li>[ ] ??</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>Office: Level 05</summary>
+        <ul>
+          <li>[ ] ??</li>
+        </ul>
+      </details> 
+      <hr />
+      <details>
+        <summary>Office: Level 05</summary>
+        <ul>
+          <li>[ ] ??</li>
+        </ul>
+      </details> 
       </div>
   </article>
   
