@@ -104,23 +104,35 @@ Cogito21
         <li>개발분야: Web, AI</li>
         <li>개발인원: 1인</li>
         <li>담당 역할: </li>
-        <li>
-          <ul>
-            <li>언어: HTML5, CSS3, Python3.11</li>
-            <li>프레임워크: PyTorch, FastAPI</li>
-            <li>IDE: VSCode</li>
-            <li>서버: </li>
-            <li>DB: </li>
-          </ul>
-        </li>
+        <ul>
+          <li>언어: HTML5, CSS3, Python3.11</li>
+          <li>프레임워크: PyTorch, FastAPI</li>
+          <li>IDE: VSCode</li>
+          <li>서버: </li>
+          <li>DB: </li>
+        </ul>
       </ul>
-      <h4>42Seoul</h4>
+      <br/>
+      <h4>무인매장 이상행동 탐지</h4>
       <ul>
-        <li>기간: 2022.03 - 2023.11</li>
-        <li>기관: 이노베이션 아카데미</li>
-        <li>C,C++ 과제 기반 컴퓨터공학 이론 및 실습 교육</li>
-        <li>C 라이브러리, C++, 알고리즘, 운영체제, 그래픽스, 네트워크</li>
-        <li>Skills: MacOS, C, C++, Vim, Git, Slack, Docker</li>
+        <li>개발기간: 2024.02 - 2024.04 (60일)</li>
+        <li>개발분야: Web, AI</li>
+        <li>개발인원: 6인</li>
+        <li>담당 역할: 웹 개발(페이지/회원가입/로그인 로직 구현), QA, 버그 수정</li>
+        <ul>
+          <li>언어: HTML5, CSS3, Python3.11</li>
+          <li>프레임워크: PyTorch, FastAPI</li>
+          <li>IDE: VSCode</li>
+          <li>서버: </li>
+          <li>DB: </li>
+        </ul>
+      <h4>양방향 뇌신경 신호처리 시스템</h4>
+      <ul>
+        <li>개발기간: 2018.11 - 2019.12 (1년 2개월)</li>
+        <li>개발분야: 아날로그회로, 디지털회로</li>
+        <li>개발인원: 4인</li>
+        <li>담당 역할: 팀장(일정관리 및 보고서 작성), 측정부 회로설계</li>
+        <li>Skill: 오실로스코프, 필터 회로설계(MOSFET)</li>        
       </ul>
     </div>
   </article>
