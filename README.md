@@ -8,11 +8,11 @@ Cogito21
     <li><a href="#goals">Goals</a></li>
     <li><a href="#education">Education</a></li>
     <li><a href="#ext_edu">External Education</a></li>
-    <li><a href="projects">Projects</a></li>
-    <li><a href="skills">Skills</a></li>
-    <li><a href="certificate">Certificate</a></li>
-    <li><a href="life">Life Cycle</a></li>
-    <li><a href="level">Level</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#certificate">Certificate</a></li>
+    <li><a href="#life">Life Cycle</a></li>
+    <li><a href="#level">Level</a></li>
   </ul>
 </nav>
 
