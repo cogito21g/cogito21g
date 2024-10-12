@@ -104,6 +104,7 @@ Cogito21
         <li>개발분야: Web, AI</li>
         <li>개발인원: 1인</li>
         <li>담당 역할: </li>
+        <li>개발환경</li>
         <ul>
           <li>언어: HTML5, CSS3, Bootstrap, Modern JS(ES6+), Markdown</li>
           <li>IDE: VSCode</li>
@@ -117,6 +118,7 @@ Cogito21
         <li>개발분야: Web, AI</li>
         <li>개발인원: 1인</li>
         <li>담당 역할: ...</li>
+        <li>개발환경</li>
         <ul>
           <li>언어: HTML5, CSS3, Python3.11</li>
           <li>프레임워크: PyTorch, FastAPI</li>
@@ -131,6 +133,7 @@ Cogito21
         <li>개발분야: Web, AI</li>
         <li>개발인원: 6인</li>
         <li>담당 역할: 웹 개발(페이지/회원가입/로그인 로직 구현), QA, 버그 수정</li>
+        <li>개발환경</li>
         <ul>
           <li>언어: HTML5, CSS3, Python3.11</li>
           <li>프레임워크: PyTorch, FastAPI</li>
