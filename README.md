@@ -6,7 +6,7 @@ Cogito21
   <ul>
     <li><a href="#intro">Introduce</a></li>
     <li><a href="#goals">Goals</a></li>
-    <li><a href="#edu">Education</a></li>
+    <li><a href="#education">Education</a></li>
     <li><a href=""></a></li>
   </ul>
 </nav>
@@ -65,7 +65,7 @@ Cogito21
   
 
 
-  <article id="edu">
+  <article id="education">
     <h2>Education</h2>
     <div>
       <h4>서울과학기술대학교</h4>
