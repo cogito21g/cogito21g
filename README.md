@@ -479,6 +479,7 @@ Cogito21
           <li>PT 발표</li>
         </ol>
         <li>Skill: 오실로스코프, 필터 회로설계(MOSFET)</li>        
+        <li>[결과물] https://github.com/cogito21g/Circuit</li>        
       </ul>
     </div>
   </article>
