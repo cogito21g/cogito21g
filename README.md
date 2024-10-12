@@ -14,11 +14,10 @@ Cogito21
   
   <article>
     <h2>Goals</h2>
-    <pre>  Current: Level 00</pre>
+    <pre>Current: Developer(Level 00) / </pre>
     <div>
       <details>
         <summary>2024 Goals: Full-Stack Developer</summary>
-        <pre>  Level 01: Beginner Course</pre>
         <ul>
           <li><del>TOEIC Speaking(HL)</del></li>
           <li>TOEIC Writing(HL)</li>
@@ -31,12 +30,11 @@ Cogito21
       </details>
       <details>
         <summary>2025 Goals: Full-Stack Developer</summary>
-        <p>Level 02: Basic Course</p>
         <ul>
           <li>TOEIC(950+)</li>
           <li>TOEIC Speaking(AL)</li>
           <li>TOEIC Writing(AL)</li>
-          <li>PCCP(Java: Lv3)</li>
+          <li>PCCP(C++: Lv4)</li>
           <li>정보보안기사(필기/실기)</li>
           <li>리눅스마스터 2급</li>
           <li>네트워크관리사 2급</li>
