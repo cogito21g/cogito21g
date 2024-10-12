@@ -95,6 +95,7 @@ Cogito21
           <li>[ ] PCCP(C++: Lv5)</li>
           <li>[ ] SQLP(SQL 전문가)</li>
           <li>[ ] ADP(데이터분석 전문가)</li>
+          <li>[ ] 정보관리기술사</li>
         </ul>
       </details> 
       </div>
