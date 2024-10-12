@@ -30,7 +30,9 @@ Cogito21
       <details>
         <summary>2025 Goals: Full-Stack Developer</summary>
         <ul>
-          <li>TOEIC(900+)</li>
+          <li>TOEIC(950+)</li>
+          <li>TOEIC Speaking(AL)</li>
+          <li>TOEIC Writing(AL)</li>
           <li>PCCP(Java: Lv3)</li>
           <li>정보보안기사(필기/실기)</li>
           <li>리눅스마스터 2급</li>
@@ -40,9 +42,7 @@ Cogito21
       <details>
         <summary>2026 Goals: Data Analysis && AI(Computer Vision) Developer</summary>
         <ul>
-          <li>TOEIC(950+)</li>
-          <li>TOEIC Speaking(AL)</li>
-          <li>TOEIC Writing(AL)</li>
+          <li>IELTS(6.5+)</li>
           <li>PCCP(C++: Lv4)</li>
           <li>SQLP</li>
           <li>ADP</li>
