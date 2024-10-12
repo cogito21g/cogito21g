@@ -311,7 +311,7 @@ Cogito21
           <li>[ ] IELTS (7.0+)</li>
         </ul>
       </details>
-      <br />
+      <hr />
       <details>
         <summary>Office: Level 01</summary>
         <ul>
