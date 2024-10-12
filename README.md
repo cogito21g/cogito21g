@@ -14,7 +14,7 @@ Cogito21
   
   <article>
     <h2>Goals</h2>
-    <pre>Current: Developer(Level 00) / </pre>
+    <pre>Current: Developer(Level 00) / English(Level 00) / Office(Level 00) / Finance (Level 00) </pre>
     <div>
       <details>
         <summary>2024 Goals: Full-Stack Developer</summary>
