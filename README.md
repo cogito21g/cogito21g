@@ -104,7 +104,15 @@ Cogito21
         <li>개발분야: Web, AI</li>
         <li>개발인원: 1인</li>
         <li>담당 역할: </li>
-        <li>개발환경: 언어(HTML5, CSS3, Python3.11)/프레임워크(PyTorch, FastAPI)/IDE(VSCode)/서버()/DB()</li>
+        <li>
+          <ul>
+            <li>언어: HTML5, CSS3, Python3.11</li>
+            <li>프레임워크: PyTorch, FastAPI</li>
+            <li>IDE: VSCode</li>
+            <li>서버: </li>
+            <li>DB: </li>
+          </ul>
+        </li>
       </ul>
       <h4>42Seoul</h4>
       <ul>
