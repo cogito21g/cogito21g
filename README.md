@@ -7,7 +7,12 @@ Cogito21
     <li><a href="#intro">Introduce</a></li>
     <li><a href="#goals">Goals</a></li>
     <li><a href="#education">Education</a></li>
-    <li><a href=""></a></li>
+    <li><a href="#ext_edu">External Education</a></li>
+    <li><a href="projects">Projects</a></li>
+    <li><a href="skills">Skills</a></li>
+    <li><a href="certificate">Certificate</a></li>
+    <li><a href="life">Life Cycle</a></li>
+    <li><a href="level">Level</a></li>
   </ul>
 </nav>
 
@@ -82,7 +87,7 @@ Cogito21
     </div>
   </article>
   
-  <article>
+  <article id="ext_edu">
     <h2>External Education</h2>
     <div>
       <h4>Boostcamp AI Tech</h4>
@@ -104,7 +109,7 @@ Cogito21
     </div>
   </article>
 
-  <article>
+  <article id="projects">
     <h2>Projects</h2>
     <div>
       <h4>(예정)데이터분석</h4>
@@ -188,7 +193,7 @@ Cogito21
     </div>
   </article>
   
-  <article>
+  <article id="skills">
     <h2>Languages and Tools</h2> 
     <div>
       <h4>C/C++</h4>
@@ -235,7 +240,7 @@ Cogito21
     </div>
   </article>
 
-  <article>
+  <article id="certificate">
     <h2>Certificate</h2>
     <div>
       <h4>Language</h4>
@@ -285,7 +290,7 @@ Cogito21
     </div>
   </article>
 
-<article>
+<article id="life">
     <h2>Life Cycle</h2>
     <div>
       <details>
@@ -321,7 +326,7 @@ Cogito21
       </div>
   </article>
 
-  <article>
+  <article id="level">
     <h2>Level System</h2>
     <pre>Current: Developer(Level 00) / English(Level 00) / Office(Level 00) / Finance (Level 00) </pre>
     <div>
