@@ -189,6 +189,50 @@ Cogito21
       </ul>
     </div>
   </article>
+
+<article>
+    <h2>Life Cycle</h2>
+    <div>
+      <details>
+        <summary>2013-2020: 대학생활</summary>
+        <ul>
+          <li>2013: 대학입학</li>
+          <li>2014: 유럽배낭여행</li>
+          <li>2015: 군입대</li>
+          <li>2016: 군복무</li>
+          <li>2017: 군제대</li>
+          <li>2018: ??</li>
+          <li>2019: 졸업작품/인턴근무</li>
+          <li>2020: 대학졸업/코로나</li>
+        </ul>
+      </details>
+      <details>
+        <summary>2021-2024: SW학습</summary>
+        <ul>
+          <li>2021: 코딩강사</li>
+          <li>2022: 42서울/python 모임</li>
+          <li>2023: 42서울/부스트캠프</li>
+          <li>2024: 부스트캠프/자격증준비</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>2026 Goals: Data Analysis && AI(Computer Vision) Developer</summary>
+        <ul>
+          <li>TOEIC(950+)</li>
+          <li>TOEIC Speaking(AL)</li>
+          <li>TOEIC Writing(AL)</li>
+          <li>PCCP(C++: Lv4)</li>
+          <li>SQLP</li>
+          <li>ADP</li>
+          <li>MOS(Word)</li>
+          <li>MOS(Excel)</li>
+          <li>MOS(PowerPoint)</li>
+        </ul>
+      </details> 
+      </div>
+  </article>
+
+  
 </main>
 
 <footer>
