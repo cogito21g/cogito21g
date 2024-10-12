@@ -21,8 +21,8 @@ Cogito21
           <li><del>TOEIC Speaking(HL)</del></li>
           <li>TOEIC Writing(HL)</li>
           <li>PCCP(Python: Lv3)</li>
-          <li>정보처리기사(<del>필기</del>/실기)</li>
-          <li>빅데이터분석기사(<del>필기</del>/실기)</li>
+          <li>정보처리기사(필기/실기)</li>
+          <li>빅데이터분석기사(필기/실기)</li>
           <li>리눅스마스터 2급(2차)</li>
           <li>ADsP</li>
         </ul>
