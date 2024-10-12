@@ -17,6 +17,7 @@ Cogito21
     <div>
       <details>
         <summary>2024 Goals: Full-Stack Developer</summary>
+        <p>Level 01: Beginner && Basic Course</p>
         <ul>
           <li>TOEIC Speaking(AL)</li>
           <li>TOEIC Writing(AL)</li>
@@ -29,6 +30,7 @@ Cogito21
       </details>
       <details>
         <summary>2025 Goals: Full-Stack Developer</summary>
+        <p></p>
         <ul>
           <li>TOEIC(950+)</li>
           <li>TOEIC Speaking(AL)</li>
