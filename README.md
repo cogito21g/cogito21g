@@ -16,14 +16,14 @@ Cogito21
       <p>Welcome to cogito21!!</p>
       <p>I graduated Electronic and Information Engineering in 2020 </p>
       <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis</code>, <code>Network Protocol</code>, <code>AI(Computer Vision)</code>, <code>System Architecture</code> </p>
-      <h4>Side Project</h4>
-      <p>Building an education system & Building a knowledge archive through a website</p>
       <h4>Values</h4>
       <p>1) recognize the problem</p>
       <p>2) analyze the problem(what is the essence)</p>
       <p>3) make a plan</p>
       <p>4) learn the necessary knowledge</p>
       <p>5) solve the problem</p>
+      <h4>Side Project</h4>
+      <p>Building an education system & Building a knowledge archive through a website</p>
     </div>
   </article>
   
