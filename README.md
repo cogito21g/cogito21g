@@ -23,7 +23,7 @@ Cogito21
       <p>4) learn the necessary knowledge</p>
       <p>5) solve the problem</p>
       <h4>Side Project</h4>
-      <p>Building an education system & Building a knowledge archive through a website</p>
+      <p>Building an education system && Building a knowledge archive through a Leveling Website</p>
     </div>
   </article>
   
