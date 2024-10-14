@@ -16,7 +16,7 @@ Cogito21
       <p>Welcome to cogito21!!</p>
       <p>I graduated Electronic and Information Engineering in 2020 </p>
       <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis</code>, <code>Network Protocol</code>, <code>AI(Computer Vision)</code>, <code>System Architecture</code> </p>
-      <p>Values</p>
+      <h4>Values</h4>
       <p>1) recognize the problem</p>
       <p>2) analyze the problem</p>
       <p>3) make a plan</p>
