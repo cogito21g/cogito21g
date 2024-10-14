@@ -16,6 +16,8 @@ Cogito21
       <p>Welcome to cogito21!!</p>
       <p>I graduated Electronic and Information Engineering in 2020 </p>
       <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis</code>, <code>Network Protocol</code>, <code>AI(Computer Vision)</code>, <code>System Architecture</code> </p>
+      <h4>Side Project</h4>
+      <p>Building an education system & Building a knowledge archive through a website</p>
       <h4>Values</h4>
       <p>1) recognize the problem</p>
       <p>2) analyze the problem(what is the essence)</p>
@@ -34,11 +36,11 @@ Cogito21
           <h4>Main</h4>
           <li>[ ] [Developer] PCCP(Python: Lv2)</li>
           <li>[ ] [Develper] 정보처리기사(필기/실기)</li>
+          <li>[ ] [Developer] 빅데이터분석기사(필기/실기)</li>
           <li>[X] [English] TOEIC Speaking(IH)</li>
           <li>[ ] [English] TOEIC Writing(IH)</li>
           <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
           <h4>Sub</h4>
-          <li>[ ] [Developer] 빅데이터분석기사(필기/실기)</li>
           <li>[ ] [Developer] 리눅스마스터 2급(2차)</li>
           <li>[ ] [Developer] ADsP</li>
         </ul>
@@ -49,22 +51,28 @@ Cogito21
           <h4>Main</h4>
           <li>[ ] [Developer] PCCP(Python: Lv3)</li>
           <li>[ ] [Developer] 정보보안기사(필기/실기)</li>
-          <li>[ ] [English] TOEIC(950+)</li>
+          <li>[ ] [English] TOEIC(900+)</li>
           <li>[ ] [Office] ITQ(Word) A등급</li>
-          <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
           <li>[ ] [Office] ITQ(Excel) A등급</li>
           <h4>Sub</h4>
           <li>[ ] [Developer] 네트워크관리사 2급</li>
+          <li>[ ] [Developer] 리눅스마스터 2급(2차)</li>
+          <li>[ ] [Developer] ADsP</li>
+          <li>[ ] [English] TOEIC Speaking(AL)</li>
+          <li>[ ] [English] TOEIC Writing(AL)</li>
+          <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
         </ul>
       </details> 
       <details>
         <summary>2026 Goals: Data Analysis && AI(Computer Vision) Developer</summary>
+        <p>Side Project: Building an education system through a website</p>
         <ul>
           <h4>Main</h4>
           <li>[ ] [Developer] PCCP(C++: Lv4)</li>
           <li>[ ] [Developer] SQLP</li>
-          <li>[ ] [English] TOEIC Speaking(AL)</li>
-          <li>[ ] [English] TOEIC Writing(AL)</li>
+          <li>[ ] [English] TOEIC(950+)</li>
+          <li>[ ] [English] TOEIC Speaking(AM)</li>
+          <li>[ ] [English] TOEIC Writing(AM)</li>
         </ul>
       </details> 
       <details>
