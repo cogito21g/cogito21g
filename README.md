@@ -291,8 +291,8 @@ Cogito21
         <summary>Developer: Level 03</summary>
         <ul>
           <li>[ ] PCCP(C++: Lv3)</li>
-          <li>[ ] 정보처리기사(<del>필기</del>/실기)</li>
-          <li>[ ] 빅데이터분석기사(<del>필기</del>/실기)</li>
+          <li>[ ] 정보처리기사</li>
+          <li>[ ] 빅데이터분석기사</li>
         </ul>
       </details> 
       <details>
