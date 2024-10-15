@@ -65,7 +65,7 @@ Cogito21
           <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
         </ul>
       </details> 
-      <details>
+<!--       <details>
         <summary>2026 Goals: Data Analysis && AI(Computer Vision) Developer</summary>
         <p>Side Project: Building an education system through a website</p>
         <ul>
@@ -79,33 +79,33 @@ Cogito21
           <li>[ ] [Office] ITQ(Word) A등급</li>
           <li>[ ] [Office] ITQ(Excel) A등급</li>
         </ul>
-      </details> 
-      <details>
+      </details>  -->
+<!--       <details>
         <summary>20XX Goals: SW Engineer & SW Architecture</summary>
         <ul>
           <h4>Main</h4>
-<!--           <li>[ ] [Engineer] 전기기사(필기)</li>
+          <li>[ ] [Engineer] 전기기사(필기)</li>
           <li>[ ] [Engineer] 전기기사(실기)</li>
           <li>[ ] [Engineer] 산업안전기사(필기)</li>
-          <li>[ ] [Engineer] 산업안전기사(실기)</li> -->
+          <li>[ ] [Engineer] 산업안전기사(실기)</li>
           <li>[ ] [Developer] SQLP(SQL 전문가)</li>
           <li>[ ] [Developer] ADP(데이터분석 전문가)</li>
           <li>[ ] [Developer] 정보관리기술사(1차)</li>
           <li>[ ] [Developer] 정보관리기술사(2차)</li>
           <li>[ ] [English] IELTS(7.0+)</li>
-<!--           <li>[ ] [Developer] 2026: 컴퓨터시스템기사(필기)</li>
+          <li>[ ] [Developer] 2026: 컴퓨터시스템기사(필기)</li>
           <li>[ ] [Developer] 2026: 컴퓨터시스템기사(실기)</li>
           <li>[ ] [Developer] 컴퓨터시스템응용기술사(1차)</li>
           <li>[ ] [Developer] 컴퓨터시스템응용기술사(2차)</li>
           <li>[ ] [Engineer] 정보통신기술사(1차)</li>
-          <li>[ ] [Engineer] 정보통신기술사(2차)</li> -->
+          <li>[ ] [Engineer] 정보통신기술사(2차)</li>
           <h4>Sub</h4>
           <li>[ ] [Developer] PCCP(C++: Lv5)</li>
           <li>[ ] [Office] MOS(Word)</li>
           <li>[ ] [Office] MOS(Excel)</li>
           <li>[ ] [Office] MOS(PowerPoint)</li>
         </ul>
-      </details> 
+      </details>  -->
       </div>
   </article>
   
