@@ -34,7 +34,7 @@ Cogito21
         <summary>2024 Goals: Full-Stack Developer</summary>
         <ul>
           <h4>Main</h4>
-          <li>[ ] [Developer] PCCP(Python: Lv2)</li>
+          <li>[ ] [Developer] PCCP(Python: Lv3)</li>
           <li>[X] [Develper] 정보처리기사(필기)</li>
           <li>[ ] [Develper] 정보처리기사(실기)</li>
           <li>[X] [Developer] 빅데이터분석기사(필기)</li>
@@ -55,7 +55,7 @@ Cogito21
           <li>[ ] [Developer] 정보보안기사(실기)</li>
           <li>[ ] [English] TOEIC(900+)</li>
           <h4>Sub</h4>
-          <li>[ ] [Developer] PCCP(Python: Lv3)</li>
+          <li>[ ] [Developer] PCCP(Python: Lv4)</li>
           <li>[ ] [Developer] 네트워크관리사 2급</li>
           <li>[ ] [English] TOEIC Writing(AL)</li>
           <li>[ ] [English] TOEIC Speaking(AL)</li>
