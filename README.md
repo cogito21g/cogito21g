@@ -31,7 +31,7 @@ Cogito21
     <h2>Goals</h2>
     <div>
       <details>
-        <summary>2024 Goals: Full-Stack Developer</summary>
+        <summary>2024 Goals: Full-Stack Developer && Data Sceintist</summary>
         <ul>
           <h4>Main</h4>
           <li>[ ] [Developer] PCCP(Python: Lv3)</li>
@@ -48,7 +48,7 @@ Cogito21
         </ul>
       </details>
       <details>
-        <summary>2025 Goals: Full-Stack Developer</summary>
+        <summary>2025 Goals: Full-Stack Developer && Data Sceintist</summary>
         <ul>
           <h4>Main</h4>
           <li>[ ] [Developer] 정보보안기사(필기)</li>
