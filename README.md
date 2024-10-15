@@ -138,7 +138,7 @@ Cogito21
         <li>프로젝트: 무인매장 이상행동 탐지</li>
         <li>Skills: Python, Matplotlib, Pandas, PyTorch, FastAPI</li>
       </ul>
-      <h4>42Seoul</h4>
+      <h4>42 Seoul</h4>
       <ul>
         <li>기간: 2022.03 - 2023.11</li>
         <li>기관: 이노베이션 아카데미</li>
