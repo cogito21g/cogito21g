@@ -56,13 +56,11 @@ Cogito21
           <li>[ ] [English] TOEIC(900+)</li>
           <h4>Sub</h4>
           <li>[ ] [Developer] PCCP(Python: Lv3)</li>
-          <li>[ ] [Developer] 리눅스마스터 2급(2차)</li>
           <li>[ ] [Developer] 네트워크관리사 2급</li>
-          <li>[ ] [Developer] ADsP(데이터분석 준전문가)</li>
           <li>[ ] [English] TOEIC Writing(AL)</li>
           <li>[ ] [English] TOEIC Speaking(AL)</li>
           <li>[ ] [Office] ITQ(Word) A등급</li>
-          <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
+          <li>[ ] [Office] ITQ(Excel) A등급</li>
         </ul>
       </details> 
 <!--       <details>
