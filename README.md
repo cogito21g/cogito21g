@@ -16,14 +16,14 @@ Cogito21
       <p>Welcome to cogito21!!</p>
       <p>I graduated Electronic and Information Engineering in 2020 </p>
       <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis</code>, <code>Network Protocol</code>, <code>AI(Computer Vision)</code>, <code>System Architecture</code> </p>
-      <h4>Values</h4>
+<!--       <h4>Values</h4>
       <p>1) recognize the problem</p>
       <p>2) analyze the problem(what is the essence)</p>
       <p>3) make a plan</p>
       <p>4) learn the necessary knowledge</p>
       <p>5) solve the problem</p>
       <h4>Side Project</h4>
-      <p>Building an education system && Building a knowledge archive through a Leveling Website</p>
+      <p>Building an education system && Building a knowledge archive through a Leveling Website</p> -->
     </div>
   </article>
   
@@ -89,7 +89,7 @@ Cogito21
           <li>[ ] [Engineer] 산업안전기사(필기)</li>
           <li>[ ] [Engineer] 산업안전기사(실기)</li> -->
           <li>[ ] [Developer] SQLP(SQL 전문가)</li>
-          <li>[ ] [Developer] ADP(데이버분석 전문가)</li>
+          <li>[ ] [Developer] ADP(데이터분석 전문가)</li>
           <li>[ ] [Developer] 정보관리기술사(1차)</li>
           <li>[ ] [Developer] 정보관리기술사(2차)</li>
           <li>[ ] [English] IELTS(7.0+)</li>
@@ -434,7 +434,7 @@ Cogito21
   <article id="projects">
     <h2>Projects</h2>
     <div>
-      <h4>(예정)데이터분석</h4>
+<!--       <h4>(예정)데이터분석</h4>
       <ul>
         <li>목표: 고객 데이터분석을 통한 마케팅 전략/금융 데이터분석을 통한 금융 포트폴리오 제작</li>
         <li>개발기간: 0000.00 - 0000.00 (OO일)</li>
@@ -477,7 +477,7 @@ Cogito21
           <li>서버: </li>
           <li>DB: </li>
         </ul>
-      </ul>
+      </ul> -->
       <h4>무인매장 이상행동 탐지</h4>
       <ul>
         <li>개발기간: 2024.02 - 2024.04 (60일)</li>
