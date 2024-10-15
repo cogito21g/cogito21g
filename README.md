@@ -1,5 +1,5 @@
 <header>
-Cogito21
+<h1>cogito21</h1>
 </header>
 
 <nav>
