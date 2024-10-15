@@ -41,27 +41,27 @@ Cogito21
           <li>[ ] [Developer] 빅데이터분석기사(실기)</li>
           <li>[X] [English] TOEIC Speaking(IH)</li>
           <li>[ ] [English] TOEIC Writing(IH)</li>
-          <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
           <h4>Sub</h4>
           <li>[ ] [Developer] 리눅스마스터 2급(2차)</li>
           <li>[ ] [Developer] ADsP(데이터분석 준전문가)</li>
+          <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
         </ul>
       </details>
       <details>
         <summary>2025 Goals: Full-Stack Developer</summary>
         <ul>
           <h4>Main</h4>
-          <li>[ ] [Developer] PCCP(Python: Lv3)</li>
           <li>[ ] [Developer] 정보보안기사(필기)</li>
           <li>[ ] [Developer] 정보보안기사(실기)</li>
           <li>[ ] [English] TOEIC(900+)</li>
-          <li>[ ] [Office] ITQ(Word) A등급</li>
           <h4>Sub</h4>
-          <li>[ ] [Developer] 네트워크관리사 2급</li>
+          <li>[ ] [Developer] PCCP(Python: Lv3)</li>
           <li>[ ] [Developer] 리눅스마스터 2급(2차)</li>
+          <li>[ ] [Developer] 네트워크관리사 2급</li>
           <li>[ ] [Developer] ADsP(데이터분석 준전문가)</li>
-          <li>[ ] [English] TOEIC Speaking(AL)</li>
           <li>[ ] [English] TOEIC Writing(AL)</li>
+          <li>[ ] [English] TOEIC Speaking(AL)</li>
+          <li>[ ] [Office] ITQ(Word) A등급</li>
           <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
         </ul>
       </details> 
@@ -70,39 +70,40 @@ Cogito21
         <p>Side Project: Building an education system through a website</p>
         <ul>
           <h4>Main</h4>
-          <li>[ ] [Developer] PCCP(C++: Lv4)</li>
           <li>[ ] [Developer] SQLP</li>
           <li>[ ] [English] TOEIC(950+)</li>
+          <h4>Sub</h4>
+          <li>[ ] [Developer] PCCP(C++: Lv4)</li>
           <li>[ ] [English] TOEIC Speaking(AM)</li>
           <li>[ ] [English] TOEIC Writing(AM)</li>
-          <li>[ ] [Office] ITQ(Excel) A등급</li>
-          <h4>Sub</h4>
           <li>[ ] [Office] ITQ(Word) A등급</li>
+          <li>[ ] [Office] ITQ(Excel) A등급</li>
         </ul>
       </details> 
       <details>
         <summary>20XX Goals: SW Engineer & SW Architecture</summary>
         <ul>
           <h4>Main</h4>
-          <li>[ ] [Developer] PCCP(C++: Lv5)</li>
-          <li>[ ] [English] IELTS(7.0+)</li>
-          <li>[ ] [Office] MOS(Word)</li>
-          <li>[ ] [Office] MOS(Excel)</li>
-          <li>[ ] [Office] MOS(PowerPoint)</li>
-          <li>[ ] [Developer] SQLP(SQL 전문가)</li>
-          <li>[ ] [Developer] ADP(데이버분석 전문가)</li>
           <li>[ ] [Engineer] 전기기사(필기)</li>
           <li>[ ] [Engineer] 전기기사(실기)</li>
           <li>[ ] [Engineer] 산업안전기사(필기)</li>
           <li>[ ] [Engineer] 산업안전기사(실기)</li>
+          <li>[ ] [Developer] SQLP(SQL 전문가)</li>
+          <li>[ ] [Developer] ADP(데이버분석 전문가)</li>
           <li>[ ] [Developer] 정보관리기술사(1차)</li>
           <li>[ ] [Developer] 정보관리기술사(2차)</li>
+          <li>[ ] [English] IELTS(7.0+)</li>
           <li>[ ] [Developer] 2026: 컴퓨터시스템기사(필기)</li>
           <li>[ ] [Developer] 2026: 컴퓨터시스템기사(실기)</li>
           <li>[ ] [Developer] 컴퓨터시스템응용기술사(1차)</li>
           <li>[ ] [Developer] 컴퓨터시스템응용기술사(2차)</li>
           <li>[ ] [Engineer] 정보통신기술사(1차)</li>
           <li>[ ] [Engineer] 정보통신기술사(2차)</li>
+          <h4>Sub</h4>
+          <li>[ ] [Developer] PCCP(C++: Lv5)</li>
+          <li>[ ] [Office] MOS(Word)</li>
+          <li>[ ] [Office] MOS(Excel)</li>
+          <li>[ ] [Office] MOS(PowerPoint)</li>
         </ul>
       </details> 
       </div>
