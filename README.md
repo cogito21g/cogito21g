@@ -68,7 +68,8 @@
         <p>Side Project: Building an education system through a website</p>
         <ul>
           <h4>Main</h4>
-          <li>[ ] [Developer] SQLP</li>
+          <li>[ ] [Developer] 정보보안기사(필기)</li>
+          <li>[ ] [Developer] 정보보안기사(실기)</li>
           <li>[ ] [English] TOEIC(950+)</li>
           <h4>Sub</h4>
           <li>[ ] [Developer] PCCP(C++: Lv4)</li>
@@ -82,26 +83,27 @@
         <summary>20XX Goals: SW Engineer & SW Architecture</summary>
         <ul>
           <h4>Main</h4>
-          <li>[ ] [Engineer] 전기기사(필기)</li>
-          <li>[ ] [Engineer] 전기기사(실기)</li>
-          <li>[ ] [Engineer] 산업안전기사(필기)</li>
-          <li>[ ] [Engineer] 산업안전기사(실기)</li>
           <li>[ ] [Developer] SQLP(SQL 전문가)</li>
           <li>[ ] [Developer] ADP(데이터분석 전문가)</li>
           <li>[ ] [Developer] 정보관리기술사(1차)</li>
           <li>[ ] [Developer] 정보관리기술사(2차)</li>
           <li>[ ] [English] IELTS(7.0+)</li>
+          <h4>Sub</h4>
+          <li>[ ] [Developer] PCCP(C++: Lv5)</li>
+          <li>[ ] [Office] MOS(Word)</li>
+          <li>[ ] [Office] MOS(Excel)</li>
+          <li>[ ] [Office] MOS(PowerPoint)</li>
+          <h4>ETC</h4>
+          <li>[ ] [Engineer] 전기기사(필기)</li>
+          <li>[ ] [Engineer] 전기기사(실기)</li>
+          <li>[ ] [Engineer] 산업안전기사(필기)</li>
+          <li>[ ] [Engineer] 산업안전기사(실기)</li>
           <li>[ ] [Developer] 2026: 컴퓨터시스템기사(필기)</li>
           <li>[ ] [Developer] 2026: 컴퓨터시스템기사(실기)</li>
           <li>[ ] [Developer] 컴퓨터시스템응용기술사(1차)</li>
           <li>[ ] [Developer] 컴퓨터시스템응용기술사(2차)</li>
           <li>[ ] [Engineer] 정보통신기술사(1차)</li>
           <li>[ ] [Engineer] 정보통신기술사(2차)</li>
-          <h4>Sub</h4>
-          <li>[ ] [Developer] PCCP(C++: Lv5)</li>
-          <li>[ ] [Office] MOS(Word)</li>
-          <li>[ ] [Office] MOS(Excel)</li>
-          <li>[ ] [Office] MOS(PowerPoint)</li>
         </ul>
       </details>  -->
       </div>
@@ -210,23 +212,24 @@
       <h4>Programming</h4>
       <ul>
         <li><ins>SW 코딩자격 1급(2021.06.11)</ins></li>
+        <li>PCCP: ()</li>
         <li>리눅스마스터 2급: <ins>1차(2023.05.02)</ins> / 2차()</li>
+        <li>네트워크관리사 2급</li>
         <li><ins>SQLD(2022.09.30)</ins></li>
+        <li>ADsP()</li>
         <li>정보처리기사: <ins>필기(2024.08.07)</ins> / 실기()</li>
         <li>빅데이터분석기사: <ins>필기(2024.09.27)</ins> / 실기()</li>
+        <li>정보보안기사: 필기() / 실기()</li>
+        <li>SQLP</li>
+        <li>ADP</li>
       </ul>
     </div>
     <div>
       <h4>OA 자격증</h4>
       <ul>
-        <li>컴퓨터활용능력 2급()</li>
         <li>ITQ: PowerPoint O등급()</li>
-      </ul>
-    </div>
-    <div>
-      <h4>ETC</h4>
-      <ul>
-        <li>전기기사: 필기()/실기()</li>
+        <li>ITQ: Word O등급()</li>
+        <li>ITQ: Excel O등급()</li>
       </ul>
     </div>
   </article>
