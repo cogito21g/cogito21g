@@ -108,7 +108,6 @@
       </details>  -->
       </div>
   </article>
-  
 
 
   <article id="education">
@@ -120,11 +119,6 @@
         <li>전공: 전기정보공학과</li>
         <li>GPA: 3.63/4.5</li>
         <li>졸업작품: 양방향 뇌신경 신호처리 시스템</li>
-      </ul>
-      <h4>광주대동고등학교</h4>
-      <ul>
-        <li>재학기간: 2009.03 - 2012.02</li>
-        <li>계열: 자연계</li>
       </ul>
     </div>
   </article>
