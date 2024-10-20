@@ -408,6 +408,7 @@
           <li>[ ] 재경관리사</li>
           <li>[ ] 전산세무 1급</li>
           <li>[ ] TAT 1급</li>
+          <li>[ ] ERP정보관리사(회계) 1급</li>
         </ul>
       </details> 
       <details>
