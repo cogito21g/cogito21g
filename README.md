@@ -105,6 +105,9 @@
           <li>[ ] [Developer] 컴퓨터시스템응용기술사(2차)</li>
           <li>[ ] [Engineer] 정보통신기술사(1차)</li>
           <li>[ ] [Engineer] 정보통신기술사(2차)</li>
+          <li>[ ] [ETC] ERP물류관리사(생산) 1급</li>
+          <li>[ ] [ETC] ERP물류관리사(생산) 1급</li>
+          <li>[ ] [ETC] ERP물류관리사(회계) 1급</li>
         </ul>
       </details>  -->
       </div>
