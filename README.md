@@ -390,20 +390,24 @@
         <summary>Finance: Level 01</summary>
         <ul>
           <li>[ ] 전산회계 2급</li>
+          <li>[ ] FAT 2급</li>
           <li>[ ] 전산회계 1급</li>
+          <li>[ ] FAT 1급</li>
         </ul>
       </details> 
       <details>
         <summary>Finance: Level 02</summary>
         <ul>
           <li>[ ] 전산세무 2급</li>
+          <li>[ ] TAT 2급</li>
         </ul>
       </details> 
       <details>
         <summary>Finance: Level 03</summary>
         <ul>
-          <li>[ ] 전산세무 1급</li>
           <li>[ ] 재경관리사</li>
+          <li>[ ] 전산세무 1급</li>
+          <li>[ ] TAT 1급</li>
         </ul>
       </details> 
       <details>
