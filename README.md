@@ -316,7 +316,7 @@
           <li>IDE: VSCode, Jupyter Notebook</li>
           <li>배포: ...</li>
         </ul>
-        <li>[결과물] https://github.com/cogito21g/Circuit</li>        
+        <li>[결과물] ...</li>        
       </ul>
       <hr />
       <h4>무인매장 이상행동 탐지</h4>
