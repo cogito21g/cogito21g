@@ -301,7 +301,6 @@
         <li>개발분야: 데이터분석</li>
         <li>개발인원: 01인(개인)</li>
         <li>담당 역할: </li>
-        <li>개발환경</li>
         <ol type="1">
           <li>분석 기획(WBS 작성)</li>
           <li>일정 관리(표작성 및 점검)</li>
@@ -310,6 +309,7 @@
           <li>데이터 전처리(결측치, 이상치, 시각화)</li>
           <li>...</li>
         </ol>
+        <li>개발환경</li>
         <ul>
           <li>언어: Python </li>
           <li>라이브러리 및 프레임워크: Pandas, Matplotlib, Seaborn, Scikit-Learn</li>
