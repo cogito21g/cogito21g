@@ -316,7 +316,9 @@
           <li>IDE: VSCode, Jupyter Notebook</li>
           <li>배포: ...</li>
         </ul>
+        <li>[결과물] https://github.com/cogito21g/Circuit</li>        
       </ul>
+      <hr />
       <h4>무인매장 이상행동 탐지</h4>
       <ul>
         <li>개발기간: 2024.02 - 2024.04 (60일)</li>
@@ -339,6 +341,7 @@
         </ul>
         <li>[GitHub] https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-06</li>
       </ul>
+      <hr />
       <h4>양방향 뇌신경 신호처리 시스템</h4>
       <ul>
         <li>개발기간: 2018.11 - 2019.12 (1년 2개월)</li>
