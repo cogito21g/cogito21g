@@ -17,14 +17,6 @@
       <p>I graduated Electronic and Information Engineering in 2020 </p>
       <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis && AI</code>, <code>Network Protocol</code> </p>
 <!--       <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis</code>, <code>Network Protocol</code>, <code>AI(Computer Vision)</code>, <code>System Architecture</code> </p> -->
-<!--       <h4>Values</h4>
-      <p>1) recognize the problem</p>
-      <p>2) analyze the problem(what is the essence)</p>
-      <p>3) make a plan</p>
-      <p>4) learn the necessary knowledge</p>
-      <p>5) solve the problem</p>
-      <h4>Side Project</h4>
-      <p>Building an education system && Building a knowledge archive through a Leveling Website</p> -->
     </div>
   </article>
   
@@ -276,7 +268,7 @@
       <details>
         <summary>Developer: Level 01</summary>
         <ul>
-          <li>[ ] PCCP(Python: Lv2)</li>
+          <li>[ ] PCCP(Python: Lv3)</li>
           <li>[X] SQLD(SQL 개발자)</li>
           <li>[ ] ADsP(데이터분석 준전문가)</li>
         </ul>
@@ -284,7 +276,7 @@
       <details>
         <summary>Developer: Level 02</summary>
         <ul>
-          <li>[ ] PCCP(Python: Lv3)</li>
+          <li>[ ] PCCP(Python: Lv4)</li>
           <li>[ ] 리눅스마스터 2급</li>
           <li>[ ] 네트워크관리사 2급</li>
         </ul>
@@ -292,7 +284,7 @@
       <details>
         <summary>Developer: Level 03</summary>
         <ul>
-          <li>[ ] PCCP(C++: Lv3)</li>
+          <li>[ ] PCCP(C++: Lv4)</li>
           <li>[ ] 정보처리기사</li>
           <li>[ ] 빅데이터분석기사</li>
         </ul>
@@ -300,14 +292,14 @@
       <details>
         <summary>Developer: Level 04</summary>
         <ul>
-          <li>[ ] PCCP(C++: Lv4)</li>
+          <li>[ ] PCCP(C++: Lv5)</li>
           <li>[ ] 정보보안기사(필기/실기)</li>
         </ul>
       </details> 
       <details>
         <summary>Developer: Level 05</summary>
         <ul>
-          <li>[ ] PCCP(C++: Lv5)</li>
+          <li>[ ] PCCP(C++: 만점)</li>
           <li>[ ] SQLP(SQL 전문가)</li>
           <li>[ ] ADP(데이터분석 전문가)</li>
           <li>[ ] 정보관리기술사</li>
@@ -356,28 +348,25 @@
       <details>
         <summary>Office: Level 01</summary>
         <ul>
-          <li>[ ] ITQ(Word) B등급</li>
-          <li>[ ] ITQ(PowerPoint) B등급</li>
-          <li>[ ] ITQ(Excel) B등급</li>
+          <li>[ ] ITQ(PowerPoint) A등급</li>
+          <li>[ ] ITQ(한글) A등급</li>
+          <li>[ ] ITQ(Excel) A등급</li>
         </ul>
       </details> 
       <details>
         <summary>Office: Level 02</summary>
         <ul>
-          <li>[ ] ITQ(Word) A등급</li>
-          <li>[ ] ITQ(PowerPoint) A등급</li>
-          <li>[ ] ITQ(Excel) A등급</li>
+          <li>[ ] MOS(PowerPoint)</li>
+          <li>[ ] MOS(Word)</li>
+          <li>[ ] MOS(Excel)</li>
           <li>[ ] GTQ 2급</li>
         </ul>
       </details> 
       <details>
         <summary>Office: Level 03</summary>
         <ul>
-          <li>[ ] 컴퓨터활용능력 1급</li>
           <li>[ ] GTQ 1급</li>
-          <li>[ ] MOS(PowerPoint)</li>
-          <li>[ ] MOS(Excel)</li>
-          <li>[ ] MOS(Word)</li>
+          <li>[ ] 컴퓨터활용능력 1급</li>
         </ul>
       </details> 
       <details>
@@ -431,27 +420,46 @@
           <li>[ ] 회계사(CPA)</li>
         </ul>
       </details> 
+      <hr />
+      <details>
+        <summary>ETC: Level 01</summary>
+        <ul>
+          <li>[ ] </li>
+        </ul>
+      </details> 
+      <details>
+        <summary>ETC: Level 02</summary>
+        <ul>
+          <li>[ ] </li>
+        </ul>
+      </details> 
+      <details>
+        <summary>ETC: Level 03</summary>
+        <ul>
+          <li>[ ] 전기기사</li>
+          <li>[ ] 산업안전기사</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>Finance: Level 04</summary>
+        <ul>
+          <li>[ ] 공인중개사</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>Finance: Level 05</summary>
+        <ul>
+          <li>[ ] </li>
+          <li>[ ] </li>
+        </ul>
+      </details> 
       </div>
   </article>
 
   <article id="projects">
     <h2>Projects</h2>
     <div>
-<!--       <h4>(예정)데이터분석</h4>
-      <ul>
-        <li>목표: 고객 데이터분석을 통한 마케팅 전략/금융 데이터분석을 통한 금융 포트폴리오 제작</li>
-        <li>개발기간: 0000.00 - 0000.00 (OO일)</li>
-        <li>개발분야: 00</li>
-        <li>개발인원: 00인</li>
-        <li>담당 역할: ...</li>
-        <li>개발환경</li>
-        <ul>
-          <li>언어: ...</li>
-          <li>IDE: ...</li>
-          <li>배포: ...</li>
-        </ul>
-      </ul>
-      <h4>(예정)cogito21 Website 제작</h4>
+<!--       <h4>(예정)cogito21 Website 제작</h4>
       <ul>
         <li>개발기간: 0000.00 - 0000.00 (OO일)</li>
         <li>개발분야: Web Frontend</li>
@@ -464,8 +472,8 @@
           <li>배포: GitHub Pages</li>
         </ul>
         <li>[결과물] https://cogito21g.github.io/</li>
-      </ul>
-      <h4>(예정: Renew)무인매장 이상행동 탐지</h4>
+      </ul> -->
+<!--       <h4>(예정: Renew)무인매장 이상행동 탐지</h4>
       <ul>
         <li>목표: 개발프로세스(WBS)를 통한 명확한 구현/코드 리팩토링을 통한 가독성 향상, 모듈화</li>
         <li>개발기간: 2025.01 - (OO일)</li>
@@ -481,18 +489,41 @@
           <li>DB: </li>
         </ul>
       </ul> -->
+      <h4>(예정)데이터분석</h4>
+      <ul>
+        <li>목표: 금융 데이터를 통한 주식 경향 분석/소비자의 소비경향 분석/... 중 선택</li>
+        <li>개발기간: 2024.12 - 2025.01 (45일)</li>
+        <li>개발분야: 데이터분석</li>
+        <li>개발인원: 01인(개인)</li>
+        <li>담당 역할: </li>
+        <li>개발환경</li>
+        <ol type="1">
+          <li>분석 기획(WBS 작성)</li>
+          <li>일정 관리(표작성 및 점검)</li>
+          <li>데이터 수집</li>
+          <li>EDA(데이터 확인 및 분석)</li>
+          <li>데이터 전처리(결측치, 이상치, 시각화)</li>
+          <li>...</li>
+        </ol>
+        <ul>
+          <li>언어: Python </li>
+          <li>라이브러리 및 프레임워크: Pandas, Matplotlib, Seaborn, Scikit-Learn</li>
+          <li>IDE: VSCode, Jupyter Notebook</li>
+          <li>배포: ...</li>
+        </ul>
+      </ul>
       <h4>무인매장 이상행동 탐지</h4>
       <ul>
         <li>개발기간: 2024.02 - 2024.04 (60일)</li>
         <li>개발분야: Web, AI</li>
         <li>개발인원: 6인</li>
         <li>담당 역할: </li>
-          <ol type="1">
-            <li>웹 페이지별 초안 제작</li>
-            <li>백엔드 예제 작성 후 설명</li>
-            <li>백엔드 로직 구현(메인페이지/회원가입/로그인, 로그아웃/페이지이동)</li>
-            <li>QA 및 버그수정</li>
-          </ol>
+        <ol type="1">
+          <li>웹 페이지별 초안 제작</li>
+          <li>백엔드 예제 작성 후 설명</li>
+          <li>백엔드 로직 구현(메인페이지/회원가입/로그인, 로그아웃/페이지이동)</li>
+          <li>QA 및 버그수정</li>
+        </ol>
         <li>개발환경</li>
         <ul>
           <li>언어: HTML5, CSS3, Python3.11</li>
