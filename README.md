@@ -108,6 +108,7 @@
           <li>[ ] [ETC] ERP물류관리사(생산) 1급</li>
           <li>[ ] [ETC] ERP물류관리사(생산) 1급</li>
           <li>[ ] [ETC] ERP물류관리사(회계) 1급</li>
+          <li>[ ] [ETC] 공인중개사</li>
         </ul>
       </details>  -->
       </div>
