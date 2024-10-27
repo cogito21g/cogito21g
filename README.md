@@ -261,6 +261,103 @@
       </div>
   </article>
 
+  <article id="projects">
+    <h2>Projects</h2>
+    <div>
+<!--       <h4>(예정)cogito21 Website 제작</h4>
+      <ul>
+        <li>개발기간: 0000.00 - 0000.00 (OO일)</li>
+        <li>개발분야: Web Frontend</li>
+        <li>개발인원: 1인</li>
+        <li>담당 역할: ...</li>
+        <li>개발환경</li>
+        <ul>
+          <li>언어: HTML5, CSS3, Bootstrap, Modern JS(ES6+), Markdown</li>
+          <li>IDE: VSCode</li>
+          <li>배포: GitHub Pages</li>
+        </ul>
+        <li>[결과물] https://cogito21g.github.io/</li>
+      </ul> -->
+<!--       <h4>(예정: Renew)무인매장 이상행동 탐지</h4>
+      <ul>
+        <li>목표: 개발프로세스(WBS)를 통한 명확한 구현/코드 리팩토링을 통한 가독성 향상, 모듈화</li>
+        <li>개발기간: 2025.01 - (OO일)</li>
+        <li>개발분야: Web, AI</li>
+        <li>개발인원: 1인</li>
+        <li>담당 역할: ...</li>
+        <li>개발환경</li>
+        <ul>
+          <li>언어: HTML5, CSS3, Python3.11</li>
+          <li>프레임워크: PyTorch, FastAPI</li>
+          <li>IDE: VSCode</li>
+          <li>서버: </li>
+          <li>DB: </li>
+        </ul>
+      </ul> -->
+      <h4>(예정)데이터분석</h4>
+      <ul>
+        <li>목표: 금융 데이터를 통한 주식 경향 분석/소비자의 소비경향 분석/... 중 선택</li>
+        <li>개발기간: 2024.12 - 2025.01 (45일)</li>
+        <li>개발분야: 데이터분석</li>
+        <li>개발인원: 01인(개인)</li>
+        <li>담당 역할: </li>
+        <li>개발환경</li>
+        <ol type="1">
+          <li>분석 기획(WBS 작성)</li>
+          <li>일정 관리(표작성 및 점검)</li>
+          <li>데이터 수집</li>
+          <li>EDA(데이터 확인 및 분석)</li>
+          <li>데이터 전처리(결측치, 이상치, 시각화)</li>
+          <li>...</li>
+        </ol>
+        <ul>
+          <li>언어: Python </li>
+          <li>라이브러리 및 프레임워크: Pandas, Matplotlib, Seaborn, Scikit-Learn</li>
+          <li>IDE: VSCode, Jupyter Notebook</li>
+          <li>배포: ...</li>
+        </ul>
+      </ul>
+      <h4>무인매장 이상행동 탐지</h4>
+      <ul>
+        <li>개발기간: 2024.02 - 2024.04 (60일)</li>
+        <li>개발분야: Web, AI</li>
+        <li>개발인원: 6인</li>
+        <li>담당 역할: </li>
+        <ol type="1">
+          <li>웹 페이지별 초안 제작</li>
+          <li>백엔드 예제 작성 후 설명</li>
+          <li>백엔드 로직 구현(메인페이지/회원가입/로그인, 로그아웃/페이지이동)</li>
+          <li>QA 및 버그수정</li>
+        </ol>
+        <li>개발환경</li>
+        <ul>
+          <li>언어: HTML5, CSS3, Python3.11</li>
+          <li>프레임워크: PyTorch, FastAPI</li>
+          <li>IDE: VSCode</li>
+          <li>서버: </li>
+          <li>DB: </li>
+        </ul>
+        <li>[GitHub] https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-06</li>
+      </ul>
+      <h4>양방향 뇌신경 신호처리 시스템</h4>
+      <ul>
+        <li>개발기간: 2018.11 - 2019.12 (1년 2개월)</li>
+        <li>개발분야: 아날로그회로, 디지털회로</li>
+        <li>개발인원: 4인</li>
+        <li>담당 역할: 팀장</li>
+        <ol type="1">
+          <li>일정관리 및 보고서 작성)</li>
+          <li>교수님 면담(피드백)</li>
+          <li>측정부 회로설계 및 구현</li>
+          <li>PT 발표</li>
+        </ol>
+        <li>Skill: 오실로스코프, 필터 회로설계(MOSFET)</li>        
+        <li>[결과물] https://github.com/cogito21g/Circuit</li>        
+      </ul>
+    </div>
+  </article>
+
+
   <article id="level_sys">
     <h2>Level System</h2>
     <pre>Current: Developer(Level 00) / English(Level 00) / Office(Level 00) / Finance (Level 00) </pre>
@@ -454,102 +551,6 @@
         </ul>
       </details> 
       </div>
-  </article>
-
-  <article id="projects">
-    <h2>Projects</h2>
-    <div>
-<!--       <h4>(예정)cogito21 Website 제작</h4>
-      <ul>
-        <li>개발기간: 0000.00 - 0000.00 (OO일)</li>
-        <li>개발분야: Web Frontend</li>
-        <li>개발인원: 1인</li>
-        <li>담당 역할: ...</li>
-        <li>개발환경</li>
-        <ul>
-          <li>언어: HTML5, CSS3, Bootstrap, Modern JS(ES6+), Markdown</li>
-          <li>IDE: VSCode</li>
-          <li>배포: GitHub Pages</li>
-        </ul>
-        <li>[결과물] https://cogito21g.github.io/</li>
-      </ul> -->
-<!--       <h4>(예정: Renew)무인매장 이상행동 탐지</h4>
-      <ul>
-        <li>목표: 개발프로세스(WBS)를 통한 명확한 구현/코드 리팩토링을 통한 가독성 향상, 모듈화</li>
-        <li>개발기간: 2025.01 - (OO일)</li>
-        <li>개발분야: Web, AI</li>
-        <li>개발인원: 1인</li>
-        <li>담당 역할: ...</li>
-        <li>개발환경</li>
-        <ul>
-          <li>언어: HTML5, CSS3, Python3.11</li>
-          <li>프레임워크: PyTorch, FastAPI</li>
-          <li>IDE: VSCode</li>
-          <li>서버: </li>
-          <li>DB: </li>
-        </ul>
-      </ul> -->
-      <h4>(예정)데이터분석</h4>
-      <ul>
-        <li>목표: 금융 데이터를 통한 주식 경향 분석/소비자의 소비경향 분석/... 중 선택</li>
-        <li>개발기간: 2024.12 - 2025.01 (45일)</li>
-        <li>개발분야: 데이터분석</li>
-        <li>개발인원: 01인(개인)</li>
-        <li>담당 역할: </li>
-        <li>개발환경</li>
-        <ol type="1">
-          <li>분석 기획(WBS 작성)</li>
-          <li>일정 관리(표작성 및 점검)</li>
-          <li>데이터 수집</li>
-          <li>EDA(데이터 확인 및 분석)</li>
-          <li>데이터 전처리(결측치, 이상치, 시각화)</li>
-          <li>...</li>
-        </ol>
-        <ul>
-          <li>언어: Python </li>
-          <li>라이브러리 및 프레임워크: Pandas, Matplotlib, Seaborn, Scikit-Learn</li>
-          <li>IDE: VSCode, Jupyter Notebook</li>
-          <li>배포: ...</li>
-        </ul>
-      </ul>
-      <h4>무인매장 이상행동 탐지</h4>
-      <ul>
-        <li>개발기간: 2024.02 - 2024.04 (60일)</li>
-        <li>개발분야: Web, AI</li>
-        <li>개발인원: 6인</li>
-        <li>담당 역할: </li>
-        <ol type="1">
-          <li>웹 페이지별 초안 제작</li>
-          <li>백엔드 예제 작성 후 설명</li>
-          <li>백엔드 로직 구현(메인페이지/회원가입/로그인, 로그아웃/페이지이동)</li>
-          <li>QA 및 버그수정</li>
-        </ol>
-        <li>개발환경</li>
-        <ul>
-          <li>언어: HTML5, CSS3, Python3.11</li>
-          <li>프레임워크: PyTorch, FastAPI</li>
-          <li>IDE: VSCode</li>
-          <li>서버: </li>
-          <li>DB: </li>
-        </ul>
-        <li>[GitHub] https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-06</li>
-      </ul>
-      <h4>양방향 뇌신경 신호처리 시스템</h4>
-      <ul>
-        <li>개발기간: 2018.11 - 2019.12 (1년 2개월)</li>
-        <li>개발분야: 아날로그회로, 디지털회로</li>
-        <li>개발인원: 4인</li>
-        <li>담당 역할: 팀장</li>
-        <ol type="1">
-          <li>일정관리 및 보고서 작성)</li>
-          <li>교수님 면담(피드백)</li>
-          <li>측정부 회로설계 및 구현</li>
-          <li>PT 발표</li>
-        </ol>
-        <li>Skill: 오실로스코프, 필터 회로설계(MOSFET)</li>        
-        <li>[결과물] https://github.com/cogito21g/Circuit</li>        
-      </ul>
-    </div>
   </article>
 
   
