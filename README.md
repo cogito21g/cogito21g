@@ -46,6 +46,7 @@
           <li>[ ] [Developer] 리눅스마스터 2급(2차)</li>
           <li>[ ] [Developer] ADsP(데이터분석 준전문가)</li>
           <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
+          <li>[ ] [Office] ITQ(Excel) A등급</li>
         </ul>
       </details>
       <details>
@@ -60,8 +61,7 @@
           <li>[ ] [Developer] 네트워크관리사 2급</li>
           <li>[ ] [English] TOEIC Writing(AL)</li>
           <li>[ ] [English] TOEIC Speaking(AL)</li>
-          <li>[ ] [Office] ITQ(Word) A등급</li>
-          <li>[ ] [Office] ITQ(Excel) A등급</li>
+          <li>[ ] [Office] ITQ(한글) A등급</li>
         </ul>
       </details> 
 <!--       <details>
@@ -316,7 +316,7 @@
       <details>
         <summary>English: Level 01</summary>
         <ul>
-          <li>[ ] TOEIC (650+)</li>
+          <li>[ ] TOEIC (750+)</li>
           <li>[X] TOEIC Speaking(IH)</li>
           <li>[ ] TOEIC Writing(IH)</li>
         </ul>
@@ -324,7 +324,7 @@
       <details>
         <summary>English: Level 02</summary>
         <ul>
-          <li>[ ] TOEIC (750+)</li>
+          <li>[ ] TOEIC (850+)</li>
           <li>[ ] TOEIC Speaking(AL)</li>
           <li>[ ] TOEIC Writing(AL)</li>
         </ul>
@@ -332,7 +332,7 @@
       <details>
         <summary>English: Level 03</summary>
         <ul>
-          <li>[ ] TOEIC (850+)</li>
+          <li>[ ] TOEIC (900+)</li>
           <li>[ ] TOEIC Speaking(AM)</li>
           <li>[ ] TOEIC Writing(AM)</li>
         </ul>
@@ -340,7 +340,7 @@
       <details>
         <summary>English: Level 04</summary>
         <ul>
-          <li>[ ] TOEIC (900+)</li>
+          <li>[ ] TOEIC (950+)</li>
           <li>[ ] TOEIC Speaking(AH)</li>
           <li>[ ] TOEIC Writing(AH)</li>
         </ul>
@@ -363,9 +363,9 @@
       <details>
         <summary>Office: Level 02</summary>
         <ul>
-          <li>[ ] ITQ(Word) A등급 / MOS(Word)</li>
-          <li>[ ] ITQ(PowerPoint) A등급 / MOS(PowerPoint)</li>
-          <li>[ ] ITQ(Excel) A등급 / MOS(Excel)</li>
+          <li>[ ] ITQ(Word) A등급</li>
+          <li>[ ] ITQ(PowerPoint) A등급</li>
+          <li>[ ] ITQ(Excel) A등급</li>
           <li>[ ] GTQ 2급</li>
         </ul>
       </details> 
@@ -374,6 +374,9 @@
         <ul>
           <li>[ ] 컴퓨터활용능력 1급</li>
           <li>[ ] GTQ 1급</li>
+          <li>[ ] MOS(PowerPoint)</li>
+          <li>[ ] MOS(Excel)</li>
+          <li>[ ] MOS(Word)</li>
         </ul>
       </details> 
       <details>
@@ -394,29 +397,29 @@
         <ul>
           <li>[ ] 전산회계 2급</li>
           <li>[ ] FAT 2급</li>
-          <li>[ ] 전산회계 1급</li>
-          <li>[ ] FAT 1급</li>
         </ul>
       </details> 
       <details>
         <summary>Finance: Level 02</summary>
         <ul>
-          <li>[ ] 전산세무 2급</li>
-          <li>[ ] TAT 2급</li>
+          <li>[ ] 전산회계 1급</li>
+          <li>[ ] FAT 1급</li>
         </ul>
       </details> 
       <details>
         <summary>Finance: Level 03</summary>
         <ul>
-          <li>[ ] 재경관리사</li>
-          <li>[ ] 전산세무 1급</li>
-          <li>[ ] TAT 1급</li>
+          <li>[ ] 전산세무 2급</li>
+          <li>[ ] TAT 2급</li>
           <li>[ ] ERP정보관리사(회계) 1급</li>
         </ul>
       </details> 
       <details>
         <summary>Finance: Level 04</summary>
         <ul>
+          <li>[ ] 전산세무 1급</li>
+          <li>[ ] TAT 1급</li>
+          <li>[ ] 재경관리사</li>
           <li>[ ] 경영지도사</li>
         </ul>
       </details> 
