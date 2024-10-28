@@ -541,13 +541,13 @@
         </ul>
       </details> 
       <details>
-        <summary>Finance: Level 04</summary>
+        <summary>ETC: Level 04</summary>
         <ul>
           <li>[ ] 공인중개사</li>
         </ul>
       </details> 
       <details>
-        <summary>Finance: Level 05</summary>
+        <summary>ETC: Level 05</summary>
         <ul>
           <li>[ ] </li>
           <li>[ ] </li>
