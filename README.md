@@ -487,6 +487,7 @@
         <ul>
           <li>[ ] 전산회계 2급</li>
           <li>[ ] FAT 2급</li>
+          <li>[ ] ERP정보관리사(회계) 2급</li>
         </ul>
       </details> 
       <details>
@@ -501,7 +502,6 @@
         <ul>
           <li>[ ] 전산세무 2급</li>
           <li>[ ] TAT 2급</li>
-          <li>[ ] ERP정보관리사(회계) 1급</li>
         </ul>
       </details> 
       <details>
@@ -509,13 +509,19 @@
         <ul>
           <li>[ ] 전산세무 1급</li>
           <li>[ ] TAT 1급</li>
-          <li>[ ] 재경관리사</li>
-          <li>[ ] 경영지도사</li>
+          <li>[ ] ERP정보관리사(회계) 1급</li>
         </ul>
       </details> 
       <details>
         <summary>Finance: Level 05</summary>
         <ul>
+          <li>[ ] 재경관리사</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>Finance: Level 06</summary>
+        <ul>
+          <li>[ ] 경영지도사</li>
           <li>[ ] 세무사(CTA)</li>
           <li>[ ] 회계사(CPA)</li>
         </ul>
