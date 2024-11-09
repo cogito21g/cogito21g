@@ -205,7 +205,7 @@
       <h4>Programming</h4>
       <ul>
         <li><ins>SW 코딩자격 1급(2021.06.11)</ins></li>
-        <li>PCCP: ()</li>
+        <li><ins>PCCP(Python): Lv3(658점) (2024.11.09)</ins></li>
         <li>리눅스마스터 2급: <ins>1차(2023.05.02)</ins> / 2차()</li>
         <li>네트워크관리사 2급</li>
         <li><ins>SQLD(2022.09.30)</ins></li>
