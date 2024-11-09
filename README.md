@@ -450,23 +450,26 @@
       <details>
         <summary>Office: Level 01</summary>
         <ul>
-          <li>[ ] ITQ(PowerPoint) A등급</li>
-          <li>[ ] ITQ(한글) A등급</li>
-          <li>[ ] ITQ(Excel) A등급</li>
+          <li>[ ] ITQ(PowerPoint) B등급</li>
+          <li>[ ] ITQ(한글) B등급</li>
+          <li>[ ] ITQ(Excel) B등급</li>
         </ul>
       </details> 
       <details>
         <summary>Office: Level 02</summary>
         <ul>
-          <li>[ ] MOS(PowerPoint)</li>
-          <li>[ ] MOS(Word)</li>
-          <li>[ ] MOS(Excel)</li>
+          <li>[ ] ITQ(PowerPoint) A등급</li>
+          <li>[ ] ITQ(한글) A등급</li>
+          <li>[ ] ITQ(Excel) A등급</li>
           <li>[ ] GTQ 2급</li>
         </ul>
       </details> 
       <details>
         <summary>Office: Level 03</summary>
         <ul>
+          <li>[ ] MOS(PowerPoint)</li>
+          <li>[ ] MOS(Word)</li>
+          <li>[ ] MOS(Excel)</li>
           <li>[ ] GTQ 1급</li>
           <li>[ ] 컴퓨터활용능력 1급</li>
         </ul>
