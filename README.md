@@ -29,16 +29,16 @@
         <summary>2024 Goals: Full-Stack Developer && Data Sceintist</summary>
         <ul>
           <h4>Main</h4>
-          <li>[ ] [Developer] PCCP(Python: Lv3)</li>
+          <li>[X] [Developer] PCCP(Python: Lv3)</li>
           <li>[X] [Develper] 정보처리기사(필기)</li>
-          <li>[ ] [Develper] 정보처리기사(실기)</li>
+          <li>[X] [Develper] 정보처리기사(실기)</li>
           <li>[X] [Developer] 빅데이터분석기사(필기)</li>
           <li>[ ] [Developer] 빅데이터분석기사(실기)</li>
           <li>[X] [English] TOEIC Speaking(IH)</li>
           <li>[ ] [English] TOEIC Writing(IH)</li>
           <h4>Sub</h4>
           <li>[ ] [Developer] 리눅스마스터 2급(2차)</li>
-          <li>[ ] [Developer] ADsP(데이터분석 준전문가)</li>
+          <li>[X] [Developer] ADsP(데이터분석 준전문가)</li>
           <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
           <li>[ ] [Office] ITQ(Excel) A등급</li>
         </ul>
