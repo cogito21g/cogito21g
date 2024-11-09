@@ -370,7 +370,7 @@
       <details>
         <summary>Developer: Level 01</summary>
         <ul>
-          <li>[ ] PCCP(Python: Lv3)</li>
+          <li>[X] PCCP(Python: Lv3)</li>
           <li>[X] SQLD(SQL 개발자)</li>
           <li>[ ] ADsP(데이터분석 준전문가)</li>
         </ul>
