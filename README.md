@@ -548,6 +548,7 @@
         <summary>ETC: Level 03</summary>
         <ul>
           <li>[ ] 전기기사</li>
+          <li>[ ] 정보통신기사</li>
           <li>[ ] 산업안전기사</li>
         </ul>
       </details> 
