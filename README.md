@@ -47,6 +47,8 @@
         <summary>2025 Goals: Full-Stack Developer && Data Sceintist</summary>
         <ul>
           <h4>Main</h4>
+          <li>[ ] [Developer] 정보통신기사(필기)</li>
+          <li>[ ] [Developer] 정보통신기사(실기)</li>
           <li>[ ] [Developer] 정보보안기사(필기)</li>
           <li>[ ] [Developer] 정보보안기사(실기)</li>
           <li>[ ] [English] TOEIC(900+)</li>
@@ -58,8 +60,8 @@
           <li>[ ] [Office] ITQ(한글) A등급</li>
         </ul>
       </details> 
-<!--       <details>
-        <summary>2026 Goals: Data Analysis && AI(Computer Vision) Developer</summary>
+      <details>
+        <summary>2026 Goals: Full-Stack Developer && Data Sceintist</summary>
         <p>Side Project: Building an education system through a website</p>
         <ul>
           <h4>Main</h4>
@@ -70,10 +72,11 @@
           <li>[ ] [Developer] PCCP(C++: Lv4)</li>
           <li>[ ] [English] TOEIC Speaking(AM)</li>
           <li>[ ] [English] TOEIC Writing(AM)</li>
-          <li>[ ] [Office] ITQ(Word) A등급</li>
-          <li>[ ] [Office] ITQ(Excel) A등급</li>
+          <li>[ ] [Office] MOS(Word)</li>
+          <li>[ ] [Office] MOS(PowerPoint)</li>
+          <li>[ ] [Office] MOS(Excel)</li>
         </ul>
-      </details>  -->
+      </details> 
 <!--       <details>
         <summary>20XX Goals: SW Engineer & SW Architecture</summary>
         <ul>
