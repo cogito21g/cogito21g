@@ -58,6 +58,8 @@
           <li>[ ] [English] TOEIC Writing(AL)</li>
           <li>[ ] [English] TOEIC Speaking(AL)</li>
           <li>[ ] [Office] ITQ(한글) A등급</li>
+          <li>[ ] [Engineering] 전기기사(필기)</li>
+          <li>[ ] [Engineering] 전기기사(실기)</li>
         </ul>
       </details> 
       <details>
@@ -75,6 +77,10 @@
           <li>[ ] [Office] MOS(Word)</li>
           <li>[ ] [Office] MOS(PowerPoint)</li>
           <li>[ ] [Office] MOS(Excel)</li>
+          <li>[ ] [Finance] 전산회계 2급</li>
+          <li>[ ] [Finance] 전산회계 1급</li>
+          <li>[ ] [Engineering] 전기기사(필기)</li>
+          <li>[ ] [Engineering] 전기기사(실기)</li>
         </ul>
       </details> 
 <!--       <details>
