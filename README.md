@@ -216,6 +216,7 @@
       <ul>
         <li><ins>SW 코딩자격 1급(2021.06.11)</ins></li>
         <li><ins>PCCP_Python: Lv3_658점 (2024.11.09)</ins></li>
+        <li>PCCP_C++: </li>
         <li>리눅스마스터 2급: <ins>1차(2023.05.02)</ins> / 2차()</li>
         <li>네트워크관리사 2급()</li>
         <li><ins>SQLD(2022.09.30)</ins></li>
@@ -381,6 +382,7 @@
         <summary>Developer: Level 01</summary>
         <ul>
           <li>[X] PCCP(Python: Lv3)</li>
+          <li>[ ] PCCP(C++: Lv3)</li>
           <li>[X] SQLD(SQL 개발자)</li>
           <li>[ ] ADsP(데이터분석 준전문가)</li>
         </ul>
