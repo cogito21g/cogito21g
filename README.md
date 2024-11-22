@@ -512,6 +512,7 @@
         <ul>
           <li>[ ] 전산회계 1급</li>
           <li>[ ] FAT 1급</li>
+          <li>[ ] 신용분석사(CCA)</li>
         </ul>
       </details> 
       <details>
