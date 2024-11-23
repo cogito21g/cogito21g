@@ -55,6 +55,7 @@
           <li>[ ] [English] TOEIC(900+)</li>
           <h4>Sub</h4>
           <li>[ ] [Developer] PCCP(C++: Lv4)</li>
+          <li>[ ] [Developer] 리눅스마스터 1급</li>
           <li>[ ] [Developer] 네트워크관리사 2급</li>
           <li>[ ] [English] TOEIC Writing(AL)</li>
           <li>[ ] [English] TOEIC Speaking(AL)</li>
@@ -383,14 +384,16 @@
         <ul>
           <li>[X] PCCP(Python: Lv3)</li>
           <li>[ ] PCCP(C++: Lv3)</li>
+          <li>[ ] PCSQL(MYSQL: Lv1)</li>
           <li>[X] SQLD(SQL 개발자)</li>
-          <li>[ ] ADsP(데이터분석 준전문가)</li>
+          <li>[X] ADsP(데이터분석 준전문가)</li>
         </ul>
       </details>
       <details>
         <summary>Developer: Level 02</summary>
         <ul>
           <li>[ ] PCCP(Python: Lv4)</li>
+          <li>[ ] PCSQL(MYSQL: Lv2)</li>
           <li>[ ] 리눅스마스터 2급</li>
           <li>[ ] 네트워크관리사 2급</li>
         </ul>
@@ -399,14 +402,18 @@
         <summary>Developer: Level 03</summary>
         <ul>
           <li>[ ] PCCP(C++: Lv4)</li>
+          <li>[ ] PCSQL(MYSQL: Lv3)</li>
+          <li>[ ] 리눅스마스터 1급</li>
           <li>[ ] 정보처리기사</li>
           <li>[ ] 빅데이터분석기사</li>
+          <li>[ ] 정보통신기사</li>
         </ul>
       </details> 
       <details>
         <summary>Developer: Level 04</summary>
         <ul>
           <li>[ ] PCCP(C++: Lv5)</li>
+          <li>[ ] PCSQL(MYSQL: Lv4)</li>
           <li>[ ] 정보보안기사(필기/실기)</li>
         </ul>
       </details> 
@@ -414,6 +421,7 @@
         <summary>Developer: Level 05</summary>
         <ul>
           <li>[ ] PCCP(C++: 만점)</li>
+          <li>[ ] PCSQL(MYSQL: 만점)</li>
           <li>[ ] SQLP(SQL 전문가)</li>
           <li>[ ] ADP(데이터분석 전문가)</li>
           <li>[ ] 정보관리기술사</li>
@@ -561,7 +569,6 @@
         <summary>ETC: Level 03</summary>
         <ul>
           <li>[ ] 전기기사</li>
-          <li>[ ] 정보통신기사</li>
           <li>[ ] 산업안전기사</li>
         </ul>
       </details> 
