@@ -215,15 +215,16 @@
     <div>
       <h4>Programming</h4>
       <ul>
-        <li><ins>SW 코딩자격 1급(2021.06.11)</ins></li>
-        <li><ins>PCCP_Python: Lv3_658점 (2024.11.09)</ins></li>
+        <li>SW 코딩자격 1급<ins>(2021.06.11)</ins></li>
+        <li>PCCP_Python: <ins>Lv3_658점 (2024.11.09)</ins></li>
         <li>PCCP_C++: </li>
         <li>리눅스마스터 2급: <ins>1차(2023.05.02)</ins> / 2차()</li>
         <li>네트워크관리사 2급()</li>
-        <li><ins>SQLD(2022.09.30)</ins></li>
-        <li><ins>ADsP(2024.11.29)</ins></li>
-        <li>정보처리기사: <ins>필기(2024.08.07)</ins> / (예정) 실기(2024.12.11)</li>
-        <li>빅데이터분석기사: <ins>필기(2024.09.27)</ins> / 실기()</li>
+        <li>SQLD<ins>(2022.09.30)</ins></li>
+        <li>ADsP<ins>(2024.11.29)</ins></li>
+        <li>정보처리기사: 필기<ins>(2024.08.07)</ins> / (예정) 실기(2024.12.11)</li>
+        <li>빅데이터분석기사: 필기<ins>(2024.09.27)</ins> / 실기()</li>
+        <li>정보통신기사: 필기() / 실기()</li>
         <li>정보보안기사: 필기() / 실기()</li>
         <li>SQLP()</li>
         <li>ADP()</li>
@@ -235,6 +236,15 @@
         <li>ITQ: PowerPoint O등급()</li>
         <li>ITQ: Word O등급()</li>
         <li>ITQ: Excel O등급()</li>
+      </ul>
+    </div>
+    </div>
+    <div>
+      <h4>ETC</h4>
+      <ul>
+        <li>전기기사: 필기() / 실기()</li>
+        <li>전산회계 2급: 필기() / 실기()</li>
+        <li>전산회계 1급: 필기() / 실기()</li>
       </ul>
     </div>
   </article>
