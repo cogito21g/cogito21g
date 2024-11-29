@@ -113,7 +113,6 @@
           <li>[ ] Blog 후기 일일 조회수 300</li>
           <li>[ ] Youtube 금융 일일 조회수 100</li>
         </ul>
-        
       </details> 
 <!--       <details>
         <summary>20XX Goals: SW Engineer & SW Architecture</summary>
