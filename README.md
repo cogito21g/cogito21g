@@ -58,24 +58,35 @@
         </ul>
       </details> 
       <details>
-        <summary>2026 Goals: Full-Stack Developer && Data Sceintist</summary>
+        <summary>2026 Goals: Network && Security</summary>
+        <p>Side Project: Building an education system through a website</p>
+        <ul>
+          <h4>Main</h4>
+          <li>[ ] [Developer] 정보통신기사(필기)</li>
+          <li>[ ] [Developer] 정보통신기사(실기)</li>
+          <li>[ ] [English] TOEIC(900+)</li>
+          <h4>Sub</h4>
+          <li>[ ] [Developer] 네트워크관리사 2급</li>
+          <li>[ ] [English] TOEIC Writing(AL+)</li>
+          <li>[ ] [English] TOEIC Speaking(AL+)</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>2027 Goals: Security</summary>
         <p>Side Project: Building an education system through a website</p>
         <ul>
           <h4>Main</h4>
           <li>[ ] [Developer] 정보보안기사(필기)</li>
           <li>[ ] [Developer] 정보보안기사(실기)</li>
-          <li>[ ] [English] TOEIC(900+)</li>
-          <li>[ ] [Developer] 정보통신기사(필기)</li>
-          <li>[ ] [Developer] 정보통신기사(실기)</li>
+          <li>[ ] [English] TOEIC(950+)</li>
           <h4>Sub</h4>
-          <li>[ ] [Developer] 네트워크관리사 2급</li>
           <li>[ ] [Developer] 리눅스마스터 1급</li>
           <li>[ ] [English] TOEIC Writing(AL)</li>
           <li>[ ] [English] TOEIC Speaking(AL)</li>
         </ul>
       </details> 
       <details>
-        <summary>2027 Goals: Finance</summary>
+        <summary>2028 Goals: Finance</summary>
         <ul>
           <h4>Main</h4>
           <li>[ ] [Finance] 전산회계 2급</li>
@@ -83,8 +94,6 @@
           <li>[ ] [Finance] 전산세무 2급</li>
           <li>[ ] [Finance] 전산세무 1급</li>
           <li>[ ] [Finance] 세무사(CTA)</li>
-          <h4>Sub</h4>
-          
         </ul>
       </details> 
 <!--       <details>
@@ -102,8 +111,6 @@
           <li>[ ] [Office] MOS(Excel)</li>
           <li>[ ] [Office] MOS(PowerPoint)</li>
           <h4>ETC</h4>
-          <li>[ ] [Engineer] 전기기사(필기)</li>
-          <li>[ ] [Engineer] 전기기사(실기)</li>
           <li>[ ] [Engineer] 산업안전기사(필기)</li>
           <li>[ ] [Engineer] 산업안전기사(실기)</li>
           <li>[ ] [Developer] 2026: 컴퓨터시스템기사(필기)</li>
