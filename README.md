@@ -53,6 +53,8 @@
           <h4>Sub</h4>
           <li>[ ] [Developer] PCCP(C++: Lv4)</li>
           <li>[ ] [Developer] PCSQL(MYSQL: Lv4)</li>
+          <li>[ ] [Developer] SQLP</li>
+          <li>[ ] [Developer] ADP</li>
           <li>[ ] [Office] ITQ(한글) A등급</li>
           <h4>Project</h4>
           <li>[ ] 데이터분석(금융/기업)</li>
