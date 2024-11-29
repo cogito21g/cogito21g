@@ -16,7 +16,6 @@
       <p>Welcome to cogito21!!</p>
       <p>I graduated Electronic and Information Engineering in 2020 </p>
       <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis && AI</code>, <code>Network</code>, <code>Finance</code> </p>
-<!--       <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis</code>, <code>Network Protocol</code>, <code>AI(Computer Vision)</code>, <code>System Architecture</code> </p> -->
 <!--       <p>인적성검사(학습전) 결과: <a href="./test01.png">성격진단</a> | <a href="./test02.png">가치진단</a> | <a href="./test03.png">선호도</a> | <a href="./test04.png">적성검사</a> | <a href="./test05.png">적성검사(상세)</a></p>
       <p>인적성검사(학습후) 결과: </p> -->
     </div>
