@@ -17,8 +17,8 @@
       <p>I graduated Electronic and Information Engineering in 2020 </p>
       <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis && AI</code>, <code>Network Protocol</code> </p>
 <!--       <p>I’m currently interested in <code>Web Develope</code>, <code>Data Analysis</code>, <code>Network Protocol</code>, <code>AI(Computer Vision)</code>, <code>System Architecture</code> </p> -->
-      <p>인적성검사(학습전) 결과: <a href="./test01.png">성격진단</a> | <a href="./test02.png">가치진단</a> | <a href="./test03.png">선호도</a> | <a href="./test04.png">적성검사</a> | <a href="./test05.png">적성검사(상세)</a></p>
-      <p>인적성검사(학습후) 결과: </p>
+<!--       <p>인적성검사(학습전) 결과: <a href="./test01.png">성격진단</a> | <a href="./test02.png">가치진단</a> | <a href="./test03.png">선호도</a> | <a href="./test04.png">적성검사</a> | <a href="./test05.png">적성검사(상세)</a></p>
+      <p>인적성검사(학습후) 결과: </p> -->
     </div>
   </article>
   
@@ -55,34 +55,39 @@
           <li>[ ] [Developer] PCCP(C++: Lv4)</li>
           <li>[ ] [Developer] PCSQL(MYSQL: Lv4)</li>
           <li>[ ] [Office] ITQ(한글) A등급</li>
+          <h4>Project</h4>
+          <li>데이터분석(금융/기업)</li>
+          <li>웹 개발(서비스/교육)</li>
+          <li>Blog 일일 조회수 500 </li>
         </ul>
       </details> 
       <details>
-        <summary>2026 Goals: Network && Security</summary>
-        <p>Side Project: Building an education system through a website</p>
-        <ul>
-          <h4>Main</h4>
-          <li>[ ] [Developer] 정보통신기사(필기)</li>
-          <li>[ ] [Developer] 정보통신기사(실기)</li>
-          <li>[ ] [English] TOEIC(900+)</li>
-          <h4>Sub</h4>
-          <li>[ ] [Developer] 네트워크관리사 2급</li>
-          <li>[ ] [English] TOEIC Writing(AL+)</li>
-          <li>[ ] [English] TOEIC Speaking(AL+)</li>
-        </ul>
-      </details> 
-      <details>
-        <summary>2027 Goals: Security</summary>
+        <summary>2026 Goals: Security</summary>
         <p>Side Project: Building an education system through a website</p>
         <ul>
           <h4>Main</h4>
           <li>[ ] [Developer] 정보보안기사(필기)</li>
           <li>[ ] [Developer] 정보보안기사(실기)</li>
-          <li>[ ] [English] TOEIC(950+)</li>
+          <li>[ ] [English] TOEIC(900+)</li>
           <h4>Sub</h4>
           <li>[ ] [Developer] 리눅스마스터 1급</li>
-          <li>[ ] [English] TOEIC Writing(AL)</li>
-          <li>[ ] [English] TOEIC Speaking(AL)</li>
+          <li>[ ] [English] TOEIC Writing(AL+)</li>
+          <li>[ ] [English] TOEIC Speaking(AL+)</li>
+          <h4>Project</h4>
+          <li>웹 정보 보안</li>
+          <li>Youtube 일일 조회수 500</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>2027 Goals: Network</summary>
+        <p>Side Project: Building an education system through a website</p>
+        <ul>
+          <h4>Main</h4>
+          <li>[ ] [Developer] 정보통신기사(필기)</li>
+          <li>[ ] [Developer] 정보통신기사(실기)</li>
+          <li>[ ] [English] TOEIC(950+)</li>
+          <h4>Sub</h4>
+          <li>[ ] [Developer] 네트워크관리사 2급</li>
         </ul>
       </details> 
       <details>
@@ -94,7 +99,11 @@
           <li>[ ] [Finance] 전산세무 2급</li>
           <li>[ ] [Finance] 전산세무 1급</li>
           <li>[ ] [Finance] 세무사(CTA)</li>
+          <h4>Project</h4>
+          <li> 기업재무재표분석 </li>
+          <li> 금융상품분석 </li>
         </ul>
+        
       </details> 
 <!--       <details>
         <summary>20XX Goals: SW Engineer & SW Architecture</summary>
