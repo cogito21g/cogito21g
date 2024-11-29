@@ -40,28 +40,21 @@
           <h4>Sub</h4>
           <li>[ ] [Developer] 리눅스마스터 2급(2차)</li>
           <li>[X] [Developer] ADsP(데이터분석 준전문가)</li>
-          <li>[ ] [Office] ITQ(PowerPoint) A등급</li>
-          <li>[ ] [Office] ITQ(Excel) A등급</li>
+          <li>[ ] [Office] ITQ(PowerPoint 2021) A등급</li>
+          <li>[ ] [Office] ITQ(Excel 2021) A등급</li>
         </ul>
       </details>
       <details>
         <summary>2025 Goals: Full-Stack Developer && Data Sceintist</summary>
         <ul>
           <h4>Main</h4>
-          <li>[ ] [Developer] 정보통신기사(필기)</li>
-          <li>[ ] [Developer] 정보통신기사(실기)</li>
-          <li>[ ] [Developer] 정보보안기사(필기)</li>
-          <li>[ ] [Developer] 정보보안기사(실기)</li>
-          <li>[ ] [English] TOEIC(900+)</li>
-          <h4>Sub</h4>
-          <li>[ ] [Developer] PCCP(C++: Lv4)</li>
-          <li>[ ] [Developer] 리눅스마스터 1급</li>
-          <li>[ ] [Developer] 네트워크관리사 2급</li>
-          <li>[ ] [English] TOEIC Writing(AL)</li>
-          <li>[ ] [English] TOEIC Speaking(AL)</li>
-          <li>[ ] [Office] ITQ(한글) A등급</li>
           <li>[ ] [Engineering] 전기기사(필기)</li>
           <li>[ ] [Engineering] 전기기사(실기)</li>
+          <li>[ ] [English] TOEIC(850+)</li>
+          <h4>Sub</h4>
+          <li>[ ] [Developer] PCCP(C++: Lv4)</li>
+          <li>[ ] [Developer] PCSQL(MYSQL: Lv4)</li>
+          <li>[ ] [Office] ITQ(한글) A등급</li>
         </ul>
       </details> 
       <details>
@@ -71,18 +64,27 @@
           <h4>Main</h4>
           <li>[ ] [Developer] 정보보안기사(필기)</li>
           <li>[ ] [Developer] 정보보안기사(실기)</li>
-          <li>[ ] [English] TOEIC(950+)</li>
+          <li>[ ] [English] TOEIC(900+)</li>
+          <li>[ ] [Developer] 정보통신기사(필기)</li>
+          <li>[ ] [Developer] 정보통신기사(실기)</li>
           <h4>Sub</h4>
-          <li>[ ] [Developer] PCCP(C++: Lv4)</li>
-          <li>[ ] [English] TOEIC Speaking(AM)</li>
-          <li>[ ] [English] TOEIC Writing(AM)</li>
-          <li>[ ] [Office] MOS(Word)</li>
-          <li>[ ] [Office] MOS(PowerPoint)</li>
-          <li>[ ] [Office] MOS(Excel)</li>
+          <li>[ ] [Developer] 네트워크관리사 2급</li>
+          <li>[ ] [Developer] 리눅스마스터 1급</li>
+          <li>[ ] [English] TOEIC Writing(AL)</li>
+          <li>[ ] [English] TOEIC Speaking(AL)</li>
+        </ul>
+      </details> 
+      <details>
+        <summary>2027 Goals: Finance</summary>
+        <ul>
+          <h4>Main</h4>
           <li>[ ] [Finance] 전산회계 2급</li>
           <li>[ ] [Finance] 전산회계 1급</li>
-          <li>[ ] [Engineering] 전기기사(필기)</li>
-          <li>[ ] [Engineering] 전기기사(실기)</li>
+          <li>[ ] [Finance] 전산세무 2급</li>
+          <li>[ ] [Finance] 전산세무 1급</li>
+          <li>[ ] [Finance] 세무사(CTA)</li>
+          <h4>Sub</h4>
+          
         </ul>
       </details> 
 <!--       <details>
@@ -480,17 +482,17 @@
       <details>
         <summary>Office: Level 01</summary>
         <ul>
-          <li>[ ] ITQ(PowerPoint) B등급</li>
+          <li>[ ] ITQ(PowerPoint 2021) B등급</li>
           <li>[ ] ITQ(한글) B등급</li>
-          <li>[ ] ITQ(Excel) B등급</li>
+          <li>[ ] ITQ(Excel 2021) B등급</li>
         </ul>
       </details> 
       <details>
         <summary>Office: Level 02</summary>
         <ul>
-          <li>[ ] ITQ(PowerPoint) A등급</li>
+          <li>[ ] ITQ(PowerPoint 2021) A등급</li>
           <li>[ ] ITQ(한글) A등급</li>
-          <li>[ ] ITQ(Excel) A등급</li>
+          <li>[ ] ITQ(Excel 2021) A등급</li>
           <li>[ ] GTQ 2급</li>
         </ul>
       </details> 
