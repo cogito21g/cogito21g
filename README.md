@@ -56,9 +56,10 @@
           <li>[ ] [Developer] PCSQL(MYSQL: Lv4)</li>
           <li>[ ] [Office] ITQ(한글) A등급</li>
           <h4>Project</h4>
-          <li>데이터분석(금융/기업)</li>
-          <li>웹 개발(서비스/교육)</li>
-          <li>Blog 일일 조회수 500 </li>
+          <li>[ ] 데이터분석(금융/기업)</li>
+          <li>[ ] 웹 개발(서비스/교육)</li>
+          <li>[ ] Blog 일일 조회수 500 </li>
+          <li>[ ] Youtube 심신안정을 위한 클래식 음악 12곡 제작 </li>
         </ul>
       </details> 
       <details>
@@ -74,8 +75,8 @@
           <li>[ ] [English] TOEIC Writing(AL+)</li>
           <li>[ ] [English] TOEIC Speaking(AL+)</li>
           <h4>Project</h4>
-          <li>웹 정보 보안</li>
-          <li>Youtube 일일 조회수 500</li>
+          <li>[ ] Blog 정보보안 자료정리</li>
+          <li>[ ] Youtube 일일 조회수 500</li>
         </ul>
       </details> 
       <details>
@@ -88,6 +89,8 @@
           <li>[ ] [English] TOEIC(950+)</li>
           <h4>Sub</h4>
           <li>[ ] [Developer] 네트워크관리사 2급</li>
+          <h4>Project</h4>
+          <li>[ ] Blog 네트워크 구축자료 정리</li>
         </ul>
       </details> 
       <details>
@@ -100,8 +103,8 @@
           <li>[ ] [Finance] 전산세무 1급</li>
           <li>[ ] [Finance] 세무사(CTA)</li>
           <h4>Project</h4>
-          <li> 기업재무재표분석 </li>
-          <li> 금융상품분석 </li>
+          <li>[ ] 기업재무재표분석 </li>
+          <li>[ ] 금융상품분석 </li>
         </ul>
         
       </details> 
