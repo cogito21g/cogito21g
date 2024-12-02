@@ -88,6 +88,8 @@
           <h4>Main</h4>
           <li>[ ] [Engineering] 전기기사(필기)</li>
           <li>[ ] [Engineering] 전기기사(실기)</li>
+          <li>[ ] [ETC] ERP 정보관리사(물류) 1급</li>
+          <li>[ ] [ETC] ERP 정보관리사(생산) 1급</li>
           <li>[ ] [English] TOEIC(950+)</li>
           <h4>Sub</h4>
           <li>[ ] [Developer] 네트워크관리사 2급</li>
