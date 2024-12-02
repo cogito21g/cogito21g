@@ -47,8 +47,8 @@
         <summary>2025 Goals: Full-Stack Developer && Data Sceintist</summary>
         <ul>
           <h4>Main</h4>
-          <li>[ ] [Engineering] 전기기사(필기)</li>
-          <li>[ ] [Engineering] 전기기사(실기)</li>
+          <li>[ ] [Developer] 정보통신기사(필기)</li>
+          <li>[ ] [Developer] 정보통신기사(실기)</li>
           <li>[ ] [English] TOEIC(850+)</li>
           <h4>Sub</h4>
           <li>[ ] [Developer] PCCP(C++: Lv4)</li>
@@ -86,8 +86,8 @@
         <p>Side Project: Building an education system through a website</p>
         <ul>
           <h4>Main</h4>
-          <li>[ ] [Developer] 정보통신기사(필기)</li>
-          <li>[ ] [Developer] 정보통신기사(실기)</li>
+          <li>[ ] [Engineering] 전기기사(필기)</li>
+          <li>[ ] [Engineering] 전기기사(실기)</li>
           <li>[ ] [English] TOEIC(950+)</li>
           <h4>Sub</h4>
           <li>[ ] [Developer] 네트워크관리사 2급</li>
