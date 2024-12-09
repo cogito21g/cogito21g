@@ -33,14 +33,14 @@
           <li>[X] [Develper] 정보처리기사(필기)</li>
           <li>[X] [Develper] 정보처리기사(실기)</li>
           <li>[X] [Developer] 빅데이터분석기사(필기)</li>
-          <li>[ ] [Developer] 빅데이터분석기사(실기)</li>
+          <li>[X] [Developer] 빅데이터분석기사(실기)</li>
           <li>[X] [English] TOEIC Speaking(IH)</li>
           <li>[ ] [English] TOEIC Writing(IH)</li>
           <h4>Sub</h4>
-          <li>[ ] [Developer] 리눅스마스터 2급(2차)</li>
+          <li>[X] [Developer] 리눅스마스터 2급(2차)</li>
           <li>[X] [Developer] ADsP(데이터분석 준전문가)</li>
-          <li>[ ] [Office] ITQ(PowerPoint 2021) A등급</li>
-          <li>[ ] [Office] ITQ(Excel 2021) A등급</li>
+          <li>[X] [Office] ITQ(PowerPoint 2021) A등급</li>
+          <li>[X] [Office] ITQ(Excel 2021) A등급</li>
         </ul>
       </details>
       <details>
@@ -51,15 +51,17 @@
           <li>[ ] [Developer] 정보통신기사(실기)</li>
           <li>[ ] [English] TOEIC(850+)</li>
           <h4>Sub</h4>
+          <li>[ ] [Developer] 네트워크관리사 2급</li>
           <li>[ ] [Developer] PCCP(C++: Lv4)</li>
           <li>[ ] [Developer] PCSQL(MYSQL: Lv4)</li>
           <li>[ ] [Developer] SQLP</li>
           <li>[ ] [Developer] ADP</li>
           <li>[ ] [Office] ITQ(한글) A등급</li>
           <h4>Project</h4>
+          <li>[ ] Blog 네트워크 구축자료 정리</li>
+          <li>[ ] Blog 개발자 일일 조회수 250 </li>
           <li>[ ] 데이터분석(금융/기업)</li>
           <li>[ ] 웹 개발(서비스/교육)</li>
-          <li>[ ] Blog 개발자 일일 조회수 250 </li>
           <li>[ ] Youtube 음악채널 일일 조회수 100 </li>
         </ul>
       </details> 
@@ -91,10 +93,7 @@
           <li>[ ] [ETC] ERP 정보관리사(물류) 1급</li>
           <li>[ ] [ETC] ERP 정보관리사(생산) 1급</li>
           <li>[ ] [English] TOEIC(950+)</li>
-          <h4>Sub</h4>
-          <li>[ ] [Developer] 네트워크관리사 2급</li>
           <h4>Project</h4>
-          <li>[ ] Blog 네트워크 구축자료 정리</li>
           <li>[ ] Blog 개발자 일일 조회수 600</li>
           <li>[ ] Blog 후기 일일 조회수 100</li>
           <li>[ ] Youtube 음악 일일 조회수 500</li>
