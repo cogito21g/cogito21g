@@ -251,7 +251,7 @@
         <li>SQLD<ins>(2022.09.30)</ins></li>
         <li>ADsP<ins>(2024.11.29)</ins></li>
         <li>정보처리기사: 필기<ins>(2024.08.07)</ins> / (예정) 실기(2024.12.11)</li>
-        <li>빅데이터분석기사: 필기<ins>(2024.09.27)</ins> / 실기()</li>
+        <li>빅데이터분석기사: 필기<ins>(2024.09.27)</ins> / (예정) 실기(2024.12.20)</li>
         <li>정보통신기사: 필기() / 실기()</li>
         <li>정보보안기사: 필기() / 실기()</li>
         <li>SQLP()</li>
@@ -261,9 +261,9 @@
     <div>
       <h4>OA 자격증</h4>
       <ul>
-        <li>ITQ: PowerPoint O등급()</li>
+        <li>(예정) ITQ: PowerPoint B등급(2024.12.12)</li>
+        <li>(예정) ITQ: Excel A등급(2024.12.12)</li>
         <li>ITQ: Word O등급()</li>
-        <li>ITQ: Excel O등급()</li>
       </ul>
     </div>
     </div>
