@@ -452,7 +452,7 @@
         <ul>
           <li>[ ] PCCP(C++: Lv5)</li>
           <li>[ ] PCSQL(MYSQL: Lv4)</li>
-          <li>[ ] 정보보안기사(필기/실기)</li>
+          <li>[ ] 정보보안기사</li>
         </ul>
       </details> 
       <details>
