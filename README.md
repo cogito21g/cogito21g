@@ -235,44 +235,48 @@
     <div>
       <h4>Language</h4>
         <ul>
-          <li>TOEIC: </li>
-          <li><ins>TOEIC Spearking: IH(2024.07.28)</ins></li>
-          <li>TOEIC Writing: ()</li>
+          <li>[ ] TOEIC: </li>
+          <li>[X] TOEIC Spearking: <ins>IH(2024.07.28)</ins></li>
+          <li>[ ] TOEIC Writing: ()</li>
         </ul>
     </div>
     <div>
       <h4>Programming</h4>
       <ul>
-        <li>SW 코딩자격 1급<ins>(2021.06.11)</ins></li>
-        <li>PCCP_Python: <ins>Lv3_658점 (2024.11.09)</ins></li>
-        <li>PCCP_C++: </li>
-        <li>리눅스마스터 2급: <ins>1차(2023.05.02)</ins> / 2차()</li>
-        <li>네트워크관리사 2급()</li>
-        <li>SQLD<ins>(2022.09.30)</ins></li>
-        <li>ADsP<ins>(2024.11.29)</ins></li>
-        <li>정보처리기사: 필기<ins>(2024.08.07)</ins> / 실기<ins>(2024.12.11)</ins></li>
-        <li>빅데이터분석기사: 필기<ins>(2024.09.27)</ins> / (예정) 실기(2024.12.20)</li>
-        <li>정보통신기사: 필기() / 실기()</li>
-        <li>정보보안기사: 필기() / 실기()</li>
-        <li>SQLP()</li>
-        <li>ADP()</li>
+        <li>[X] SW 코딩자격 1급<ins>(2021.06.11)</ins></li>
+        <li>[X] PCCP_Python: <ins>Lv3_658점 (2024.11.09)</ins></li>
+        <li>[ ] PCCP_C++: </li>
+        <li>[ ] 리눅스마스터 2급: <ins>1차(2023.05.02)</ins> / 2차()</li>
+        <li>[] 네트워크관리사 2급()</li>
+        <li>[X] SQLD<ins>(2022.09.30)</ins></li>
+        <li>[X] ADsP<ins>(2024.11.29)</ins></li>
+        <li>[X] 정보처리기사: 필기<ins>(2024.08.07)</ins> / 실기<ins>(2024.12.11)</ins></li>
+        <li>[ ] 빅데이터분석기사: 필기<ins>(2024.09.27)</ins> / (예정) 실기(2024.12.20)</li>
+        <li>[ ] 정보통신기사: 필기() / 실기()</li>
+        <li>[ ] 정보보안기사: 필기() / 실기()</li>
+        <li>[ ] SQLP()</li>
+        <li>[ ] ADP()</li>
       </ul>
     </div>
     <div>
       <h4>OA 자격증</h4>
       <ul>
-        <li>(예정) ITQ: PowerPoint B등급(2024.12.12)</li>
-        <li>(예정) ITQ: Excel A등급(2024.12.12)</li>
-        <li>ITQ: Word O등급()</li>
+        <li>[ ] ITQ: PowerPoint B등급(2024.12.12)</li>
+        <li>[ ] ITQ: Excel A등급(2024.12.12)</li>
+        <li>[ ] ITQ: Word O등급()</li>
       </ul>
     </div>
     </div>
     <div>
       <h4>ETC</h4>
       <ul>
-        <li>전기기사: 필기() / 실기()</li>
-        <li>전산회계 2급: 필기() / 실기()</li>
-        <li>전산회계 1급: 필기() / 실기()</li>
+        <li>[ ] 전기기사: 필기() / 실기()</li>
+        <li>[ ] 전산회계 2급: 필기() / 실기()</li>
+        <li>[ ] 전산회계 1급: 필기() / 실기()</li>
+        <li>[ ] 전산세무 2급: 필기() / 실기()</li>
+        <li>[ ] 전산세무 1급: 필기() / 실기()</li>
+        <li>[ ] 세무사: 1차() / 2차()</li>
+        <li>[ ] 공인중개사: 1차() / 2차()</li>
       </ul>
     </div>
   </article>
@@ -296,16 +300,16 @@
       <details>
         <summary>2021-2024: SW학습</summary>
         <ul>
-          <li>2021: 코딩강사</li>
-          <li>2022: 42서울/모임운영</li>
-          <li>2023: 42서울/모임운영/부스트캠프</li>
-          <li>2024: 부스트캠프/자격증준비</li>
+          <li>2021: 코딩강사/초중등수학과학강사</li>
+          <li>2022: 42서울/스터디운영</li>
+          <li>2023: 42서울/스터디운영/부스트캠프</li>
+          <li>2024: 부스트캠프/자격증준비/취업준비</li>
         </ul>
       </details> 
       <details>
         <summary>2025- : </summary>
         <ul>
-          <li></li>
+          <li>2025: 웹서비스개발/데이터분석/자격증준비</li>
           <li></li>
           <li></li>
         </ul>
