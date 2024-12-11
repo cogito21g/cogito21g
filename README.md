@@ -53,8 +53,6 @@
           <h4>Sub</h4>
           <li>[ ] [Developer] 네트워크관리사 2급</li>
           <li>[ ] [Developer] PCCP(C++: Lv4)</li>
-          <li>[ ] [Developer] PCSQL(MYSQL: Lv4)</li>
-          <li>[ ] [Developer] SQLP</li>
           <li>[ ] [Developer] ADP</li>
           <li>[ ] [Office] ITQ(한글) A등급</li>
           <h4>Project</h4>
@@ -74,6 +72,8 @@
           <li>[ ] [Developer] 정보보안기사(실기)</li>
           <li>[ ] [English] TOEIC(900+)</li>
           <h4>Sub</h4>
+          <li>[ ] [Developer] SQLP</li>
+          <li>[ ] [Developer] PCSQL(MYSQL: Lv4)</li>
           <li>[ ] [Developer] 리눅스마스터 1급</li>
           <li>[ ] [English] TOEIC Writing(AL+)</li>
           <li>[ ] [English] TOEIC Speaking(AL+)</li>
