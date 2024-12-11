@@ -25,7 +25,7 @@
     <h2>Goals</h2>
     <div>
       <details>
-        <summary>2024 Goals: Full-Stack Developer && Data Sceintist</summary>
+        <summary>2024 Goals: Full-Stack Developer && Data Scientist</summary>
         <ul>
           <h4>Main</h4>
           <li>[X] [Developer] PCCP(Python: Lv3)</li>
@@ -44,7 +44,7 @@
         </ul>
       </details>
       <details>
-        <summary>2025 Goals: Full-Stack Developer && Data Sceintist</summary>
+        <summary>2025 Goals: Full-Stack Developer && Data Scientist</summary>
         <ul>
           <h4>Main</h4>
           <li>[ ] [Developer] 정보통신기사(필기)</li>
