@@ -65,7 +65,7 @@
           <li>[ ] Youtube 음악채널 일일 조회수 100 </li>
         </ul>
       </details> 
-      <details>
+<!--       <details>
         <summary>2026 Goals: Security</summary>
         <p>Side Project: Building an education system through a website</p>
         <ul>
@@ -82,8 +82,8 @@
           <li>[ ] Blog 개발자 일일 조회수 400</li>
           <li>[ ] Youtube 음악 일일 조회수 300</li>
         </ul>
-      </details> 
-      <details>
+      </details>  -->
+<!--       <details>
         <summary>2027 Goals: Network</summary>
         <p>Side Project: Building an education system through a website</p>
         <ul>
@@ -98,8 +98,8 @@
           <li>[ ] Blog 후기 일일 조회수 100</li>
           <li>[ ] Youtube 음악 일일 조회수 500</li>
         </ul>
-      </details> 
-      <details>
+      </details>  -->
+<!--       <details>
         <summary>2028 Goals: Finance</summary>
         <ul>
           <h4>Main</h4>
@@ -114,7 +114,7 @@
           <li>[ ] Blog 후기 일일 조회수 300</li>
           <li>[ ] Youtube 금융 일일 조회수 100</li>
         </ul>
-      </details> 
+      </details>  -->
 <!--       <details>
         <summary>20XX Goals: SW Engineer & SW Architecture</summary>
         <ul>
