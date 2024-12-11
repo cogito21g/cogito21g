@@ -30,8 +30,8 @@
           <h4>Main</h4>
           <li>[X] [Developer] PCCP(Python: Lv3)</li>
           <li>[ ] [Developer] PCCP(C++: Lv3)</li>
-          <li>[X] [Develper] 정보처리기사(필기)</li>
-          <li>[X] [Develper] 정보처리기사(실기)</li>
+          <li>[X] [Developer] 정보처리기사(필기)</li>
+          <li>[X] [Developer] 정보처리기사(실기)</li>
           <li>[X] [Developer] 빅데이터분석기사(필기)</li>
           <li>[X] [Developer] 빅데이터분석기사(실기)</li>
           <li>[X] [English] TOEIC Speaking(IH)</li>
