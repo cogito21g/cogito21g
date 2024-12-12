@@ -262,8 +262,8 @@
     <div>
       <h4>OA 자격증</h4>
       <ul>
-        <li>[ ] ITQ: PowerPoint B등급(2024.12.12)</li>
-        <li>[ ] ITQ: Excel A등급(2024.12.12)</li>
+        <li>[X] ITQ: PowerPoint B등급(2024.12.12)</li>
+        <li>[X] ITQ: Excel B등급(2024.12.12)</li>
         <li>[ ] ITQ: Word O등급()</li>
       </ul>
     </div>
