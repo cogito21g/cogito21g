@@ -40,7 +40,7 @@
           <li>[X] [Developer] 리눅스마스터 2급(2차)</li>
           <li>[X] [Developer] ADsP(데이터분석 준전문가)</li>
           <li>[X] [Office] ITQ(PowerPoint 2021) A등급 -> B등급</li>
-          <li>[X] [Office] ITQ(Excel 2021) A등급</li>
+          <li>[X] [Office] ITQ(Excel 2021) A등급-> B등급</li>
         </ul>
       </details>
       <details>
@@ -513,9 +513,9 @@
       <details>
         <summary>Office: Level 01</summary>
         <ul>
-          <li>[ ] ITQ(PowerPoint 2021) B등급</li>
+          <li>[X] ITQ(Excel 2021) B등급</li>
+          <li>[X] ITQ(PowerPoint 2021) B등급</li>
           <li>[ ] ITQ(한글) B등급</li>
-          <li>[ ] ITQ(Excel 2021) B등급</li>
         </ul>
       </details> 
       <details>
