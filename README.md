@@ -249,7 +249,7 @@
         <li>[X] SW 코딩자격 1급<ins>(2021.06.11)</ins></li>
         <li>[X] PCCP_Python: <ins>Lv3_658점 (2024.11.09)</ins></li>
         <li>[ ] PCCP_C++: </li>
-        <li>[ ] 리눅스마스터 2급: <ins>1차(2023.05.02)</ins> / 2차()</li>
+        <li>[X] 리눅스마스터 2급: <ins>1차(2023.05.02)</ins> / (예정)2차(2024.01.03)</li>
         <li>[ ] 네트워크관리사 2급()</li>
         <li>[X] SQLD<ins>(2022.09.30)</ins></li>
         <li>[X] ADsP<ins>(2024.11.29)</ins></li>
@@ -439,7 +439,7 @@
         <ul>
           <li>[ ] PCCP(Python: Lv4)</li>
           <li>[ ] PCSQL(MYSQL: Lv2)</li>
-          <li>[ ] 리눅스마스터 2급</li>
+          <li>[X] 리눅스마스터 2급</li>
           <li>[ ] 네트워크관리사 2급</li>
         </ul>
       </details> 
