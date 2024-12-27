@@ -196,9 +196,9 @@
     </div>
     <div>
       <h4>Java</h4>
-      <img alt="java" src="https://img.shields.io/badge/java-%23006600?style=flat-square&logo=java&logoColor=white&color=%23006600">
-      <img alt="springboot" src="https://img.shields.io/badge/spring-%20%236DB33F?style=flat-square&logo=spring&logoColor=white">
-      <img alt="spring" src="https://img.shields.io/badge/spring-%20%236DB33F?style=flat-square&logo=spring&logoColor=white">
+      <img alt="java" src="https://img.shields.io/badge/Java-%23006600?style=flat-square&logo=java&color=%23006600">
+      <img alt="springboot" src="https://img.shields.io/badge/Spring%20Boot-%20%236DB33F?style=flat-square&logo=springboot&logoColor=white">
+      <img alt="spring" src="https://img.shields.io/badge/Spring-%20%236DB33F?style=flat-square&logo=spring&logoColor=white">
     </div>
     <div>
       <h4>Python</h4>
