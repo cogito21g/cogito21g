@@ -52,7 +52,7 @@
           <li>[ ] [English] TOEIC(800+)</li>
           <h4>Sub</h4>
           <li>[ ] [Developer] 네트워크관리사 2급</li>
-          <li>[ ] [Developer] PCCP(C++: Lv4)</li>
+          <li>[ ] [Developer] PCCP(C++: Lv3)</li>
           <li>[ ] [Office] ITQ(한글) A등급</li>
           <li>[ ] [Office] ITQ(PowerPoint 2021) A등급</li>
           <h4>Project</h4>
@@ -428,17 +428,21 @@
       <details>
         <summary>Developer: Level 01</summary>
         <ul>
-          <li>[X] PCCP(Python: Lv3)</li>
-          <li>[ ] PCCP(C++: Lv3)</li>
+          <li>[ ] PCCP(C++: Lv2)</li>
+          <li>[ ] PCCP(Java: Lv2)</li>
+          <li>[X] PCCP(Python: Lv2)</li>
           <li>[ ] PCSQL(MYSQL: Lv1)</li>
           <li>[X] SQLD(SQL 개발자)</li>
           <li>[X] ADsP(데이터분석 준전문가)</li>
+          <li>[ ] 웹 디자인 기능사</li>
         </ul>
       </details>
       <details>
         <summary>Developer: Level 02</summary>
         <ul>
-          <li>[ ] PCCP(Python: Lv4)</li>
+          <li>[ ] PCCP(C++: Lv3)</li>
+          <li>[ ] PCCP(Java: Lv3)</li>
+          <li>[X] PCCP(Python: Lv3)</li>
           <li>[ ] PCSQL(MYSQL: Lv2)</li>
           <li>[X] 리눅스마스터 2급</li>
           <li>[ ] 네트워크관리사 2급</li>
@@ -448,6 +452,8 @@
         <summary>Developer: Level 03</summary>
         <ul>
           <li>[ ] PCCP(C++: Lv4)</li>
+          <li>[ ] PCCP(Java: Lv4)</li>
+          <li>[ ] PCCP(Python: Lv4)</li>
           <li>[ ] PCSQL(MYSQL: Lv3)</li>
           <li>[ ] 리눅스마스터 1급</li>
           <li>[X] 정보처리기사</li>
@@ -467,6 +473,8 @@
         <summary>Developer: Level 05</summary>
         <ul>
           <li>[ ] PCCP(C++: 만점)</li>
+          <li>[ ] PCCP(Java: 만점)</li>
+          <li>[ ] PCCP(Python: 만점)</li>
           <li>[ ] PCSQL(MYSQL: 만점)</li>
           <li>[ ] SQLP(SQL 전문가)</li>
           <li>[ ] ADP(데이터분석 전문가)</li>
@@ -621,13 +629,13 @@
       <details>
         <summary>ETC: Level 04</summary>
         <ul>
-          <li>[ ] 공인중개사</li>
+          <li>[ ] </li>
         </ul>
       </details> 
       <details>
         <summary>ETC: Level 05</summary>
         <ul>
-          <li>[ ] </li>
+          <li>[ ] 변리사</li>
           <li>[ ] </li>
         </ul>
       </details> 
