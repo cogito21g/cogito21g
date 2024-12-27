@@ -195,6 +195,10 @@
       <img alt="linux" src="https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white">
     </div>
     <div>
+      <h4>Java</h4>
+      <img alt="java" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Java&logoColor=white" />       
+    </div>
+    <div>
       <h4>Python</h4>
       <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
       <img alt="django" src="https://img.shields.io/badge/Django%20-%20%23092E20?style=flat-square&logo=Django&logoColor=white" />
