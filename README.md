@@ -242,12 +242,13 @@
   <article id="certificate">
     <h2>Certificate</h2>
     <div>
-        <ul>
-          <li>PCCP_Python(Lv3)</li>
-          <li>SQLD / 리눅스마스터 2급/ 정보처리기사</li>
-          <li>ADsP / 빅데이터분석기사</li>
-          <li>TOEIC Speaking(IH)</li>
-        </ul>
+      <h4>Summary</h4>
+      <ul>
+        <li>PCCP_Python(Lv3)</li>
+        <li>SQLD / 리눅스마스터 2급/ 정보처리기사</li>
+        <li>ADsP / 빅데이터분석기사</li>
+        <li>TOEIC Speaking(IH)</li>
+      </ul>
     </div>
     <div>
       <details>
