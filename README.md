@@ -242,9 +242,11 @@
   <article id="certificate">
     <h2>Certificate</h2>
     <div>
-      <pre>
-        SQLD / ADsP / 리눅스마스터 2급 / 정보처리기사 / 빅데이터분석기사 / TOEIC Speaking(IH)
-      </pre>
+        <ul>
+          <li>SQLD / 리눅스마스터 2급/ 정보처리기사</li>
+          <li>ADsP / 빅데이터분석기사</li>
+          <li>TOEIC Speaking(IH)</li>
+        </ul>
     </div>
     <div>
       <details>
