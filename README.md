@@ -242,17 +242,19 @@
   <article id="certificate">
     <h2>Certificate</h2>
     <div>
-      <summary>
-        <p>SQLD / ADsP / 리눅스마스터 2급 / 정보처리기사 / 빅데이터분석기사 / TOEIC Speaking(IH) </p>
-      </summary>
+      <code>
+        SQLD / ADsP / 리눅스마스터 2급 / 정보처리기사 / 빅데이터분석기사 / TOEIC Speaking(IH)
+      </code>
     </div>
     <div>
-      <h4>Language</h4>
-        <ul>
-          <li>[ ] TOEIC: </li>
-          <li>[X] TOEIC Spearking: <ins>IH(2024.07.28)</ins></li>
-          <li>[ ] TOEIC Writing: ()</li>
-        </ul>
+      <details>
+        <summary>Language</summary>
+          <ul>
+            <li>[ ] TOEIC: </li>
+            <li>[X] TOEIC Spearking: <ins>IH(2024.07.28)</ins></li>
+            <li>[ ] TOEIC Writing: ()</li>
+          </ul>
+        </details>
     </div>
     <div>
       <details>
@@ -276,25 +278,28 @@
       <details>
     </div>
     <div>
-      <h4>OA 자격증</h4>
-      <ul>
-        <li>[X] ITQ: PowerPoint B등급(2024.12.12) -> A등급() </li>
-        <li>[X] ITQ: Excel B등급(2024.12.12) -> A등급() </li>
-        <li>[ ] ITQ: Word O등급()</li>
-      </ul>
-    </div>
+      <details>
+        <summary>OA 자격증</summary>
+        <ul>
+          <li>[X] ITQ: PowerPoint B등급(2024.12.12) -> A등급() </li>
+          <li>[X] ITQ: Excel B등급(2024.12.12) -> A등급() </li>
+          <li>[ ] ITQ: Word O등급()</li>
+        </ul>
+      </details>
     </div>
     <div>
-      <h4>ETC</h4>
-      <ul>
-        <li>[ ] 전기기사: 필기() / 실기()</li>
-        <li>[ ] 전산회계 2급: 필기() / 실기()</li>
-        <li>[ ] 전산회계 1급: 필기() / 실기()</li>
-        <li>[ ] 전산세무 2급: 필기() / 실기()</li>
-        <li>[ ] 전산세무 1급: 필기() / 실기()</li>
-        <li>[ ] 세무사: 1차() / 2차()</li>
-        <li>[ ] 변리사: 1차() / 2차()</li>
-      </ul>
+      <details>
+        <summary>ETC</summary>
+        <ul>
+          <li>[ ] 전기기사: 필기() / 실기()</li>
+          <li>[ ] 전산회계 2급: 필기() / 실기()</li>
+          <li>[ ] 전산회계 1급: 필기() / 실기()</li>
+          <li>[ ] 전산세무 2급: 필기() / 실기()</li>
+          <li>[ ] 전산세무 1급: 필기() / 실기()</li>
+          <li>[ ] 세무사: 1차() / 2차()</li>
+          <li>[ ] 변리사: 1차() / 2차()</li>
+        </ul>
+      </details>
     </div>
   </article>
 
