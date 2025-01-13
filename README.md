@@ -255,8 +255,8 @@
         </ul>
     </div>
     <div>
-      <h4>Programming</h4>
       <details>
+        <summary>Programming</summary>
         <ul>
           <li>[X] SW 코딩자격 1급<ins>(2021.06.11)</ins></li>
           <li>[X] PCCP_Python: <ins>Lv3_658점 (2024.11.09)</ins></li>
