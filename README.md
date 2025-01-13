@@ -243,8 +243,9 @@
     <h2>Certificate</h2>
     <div>
         <ul>
+          <li>PCCP_Python(Lv3)</li>
           <li>SQLD / 리눅스마스터 2급/ 정보처리기사</li>
-          <li>ADsP / 빅데이터분석기사</li>
+          <li>ADsP / 빅데이터분석기사</li>
           <li>TOEIC Speaking(IH)</li>
         </ul>
     </div>
@@ -277,7 +278,7 @@
           <li>[ ] SQLP()</li>
           <li>[ ] ADP()</li>
         </ul>
-      <details>
+      </details>
     </div>
     <div>
       <details>
