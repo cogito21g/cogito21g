@@ -242,6 +242,11 @@
   <article id="certificate">
     <h2>Certificate</h2>
     <div>
+      <summary>
+        <p>SQLD / ADsP / 리눅스마스터 2급 / 정보처리기사 / 빅데이터분석기사 / TOEIC Speaking(IH) </p>
+      </summary>
+    </div>
+    <div>
       <h4>Language</h4>
         <ul>
           <li>[ ] TOEIC: </li>
@@ -286,7 +291,7 @@
         <li>[ ] 전산세무 2급: 필기() / 실기()</li>
         <li>[ ] 전산세무 1급: 필기() / 실기()</li>
         <li>[ ] 세무사: 1차() / 2차()</li>
-        <li>[ ] 공인중개사: 1차() / 2차()</li>
+        <li>[ ] 변리사: 1차() / 2차()</li>
       </ul>
     </div>
   </article>
